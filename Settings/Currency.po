@@ -1,0 +1,595 @@
+#. extracted from fi_fi/Settings/Currency.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_NEW_CURRENCY'
+msgid "Add New Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_CONVERSION_RATE'
+msgid "Conversion Rate"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_CODE'
+msgid "Currency Code"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_NAME'
+msgid "Currency Name"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_STATUS_DESC'
+msgid "Enable checkbox to make currency Active"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_SYMBOL'
+msgid "Symbol"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_CURRENCY'
+msgid "Current Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_CURRENCY'
+msgid "Edit Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_CONVERSION_RATE'
+msgid "Enter Conversion Rate"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_CURRENCY'
+msgid "Transfer Currency"
+msgstr ""
+
+#. //currency names
+#: %24languageStrings-%3E%27Afghanistan%2C+Afghanis%27
+msgid "Afghanistan, Afghanis"
+msgstr ""
+
+#: %24languageStrings-%3E%27Albania%2C+Leke%27
+msgid "Albania, Leke"
+msgstr ""
+
+#: %24languageStrings-%3E%27Argentina%2C+Pesos%27
+msgid "Argentina, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Aruba%2C+Guilders%27
+msgid "Aruba, Guilders"
+msgstr ""
+
+#: %24languageStrings-%3E%27Australia%2C+Dollars%27
+msgid "Australia, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Azerbaijan%2C+New+Manats%27
+msgid "Azerbaijan, New Manats"
+msgstr ""
+
+#: %24languageStrings-%3E%27Bahamas%2C+Dollars%27
+msgid "Bahamas, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Bahrain%2C+Dinar%27
+msgid "Bahrain, Dinar"
+msgstr ""
+
+#: %24languageStrings-%3E%27Barbados%2C+Dollars%27
+msgid "Barbados, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Belarus%2C+Rubles%27
+msgid "Belarus, Rubles"
+msgstr ""
+
+#: %24languageStrings-%3E%27Belize%2C+Dollars%27
+msgid "Belize, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Bermuda%2C+Dollars%27
+msgid "Bermuda, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Bolivia%2C+Bolivianos%27
+msgid "Bolivia, Bolivianos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Botswana%2C+Pulas%27
+msgid "Botswana, Pulas"
+msgstr ""
+
+#: %24languageStrings-%3E%27Brazil%2C+Reais%27
+msgid "Brazil, Reais"
+msgstr ""
+
+#: %24languageStrings-%3E%27Brunei+Darussalam%2C+Dollars%27
+msgid "Brunei Darussalam, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Bulgaria%2C+Leva%27
+msgid "Bulgaria, Leva"
+msgstr ""
+
+#: %24languageStrings-%3E%27Cambodia%2C+Riels%27
+msgid "Cambodia, Riels"
+msgstr ""
+
+#: %24languageStrings-%3E%27Canada%2C+Dollars%27
+msgid "Canada, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Cayman+Islands%2C+Dollars%27
+msgid "Cayman Islands, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Chile%2C+Pesos%27
+msgid "Chile, Pesos"
+msgstr ""
+
+#. Duplicated key-value pair
+#: %24languageStrings-%3E%27China%2C+Yuan+Renminbi%27
+msgid "China, Yuan Renminbi"
+msgstr ""
+
+#: %24languageStrings-%3E%27Colombia%2C+Pesos%27
+msgid "Colombia, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Convertible+Marka%27
+msgid "Convertible Marka"
+msgstr ""
+
+#: %24languageStrings-%3E%27Costa+Rica%2C+Col%C3%B3n%27
+msgid "Costa Rica, Colón"
+msgstr ""
+
+#: %24languageStrings-%3E%27Croatia%2C+Kuna%27
+msgid "Croatia, Kuna"
+msgstr ""
+
+#: %24languageStrings-%3E%27Cuba%2C+Pesos%27
+msgid "Cuba, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Cyprus%2C+Pounds%27
+msgid "Cyprus, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Czech+Republic%2C+Koruny%27
+msgid "Czech Republic, Koruny"
+msgstr ""
+
+#: %24languageStrings-%3E%27Denmark%2C+Kroner%27
+msgid "Denmark, Kroner"
+msgstr ""
+
+#: %24languageStrings-%3E%27Dominican+Republic%2C+Pesos%27
+msgid "Dominican Republic, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27East+Caribbean%2C+Dollars%27
+msgid "East Caribbean, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Egypt%2C+Pounds%27
+msgid "Egypt, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27El+Salvador%2C+Col%C3%B3n%27
+msgid "El Salvador, Colón"
+msgstr ""
+
+#: %24languageStrings-%3E%27England%2C+Pounds%27
+msgid "England, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Estonia%2C+Krooni%27
+msgid "Estonia, Krooni"
+msgstr ""
+
+#: $languageStrings->'Euro'
+msgid "Euro"
+msgstr ""
+
+#: %24languageStrings-%3E%27Falkland+Islands%2C+Pounds%27
+msgid "Falkland Islands, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Fiji%2C+Dollars%27
+msgid "Fiji, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ghana%2C+Cedis%27
+msgid "Ghana, Cedis"
+msgstr ""
+
+#: %24languageStrings-%3E%27Gibraltar%2C+Pounds%27
+msgid "Gibraltar, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Great+Britain+Pounds%27
+msgid "Great Britain Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Guatemala%2C+Quetzales%27
+msgid "Guatemala, Quetzales"
+msgstr ""
+
+#: %24languageStrings-%3E%27Guernsey%2C+Pounds%27
+msgid "Guernsey, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Guyana%2C+Dollars%27
+msgid "Guyana, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Honduras%2C+Lempiras%27
+msgid "Honduras, Lempiras"
+msgstr ""
+
+#: %24languageStrings-%3E%27Hungary%2C+Forint%27
+msgid "Hungary, Forint"
+msgstr ""
+
+#: %24languageStrings-%3E%27Iceland%2C+Krona%27
+msgid "Iceland, Krona"
+msgstr ""
+
+#: %24languageStrings-%3E%27India%2C+Rupees%27
+msgid "India, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Indonesia%2C+Rupiahs%27
+msgid "Indonesia, Rupiahs"
+msgstr ""
+
+#: %24languageStrings-%3E%27Iran%2C+Rials%27
+msgid "Iran, Rials"
+msgstr ""
+
+#: %24languageStrings-%3E%27Isle+of+Man%2C+Pounds%27
+msgid "Isle of Man, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Israel%2C+New+Shekels%27
+msgid "Israel, New Shekels"
+msgstr ""
+
+#: %24languageStrings-%3E%27Jamaica%2C+Dollars%27
+msgid "Jamaica, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Japan%2C+Yen%27
+msgid "Japan, Yen"
+msgstr ""
+
+#: %24languageStrings-%3E%27Jersey%2C+Pounds%27
+msgid "Jersey, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Jordan%2C+Dinar%27
+msgid "Jordan, Dinar"
+msgstr ""
+
+#: %24languageStrings-%3E%27Kazakhstan%2C+Tenge%27
+msgid "Kazakhstan, Tenge"
+msgstr ""
+
+#: %24languageStrings-%3E%27Kenya%2C+Shilling%27
+msgid "Kenya, Shilling"
+msgstr ""
+
+#: %24languageStrings-%3E%27Korea+%28North%29%2C+Won%27
+msgid "Korea (North), Won"
+msgstr ""
+
+#: %24languageStrings-%3E%27Korea+%28South%29%2C+Won%27
+msgid "Korea (South), Won"
+msgstr ""
+
+#: %24languageStrings-%3E%27Kyrgyzstan%2C+Soms%27
+msgid "Kyrgyzstan, Soms"
+msgstr ""
+
+#: %24languageStrings-%3E%27Laos%2C+Kips%27
+msgid "Laos, Kips"
+msgstr ""
+
+#: %24languageStrings-%3E%27Latvia%2C+Lati%27
+msgid "Latvia, Lati"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lebanon%2C+Pounds%27
+msgid "Lebanon, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Liberia%2C+Dollars%27
+msgid "Liberia, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lithuania%2C+Litai%27
+msgid "Lithuania, Litai"
+msgstr ""
+
+#: %24languageStrings-%3E%27LvHong+Kong%2C+Dollars+%27
+msgid "LvHong Kong, Dollars "
+msgstr ""
+
+#: %24languageStrings-%3E%27Macedonia%2C+Denars%27
+msgid "Macedonia, Denars"
+msgstr ""
+
+#: %24languageStrings-%3E%27MADAGASCAR%2C+Malagasy+Ariary%27
+msgid "MADAGASCAR, Malagasy Ariary"
+msgstr ""
+
+#: %24languageStrings-%3E%27Malawi%2C+kwacha%27
+msgid "Malawi, kwacha"
+msgstr ""
+
+#: %24languageStrings-%3E%27Malaysia%2C+Ringgits%27
+msgid "Malaysia, Ringgits"
+msgstr ""
+
+#: %24languageStrings-%3E%27Malta%2C+Liri%27
+msgid "Malta, Liri"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mauritius%2C+Rupees%27
+msgid "Mauritius, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mexico%2C+Pesos%27
+msgid "Mexico, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mongolia%2C+Tugriks%27
+msgid "Mongolia, Tugriks"
+msgstr ""
+
+#: %24languageStrings-%3E%27Moroccan%2C+Dirham%27
+msgid "Moroccan, Dirham"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mozambique%2C+Meticais%27
+msgid "Mozambique, Meticais"
+msgstr ""
+
+#: %24languageStrings-%3E%27Namibia%2C+Dollars%27
+msgid "Namibia, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Nepal%2C+Rupees%27
+msgid "Nepal, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Netherlands+Antilles%2C+Guilders%27
+msgid "Netherlands Antilles, Guilders"
+msgstr ""
+
+#: %24languageStrings-%3E%27New+Zealand%2C+Dollars%27
+msgid "New Zealand, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Nicaragua%2C+Cordobas%27
+msgid "Nicaragua, Cordobas"
+msgstr ""
+
+#: %24languageStrings-%3E%27Nigeria%2C+Nairas%27
+msgid "Nigeria, Nairas"
+msgstr ""
+
+#: %24languageStrings-%3E%27North+Korea%2C+Won%27
+msgid "North Korea, Won"
+msgstr ""
+
+#: %24languageStrings-%3E%27Norway%2C+Krone%27
+msgid "Norway, Krone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Oman%2C+Rials%27
+msgid "Oman, Rials"
+msgstr ""
+
+#: %24languageStrings-%3E%27Pakistan%2C+Rupees%27
+msgid "Pakistan, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Panama%2C+Balboa%27
+msgid "Panama, Balboa"
+msgstr ""
+
+#: %24languageStrings-%3E%27Paraguay%2C+Guarani%27
+msgid "Paraguay, Guarani"
+msgstr ""
+
+#: %24languageStrings-%3E%27Peru%2C+Nuevos+Soles%27
+msgid "Peru, Nuevos Soles"
+msgstr ""
+
+#: %24languageStrings-%3E%27Philippines%2C+Pesos%27
+msgid "Philippines, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27Poland%2C+Zlotych%27
+msgid "Poland, Zlotych"
+msgstr ""
+
+#: %24languageStrings-%3E%27Qatar%2C+Rials%27
+msgid "Qatar, Rials"
+msgstr ""
+
+#: %24languageStrings-%3E%27Romania%2C+New+Lei%27
+msgid "Romania, New Lei"
+msgstr ""
+
+#: %24languageStrings-%3E%27Russia%2C+Rubles%27
+msgid "Russia, Rubles"
+msgstr ""
+
+#: %24languageStrings-%3E%27Saint+Helena%2C+Pounds%27
+msgid "Saint Helena, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Saudi+Arabia%2C+Riyals%27
+msgid "Saudi Arabia, Riyals"
+msgstr ""
+
+#: %24languageStrings-%3E%27Serbia%2C+Dinars%27
+msgid "Serbia, Dinars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Seychelles%2C+Rupees%27
+msgid "Seychelles, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Singapore%2C+Dollars%27
+msgid "Singapore, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Solomon+Islands%2C+Dollars%27
+msgid "Solomon Islands, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Somalia%2C+Shillings%27
+msgid "Somalia, Shillings"
+msgstr ""
+
+#: %24languageStrings-%3E%27South+Africa%2C+Rand%27
+msgid "South Africa, Rand"
+msgstr ""
+
+#: %24languageStrings-%3E%27South+Korea%2C+Won%27
+msgid "South Korea, Won"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sri+Lanka%2C+Rupees%27
+msgid "Sri Lanka, Rupees"
+msgstr ""
+
+#: %24languageStrings-%3E%27Suriname%2C+Dollars%27
+msgid "Suriname, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sweden%2C+Kronor%27
+msgid "Sweden, Kronor"
+msgstr ""
+
+#: %24languageStrings-%3E%27Switzerland+Francs%27
+msgid "Switzerland Francs"
+msgstr ""
+
+#: %24languageStrings-%3E%27Switzerland%2C+Francs%27
+msgid "Switzerland, Francs"
+msgstr ""
+
+#: %24languageStrings-%3E%27Syria%2C+Pounds%27
+msgid "Syria, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27Taiwan%2C+New+Dollars%27
+msgid "Taiwan, New Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Thailand%2C+Baht%27
+msgid "Thailand, Baht"
+msgstr ""
+
+#: %24languageStrings-%3E%27Trinidad+and+Tobago%2C+Dollars%27
+msgid "Trinidad and Tobago, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tunisian%2C+Dinar%27
+msgid "Tunisian, Dinar"
+msgstr ""
+
+#: %24languageStrings-%3E%27Turkey%2C+Liras%27
+msgid "Turkey, Liras"
+msgstr ""
+
+#: %24languageStrings-%3E%27Turkey%2C+New+Lira%27
+msgid "Turkey, New Lira"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tuvalu%2C+Dollars%27
+msgid "Tuvalu, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ukraine%2C+Hryvnia%27
+msgid "Ukraine, Hryvnia"
+msgstr ""
+
+#: %24languageStrings-%3E%27United+Arab+Emirates%2C+Dirham%27
+msgid "United Arab Emirates, Dirham"
+msgstr ""
+
+#: %24languageStrings-%3E%27United+Kingdom%2C+Pounds%27
+msgid "United Kingdom, Pounds"
+msgstr ""
+
+#: %24languageStrings-%3E%27United+Republic+of+Tanzania%2C+Shilling%27
+msgid "United Republic OF Tanzania, Shilling"
+msgstr ""
+
+#: %24languageStrings-%3E%27Uruguay%2C+Pesos%27
+msgid "Uruguay, Pesos"
+msgstr ""
+
+#: %24languageStrings-%3E%27USA%2C+Dollars%27
+msgid "USA, Dollars"
+msgstr ""
+
+#: %24languageStrings-%3E%27Uzbekistan%2C+Sums%27
+msgid "Uzbekistan, Sums"
+msgstr ""
+
+#: %24languageStrings-%3E%27Venezuela%2C+Bolivares+Fuertes%27
+msgid "Venezuela, Bolivares Fuertes"
+msgstr ""
+
+#: %24languageStrings-%3E%27Vietnam%2C+Dong%27
+msgid "Vietnam, Dong"
+msgstr ""
+
+#: %24languageStrings-%3E%27Yemen%2C+Rials%27
+msgid "Yemen, Rials"
+msgstr ""
+
+#: %24languageStrings-%3E%27Zambia%2C+Kwacha%27
+msgid "Zambia, Kwacha"
+msgstr ""
+
+#: %24languageStrings-%3E%27Zimbabwe+Dollars%27
+msgid "Zimbabwe Dollars"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CURRENCY_DELETED_SUEESSFULLY'
+msgid "Currency Deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CURRENCY_DETAILS_SAVED'
+msgid "Currency Details Saved"
+msgstr ""

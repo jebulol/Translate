@@ -1,0 +1,252 @@
+#. extracted from fi_fi/Google.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Address'
+msgid "Address"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contact+Name%27
+msgid "Contact Name"
+msgstr ""
+
+#: $languageStrings->'Description'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'Email'
+msgctxt "$languageStrings->'Email'"
+msgid "Email"
+msgstr ""
+
+#: %24languageStrings-%3E%27Event+Title%27
+msgid "Event Title"
+msgstr ""
+
+#: $languageStrings->'EXTENTIONNAME'
+msgid "Google"
+msgstr ""
+
+#: $languageStrings->'LBL_ADDED'
+msgid "Added"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETED'
+msgid "Deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_GOOGLE'
+msgid "There are more records to be synchronized in Google"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_VTIGER'
+msgid "There are more records to be synchronized in vtiger"
+msgstr ""
+
+#: $languageStrings->'LBL_NOT_SYNCRONIZED'
+msgctxt "$languageStrings->'LBL_NOT_SYNCRONIZED'"
+msgid "You have not synchronized yet"
+msgstr ""
+
+#: $languageStrings->'LBL_REMOVE_SYNC'
+msgid "Remove Sync"
+msgstr ""
+
+#: $languageStrings->'LBL_SYNC_BUTTON'
+msgctxt "$languageStrings->'LBL_SYNC_BUTTON'"
+msgid "Synchronize Now"
+msgstr ""
+
+#: $languageStrings->'LBL_SYNCRONIZED'
+msgid "Synchronized"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATED'
+msgid "Updated"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATES_CRM'
+msgid "Updates in CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATES_GOOGLE'
+msgid "Updates in Google"
+msgstr ""
+
+#: $languageStrings->'Map'
+msgid "Map"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mobile+Phone%27
+msgid "Mobile Phone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Start+Date%27
+msgid "Start Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Until+Date%27
+msgid "Until Date"
+msgstr ""
+
+#: $languageStrings->'SYNC_SETTINGS'
+msgid "Contacts Sync Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_GOOGLE_GROUP_TO_SYNC'
+msgid "Select Google Group"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CUSTOM_FIELD_MAPPING'
+msgid "Add Custom Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL'
+msgctxt "$languageStrings->'LBL_EMAIL'"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'LBL_PHONE'
+msgctxt "$languageStrings->'LBL_PHONE'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'LBL_URL'
+msgctxt "$languageStrings->'LBL_URL'"
+msgid "Url"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM'
+msgctxt "$languageStrings->'LBL_CUSTOM'"
+msgid "Custom"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_SYNC_DIRECTION'
+msgid "Select Sync Direction"
+msgstr ""
+
+#: $languageStrings->'LBL_BI_DIRECTIONAL_SYNC'
+msgid "Sync both ways"
+msgstr ""
+
+#: $languageStrings->'LBL_ONLY_SYNC_FROM_GOOGLE_TO_VTIGER'
+msgid "From Google to Vtiger only"
+msgstr ""
+
+#: $languageStrings->'LBL_ONLY_SYNC_FROM_VTIGER_TO_GOOGLE'
+msgid "From Vtiger to Google only"
+msgstr ""
+
+#: %24languageStrings-%3E%27Job+Title%27
+msgid "Title"
+msgstr ""
+
+#: $languageStrings->'Company'
+msgid "Company"
+msgstr ""
+
+#: $languageStrings->'Birthday'
+msgid "Birthday"
+msgstr ""
+
+#: $languageStrings->'Phone'
+msgctxt "$languageStrings->'Phone'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'URL'
+msgctxt "$languageStrings->'URL'"
+msgid "Url"
+msgstr ""
+
+#: $languageStrings->'phone'
+msgctxt "$languageStrings->'phone'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'email'
+msgctxt "$languageStrings->'email'"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'url'
+msgctxt "$languageStrings->'url'"
+msgid "Url"
+msgstr ""
+
+#: $languageStrings->'home'
+msgid "Home"
+msgstr ""
+
+#: $languageStrings->'work'
+msgid "Work"
+msgstr ""
+
+#: $languageStrings->'custom'
+msgctxt "$languageStrings->'custom'"
+msgid "Custom"
+msgstr ""
+
+#: $languageStrings->'mobile'
+msgid "Mobile"
+msgstr ""
+
+#: $languageStrings->'main'
+msgid "Main"
+msgstr ""
+
+#: $languageStrings->'work_fax'
+msgid "Fax"
+msgstr ""
+
+#: $languageStrings->'home_fax'
+msgid "Home Fax"
+msgstr ""
+
+#: $languageStrings->'pager'
+msgid "Pager"
+msgstr ""
+
+#: $languageStrings->'profile'
+msgid "Profile"
+msgstr ""
+
+#: $languageStrings->'blog'
+msgid "Blog"
+msgstr ""
+
+#: $languageStrings->'home-page'
+msgid "Homepage"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_NOT_SYNCRONIZE'
+msgctxt "$jsLanguageStrings->'LBL_NOT_SYNCRONIZE'"
+msgid "You have not synchronized yet"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_SYNC_BUTTON'
+msgctxt "$jsLanguageStrings->'LBL_SYNC_BUTTON'"
+msgid "Synchronize Now"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_SYNCRONIZING'
+msgid "Synchronizing...."
+msgstr ""

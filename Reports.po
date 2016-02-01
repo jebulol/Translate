@@ -1,0 +1,662 @@
+#. extracted from fi_fi/Reports.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: %24languageStrings-%3E%27Account+and+Contact+Reports%27
+msgid "Organization and Contact Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Accounts+Email+Report%27
+msgid "Organizations Email Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Activity+Reports%27
+msgid "Activity Reports"
+msgstr ""
+
+#. Added for Campaigns
+#: %24languageStrings-%3E%27Campaign+Expectations+and+Actuals%27
+msgid "Campaign Expectations and Actuals"
+msgstr ""
+
+#. Added for Campaigns
+#: %24languageStrings-%3E%27Campaign+Reports%27
+msgid "Campaign Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Closed+Potentials%27
+msgid "Closed Opportunities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+by+Accounts%27
+msgid "Contacts by Organizations"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+by+Potentials%27
+msgid "Contacts by Opportunities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+Email+Report%27
+msgid "Contacts Email Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+not+related+to+Accounts%27
+msgid "Contacts not related to Organizations"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+related+to+Accounts%27
+msgid "Contacts related to Organizations"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+related+to+Potentials%27
+msgid "Contacts related to Opportunities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacts+without+Accounts%27
+msgid "Contacts without Organizations"
+msgstr ""
+
+#: %24languageStrings-%3E%27Email+Reports%27
+msgid "Email Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Emails+sent+to+Contacts%27
+msgid "Emails sent to Contacts"
+msgstr ""
+
+#: %24languageStrings-%3E%27Emails+sent+to+Leads%27
+msgid "Emails sent to Leads"
+msgstr ""
+
+#: %24languageStrings-%3E%27Emails+sent+to+Organizations%27
+msgid "Emails sent to Organizations"
+msgstr ""
+
+#: %24languageStrings-%3E%27Emails+sent+to+Vendors%27
+msgid "Emails sent to Vendors"
+msgstr ""
+
+#: %24languageStrings-%3E%27HelpDesk+Reports%27
+msgid "Tickets Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+Detailed+Report%27
+msgid "Invoice Detailed Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+Reports%27
+msgid "Invoice Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Month+Activities%27
+msgid "Last Month Activities"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_FOLDER'
+msgid "Add Folder"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_NEW_FOLDER'
+msgid "Add New Folder"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Report"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_REPORTS'
+msgid "All Reports"
+msgstr ""
+
+#: $languageStrings->'LBL_ASCENDING'
+msgid "Ascending"
+msgstr ""
+
+#: $languageStrings->'LBL_AT_TIME'
+msgid "At Time"
+msgstr ""
+
+#: $languageStrings->'LBL_AVERAGE'
+msgid "Average"
+msgstr ""
+
+#: $languageStrings->'LBL_AVG'
+msgid "AVG"
+msgstr ""
+
+#: $languageStrings->'LBL_CALCULATION_CONVERSION_MESSAGE'
+msgid "Calculations are done using the base currency of your CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_CALCULATIONS'
+msgid "Calculations"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_DATE'
+msgid "Choose Date"
+msgstr ""
+
+#: $languageStrings->'LBL_COLUMNS'
+msgid "Columns"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATING_REPORT'
+msgid "Creating Report"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMIZE'
+msgid "Customize"
+msgstr ""
+
+#: $languageStrings->'LBL_DAILY'
+msgid "Daily"
+msgstr ""
+
+#: $languageStrings->'LBL_DENIED_REPORTS'
+msgid "Denied Reports"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCENDING'
+msgid "Descending"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATES_EXIST'
+msgid "Report Name already Exists"
+msgstr ""
+
+#: $languageStrings->'LBL_EDITING_REPORT'
+msgid "Editing Report"
+msgstr ""
+
+#: $languageStrings->'LBL_EXCEEDING_MAXIMUM_LIMIT'
+msgid "Maximum limit exceeded"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_NAMES'
+msgid "Field Names"
+msgstr ""
+
+#: $languageStrings->'LBL_FILTERS'
+msgid "Filters"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_CAN_NOT_BE_DELETED'
+msgid "This folder can not be deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_DESCRIPTION'
+msgid "Folder Description"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_NAME'
+msgid "Folder Name"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_NOT_EMPTY'
+msgid "Folder is not empty"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS'
+msgid "Folders"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS_LIST'
+msgid "Folders List"
+msgstr ""
+
+#: $languageStrings->'LBL_GENERATE_NOW'
+msgid "Generate now"
+msgstr ""
+
+#: $languageStrings->'LBL_GENERATE_REPORT'
+msgid "Generate Report"
+msgstr ""
+
+#: $languageStrings->'LBL_GROUP_BY'
+msgid "Group By"
+msgstr ""
+
+#: $languageStrings->'LBL_HIGHEST_VALUE'
+msgid "Highest Value"
+msgstr ""
+
+#: $languageStrings->'LBL_LIMIT_EXCEEDED'
+msgid ""
+"Only 1000 + records are displayed. Use CSV or Excel Export to see all the "
+"records"
+msgstr ""
+
+#: $languageStrings->'LBL_LOWEST_VALUE'
+msgid "Lowest Value"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX'
+msgid "MAX"
+msgstr ""
+
+#: $languageStrings->'LBL_MIN'
+msgid "MIN"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTHLY_BY_DATE'
+msgid "Monthly by Date"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_RECORDS_TXT'
+msgid "Only 1000 records are shown below. Please export to see all Records"
+msgstr ""
+
+#: $languageStrings->'LBL_MOVE_REPORT'
+msgid "Move Reports"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT'
+msgid "Next"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_TRIGGER_TIME'
+msgid "Next trigger time on"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_OF_RECORDS'
+msgid "Total records : "
+msgstr ""
+
+#: $languageStrings->'LBL_ON_THESE_DAYS'
+msgid "On these days"
+msgstr ""
+
+#: $languageStrings->'LBL_PRINT_REPORT'
+msgid "Print Report"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS'
+msgid "Records"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_CSV'
+msgid "Export CSV"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_DELETE_DENIED'
+msgid "Permission denied to delete the Report"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_DETAILS'
+msgid "Report Details"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_EXPORT_EXCEL'
+msgid "Export Excel"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_FOLDER'
+msgid "Report Folder"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_NAME'
+msgctxt "$languageStrings->'LBL_REPORT_NAME'"
+msgid "Report Name"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORT_PRINT'
+msgid "Print"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORTS_LIST'
+msgid "Reports list"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORTS'
+msgid "Reports List"
+msgstr ""
+
+#: $languageStrings->'LBL_RUN_REPORT'
+msgid "Run Report"
+msgstr ""
+
+#: $languageStrings->'LBL_SAME_LEVEL_ROLES'
+msgid "Same Level Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_SCHEDULE_REPORTS'
+msgid "Schedule Reports"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_COLUMNS'
+msgid "Select Columns"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECTED_DATES'
+msgid "Selected Dates"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MONTH_AND_DAY'
+msgid "Select Month and Date"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_RECIEPIENTS'
+msgid "Select Recipients"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_SELECT_RELATED_MODULES'
+msgid "Select Related Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_SORT_ORDER'
+msgid "Sort Order"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFIC_DATE'
+msgid "On Specific Date"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFIC_EMAIL_ADDRESS'
+msgid "Send to specific email"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBORDINATE_ROLES'
+msgid "Subordinate Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_SUM'
+msgid "SUM"
+msgstr ""
+
+#: $languageStrings->'LBL_SUM_VALUE'
+msgid "Sum"
+msgstr ""
+
+#: $languageStrings->'LBL_TOP'
+msgid "Top"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_DETAILS'
+msgid "View Details"
+msgstr ""
+
+#: $languageStrings->'LBL_WEEKLY'
+msgid "Weekly"
+msgstr ""
+
+#: $languageStrings->'LBL_WRITE_YOUR_DESCRIPTION_HERE'
+msgid "Enter Description"
+msgstr ""
+
+#: $languageStrings->'LBL_YEARLY'
+msgid "Yearly"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lead+by+Source%27
+msgid "Lead by Source"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lead+Reports%27
+msgid "Lead Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Leads+Email+Report%27
+msgid "Leads Email Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lead+Status+Report%27
+msgid "Lead Status Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Open+Quotes%27
+msgctxt "$languageStrings->'Open Quotes'"
+msgid "Open Quotes"
+msgstr ""
+
+#: %24languageStrings-%3E%27Open+Tickets%27
+msgctxt "$languageStrings->'Open Tickets'"
+msgid "Open Tickets"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potential+Pipeline%27
+msgid "Opportunity Pipeline"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potential+Reports%27
+msgid "Opportunity Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potential+that+have+Won%27
+msgid "Won Opportunities"
+msgstr ""
+
+#: $languageStrings->'PRIMARY_MODULE'
+msgid "Primary Module"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Detailed+Report%27
+msgid "Product Detailed Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Details%27
+msgid "Product Details"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Reports%27
+msgid "Product Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Products+by+Contacts%27
+msgid "Products by Contacts"
+msgstr ""
+
+#: %24languageStrings-%3E%27Products+related+to+Contacts%27
+msgid "Products related to Contacts"
+msgstr ""
+
+#: %24languageStrings-%3E%27PurchaseOrder+by+Contacts%27
+msgid "Purchase Order by Contacts"
+msgstr ""
+
+#: %24languageStrings-%3E%27PurchaseOrder+Detailed+Report%27
+msgid "Purchase Order Detailed Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27PurchaseOrder+related+to+Contacts%27
+msgid "Purchase Order Related to Contacts"
+msgstr ""
+
+#: %24languageStrings-%3E%27PurchaseOrder+Reports%27
+msgid "Purchase Order Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Quote+Reports%27
+msgid "Quote Reports"
+msgstr ""
+
+#: %24languageStrings-%3E%27Quotes+Detailed+Report%27
+msgid "Quotes Detailed Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27Quotes+that+are+Open%27
+msgctxt "$languageStrings->'Quotes that are Open'"
+msgid "Open Quotes"
+msgstr ""
+
+#: %24languageStrings-%3E%27Report+Name%27
+msgctxt "$languageStrings->'Report Name'"
+msgid "Report Name"
+msgstr ""
+
+#: $languageStrings->'Reports'
+msgid "Reports"
+msgstr ""
+
+#. Added for SO
+#: %24languageStrings-%3E%27SalesOrder+Detailed+Report%27
+msgid "Sales Order Detailed Report"
+msgstr ""
+
+#. Added for SO
+#: %24languageStrings-%3E%27SalesOrder+Reports%27
+msgid "Sales Order Reports"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Reports'
+msgid "Report"
+msgstr ""
+
+#: %24languageStrings-%3E%27This+Month+Activities%27
+msgid "This Month Activities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tickets+by+Priority%27
+msgid "Tickets by Priority"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tickets+by+Products%27
+msgid "Tickets by Products"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tickets+related+to+Products%27
+msgid "Tickets related to Products"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tickets+that+are+Open%27
+msgctxt "$languageStrings->'Tickets that are Open'"
+msgid "Open Tickets"
+msgstr ""
+
+#: %24languageStrings-%3E%27Vendors+Email+Report%27
+msgid "Vendors Email Report"
+msgstr ""
+
+#. //charts labels
+#: $languageStrings->'LBL_SELECT_CHART_TYPE'
+msgid "Select chart type"
+msgstr ""
+
+#: $languageStrings->'LBL_CLICK_THROUGH_NOT_AVAILABLE'
+msgid "Click through not available as you have selected more than one module"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_SUM_OF'
+msgid "Total Sum of %s"
+msgstr ""
+
+#: $languageStrings->'LBL_AVG_OF'
+msgid "Average of %s"
+msgstr ""
+
+#: $languageStrings->'LBL_MIN_OF'
+msgid "Minimum of %s"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_OF'
+msgid "Maximum of %s"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORD_COUNT'
+msgid "Record Count"
+msgstr ""
+
+#: $languageStrings->'LBL_PIE_CHART'
+msgid "Pie Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_VERTICAL_BAR_CHART'
+msgid "Vertical Bar Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_HORIZONTAL_BAR_CHART'
+msgid "Horizontal Bar Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_LINE_CHART'
+msgid "Line Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_CHART'
+msgid "Select Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATING_CHART_REPORT'
+msgid "Creating Chart Report"
+msgstr ""
+
+#: $languageStrings->'LBL_EDITING_CHART_REPORT'
+msgid "Editing Chart Report"
+msgstr ""
+
+#: $languageStrings->'LBL_GENERATE_CHART'
+msgid "Generate Chart"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_GROUP_BY_FIELD'
+msgid "Select Groupby Field"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_DATA_FIELD'
+msgid "Select Data Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_MODIFY_CONDITION'
+msgid "Modify Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_PLEASE_SELECT_ATLEAST_ONE_GROUP_FIELD_AND_DATA_FIELD'
+msgid "Please select at least one Groupby field and one Data field."
+msgstr ""
+
+#: $languageStrings->'LBL_FOR_BAR_GRAPH_AND_LINE_GRAPH_SELECT_3_MAX_DATA_FIELDS'
+msgid "For Bar and Line graph, you can select maximum of 3 Data fields."
+msgstr ""
+
+#: $languageStrings->'LBL_DETAIL_REPORT'
+msgid "Detail Report"
+msgstr ""
+
+#: $languageStrings->'LBL_PIVOT_REPORT'
+msgid "Pivot Report"
+msgstr ""
+
+#: $languageStrings->'LBL_CHARTS'
+msgid "Charts"
+msgstr ""
+
+#. //Schedule Reports - Mail Content
+#: $languageStrings->'LBL_AUTO_GENERATED_REPORT_EMAIL'
+msgid "This is an auto-generated email sent on behalf of a scheduled report."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLICATE_RECORD'
+msgid "Duplicate Report"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CALCULATION_LINE_ITEM_FIELDS_SELECTION_LIMITATION'
+msgid ""
+"Limitation: Line Item fields(List Price, Discount & Quantity) can only be "
+"used when other calculation fields are not selected."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_CHART_DATA_AVAILABLE'
+msgid "Data not available, please check the selected fields"
+msgstr ""

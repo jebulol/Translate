@@ -1,0 +1,113 @@
+#. extracted from fi_fi/Settings/Roles.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Role"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_USERS'
+msgid "All Users"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_EXISTING_PRIVILEGES'
+msgid "Assign priviliges from existing profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_NEW_PRIVILEGES'
+msgid "Assign privileges directly to Role"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_ROLE'
+msgid "Assign Role"
+msgstr ""
+
+#: $languageStrings->'LBL_CAN_ASSIGN_RECORDS_TO'
+msgid "Can Assign Records To"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_PROFILES'
+msgid "Choose profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE'
+msgid "Click to edit/Drag to move"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_PRIVILEGES_FROM'
+msgid "Copy privileges from"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_ROLE'
+msgid "Delete Role"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATES_EXIST'
+msgid "Duplicate Role Exists"
+msgstr ""
+
+#: $languageStrings->'LBL_NAME'
+msgid "Name"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIVILEGES'
+msgid "Privileges"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE'
+msgid "Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_REPORTS_TO'
+msgid "Reports To"
+msgstr ""
+
+#: $languageStrings->'LBL_TO_OTHER_ROLE'
+msgid "To other Role"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_OWNERSHIP'
+msgid "Transfer Ownership"
+msgstr ""
+
+#: $languageStrings->'LBL_USERS_WITH_LOWER_LEVEL'
+msgid "Users having Subordinate Role"
+msgstr ""
+
+#: $languageStrings->'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL'
+msgid "Users having Same Role or Subordinate Role"
+msgstr ""
+
+#: $languageStrings->'Roles'
+msgid "Roles"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Roles'
+msgid "Role"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_PERMISSIONS_TO_MOVE'
+msgid "No Permissions to Move"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PERMISSION_DENIED'
+msgid "Permissions Denied"
+msgstr ""

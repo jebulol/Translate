@@ -1,0 +1,125 @@
+#. extracted from fi_fi/Invoice.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'AutoCreated'
+msgid "AutoCreated"
+msgstr ""
+
+#: $languageStrings->'Cancel'
+msgid "Cancel"
+msgstr ""
+
+#: %24languageStrings-%3E%27Credit+Invoice%27
+msgid "Credit Invoice"
+msgstr ""
+
+#: %24languageStrings-%3E%27Customer+No%27
+msgid "Customer No"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+Date%27
+msgid "Invoice Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+No%27
+msgid "Invoice No"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTION'
+msgid "Action"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Invoice"
+msgstr ""
+
+#: $languageStrings->'LBL_BALANCE'
+msgid "Balance"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_TO_PDF'
+msgid "Export to PDF"
+msgstr ""
+
+#: $languageStrings->'LBL_INVOICE_INFORMATION'
+msgid "Invoice Details"
+msgstr ""
+
+#: $languageStrings->'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM'
+msgid "is deleted from the system.please remove or replace this item"
+msgstr ""
+
+#: $languageStrings->'LBL_NOT_A_BUNDLE'
+msgid "Not a Bundle"
+msgstr ""
+
+#: $languageStrings->'LBL_RECEIVED'
+msgid "Received"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Invoice List"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_MAIL_PDF'
+msgid "Send Email with PDF"
+msgstr ""
+
+#: $languageStrings->'LBL_SUB_PRODUCTS'
+msgid "Sub Products"
+msgstr ""
+
+#: $languageStrings->'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM'
+msgid "This line item is deleted from the system,please remove this line items"
+msgstr ""
+
+#: $languageStrings->'LBL_THIS'
+msgid "This"
+msgstr ""
+
+#: $languageStrings->'Paid'
+msgid "Paid"
+msgstr ""
+
+#: %24languageStrings-%3E%27Purchase+Order%27
+msgid "Purchase Order"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Commission%27
+msgid "Sales Commission"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Order%27
+msgid "Sales Order"
+msgstr ""
+
+#: $languageStrings->'Sent'
+msgid "Sent"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Invoice'
+msgid "Invoice"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED'
+msgid "Please remove line item that is deleted"
+msgstr ""

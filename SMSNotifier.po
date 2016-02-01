@@ -1,0 +1,72 @@
+#. extracted from fi_fi/SMSNotifier.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#. // Basic Strings
+#: $languageStrings->'LBL_SEND_SMS_TO_SELECTED_NUMBERS'
+msgid "Send SMS to the selected numbers"
+msgstr ""
+
+#: $languageStrings->'LBL_STEP_1'
+msgid "Step 1"
+msgstr ""
+
+#: $languageStrings->'LBL_STEP_2'
+msgid "Step 2"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND'
+msgid "Select the phone number fields to send"
+msgstr ""
+
+#: $languageStrings->'LBL_TYPE_THE_MESSAGE'
+msgid "Type the message"
+msgstr ""
+
+#: $languageStrings->'LBL_WRITE_YOUR_MESSAGE_HERE'
+msgid "write your message here"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MORE_FIELDS'
+msgid "Add more fields"
+msgstr ""
+
+#: $languageStrings->'LBL_SERVER_CONFIG'
+msgid "Server Configuration"
+msgstr ""
+
+#. //DetailView Actions
+#: $languageStrings->'LBL_CHECK_STATUS'
+msgid "Check Status"
+msgstr ""
+
+#: $languageStrings->'message'
+msgid "Message"
+msgstr ""
+
+#. //Blocks
+#: $languageStrings->'LBL_SMSNOTIFIER_INFORMATION'
+msgid "SMS Information"
+msgstr ""
+
+#: $languageStrings->'SINGLE_SMSNotifier'
+msgid "SMS Notifier"
+msgstr ""

@@ -1,0 +1,207 @@
+#. extracted from fi_fi/Documents.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Active'
+msgid "Active"
+msgstr ""
+
+#: %24languageStrings-%3E%27Document+No%27
+msgid "Document No"
+msgstr ""
+
+#: $languageStrings->'Documents'
+msgid "Documents"
+msgstr ""
+
+#: %24languageStrings-%3E%27Download+Count%27
+msgid "Download Count"
+msgstr ""
+
+#: %24languageStrings-%3E%27Download+Type%27
+msgid "Download Type"
+msgstr ""
+
+#: %24languageStrings-%3E%27File+Name%27
+msgid "File Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27File+Size%27
+msgid "File Size"
+msgstr ""
+
+#: %24languageStrings-%3E%27File+Type%27
+msgid "File Type"
+msgstr ""
+
+#: %24languageStrings-%3E%27Folder+Name%27
+msgctxt "$languageStrings->'Folder Name'"
+msgid "Folder Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Modified+By%27
+msgid "Last Modified By"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_FOLDER'
+msgid "Add Folder"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_NEW_FOLDER'
+msgid "Add New Folder"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Document"
+msgstr ""
+
+#: $languageStrings->'LBL_CHECK_FILE_INTEGRITY'
+msgid "Check file integrity"
+msgstr ""
+
+#: $languageStrings->'LBL_DENIED_DOCUMENTS'
+msgid "Denied Documents"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_DOCUMENTS_MOVED_SUCCESSFULLY'
+msgid "Documents Moved Successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_DOWNLOAD_FILE'
+msgid "Download File"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_FILE_AS_ATTACHMENT'
+msgid "Email file as attachment"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTERNAL'
+msgid "External"
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_AVAILABLE'
+msgid "File is available for download"
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_INFORMATION'
+msgid "File Details"
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_NOT_AVAILABLE'
+msgid "This Document is not available for Download"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_DESCRIPTION'
+msgid "Folder Description"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_HAS_DOCUMENTS'
+msgid "Please move documents from folder before deleting"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_NAME'
+msgctxt "$languageStrings->'LBL_FOLDER_NAME'"
+msgid "Folder Name"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS'
+msgid "Folders"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS_LIST'
+msgid "Folders List"
+msgstr ""
+
+#: $languageStrings->'LBL_INTERNAL'
+msgid "Internal"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_UPLOAD_SIZE'
+msgid "Maximum upload size"
+msgstr ""
+
+#: $languageStrings->'LBL_MOVE'
+msgid "Move"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTE_INFORMATION'
+msgid "Basic Information"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Documents List"
+msgstr ""
+
+#: $languageStrings->'MB'
+msgid "MB"
+msgstr ""
+
+#: $languageStrings->'Note'
+msgid "Note"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Documents'
+msgid "Document"
+msgstr ""
+
+#: $languageStrings->'Title'
+msgid "Title"
+msgstr ""
+
+#: $languageStrings->'Version'
+msgid "Version"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO'
+msgid "Are you sure you want to move the file(s) to"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FOLDER'
+msgid "folder"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FOLDER_IS_NOT_EMPTY'
+msgid "Folder is not empty"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MOVE_DOCUMENTS'
+msgid "Move Documents"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NEW_FOLDER'
+msgid "New Folder"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NOT_ALLOWED'
+msgid "are not allowed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_OPERATION_DENIED'
+msgid "Operation Denied"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SPECIAL_CHARACTERS'
+msgid "Special Characters like"
+msgstr ""

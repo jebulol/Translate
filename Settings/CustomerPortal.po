@@ -1,0 +1,80 @@
+#. extracted from fi_fi/Settings/CustomerPortal.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'CustomerPortal'
+msgid "Customer Portal"
+msgstr ""
+
+#: $languageStrings->'LBL_PORTAL_DESCRIPTION'
+msgid "Setup Privileges of Portal User"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIVILEGES'
+msgid "Privileges"
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_ASSIGNEE'
+msgid "Default Assignee"
+msgstr ""
+
+#: $languageStrings->'LBL_PORTAL_URL'
+msgid "Portal Url"
+msgstr ""
+
+#. //Fields
+#: $languageStrings->'LBL_MODULE_NAME'
+msgid "Module Name"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE_MODULE'
+msgid "Enable Module"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_ALL_RECORDS'
+msgid "See Records across Organization"
+msgstr ""
+
+#. //Messages
+#: $languageStrings->'LBL_PREVILEGES_MESSAGE'
+msgid "This Role's privileges will be applied to the Portal User."
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_ASSIGNEE_MESSAGE'
+msgid ""
+"Tickets will be Assigned to the selected Assignee by the default Group/User "
+"from the Customer Portal."
+msgstr ""
+
+#: $languageStrings->'LBL_PORTAL_URL_MESSAGE'
+msgid ""
+"This is URL for the Portal where your contacts can login to submit/track "
+"tickets, access knowledge base and do more. Contacts will be sent the login "
+"details when Portal access is enabled from Contact details page."
+msgstr ""
+
+#: $languageStrings->'LBL_DRAG_AND_DROP_MESSAGE'
+msgid "Drag and Drop modules to reorder in the Customer Portal"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PORTAL_INFO_SAVED'
+msgid "Customer Portal settings saved"
+msgstr ""

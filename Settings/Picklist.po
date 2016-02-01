@@ -1,0 +1,197 @@
+#. extracted from fi_fi/Settings/Picklist.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Calendar'
+msgid "To Do"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_ITEM_TO'
+msgid "Add Item to"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_VALUE'
+msgid "Add Value"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_ROLES'
+msgid "All Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_VALUES'
+msgid "All values"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_TO_ROLE'
+msgid "Assign to Role"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_VALUE'
+msgid "Assign Value"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_VALUES_TO_ROLES'
+msgid "Assign Values to Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_ROLES'
+msgid "Choose Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_PICKLIST_ITEMS'
+msgid "Delete PickList Items"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_VALUE'
+msgid "Delete Value"
+msgstr ""
+
+#: $languageStrings->'LBL_DRAG_ITEMS_TO_RESPOSITION'
+msgid "Drag items to reposition them"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE/DISABLE_MESSGAE'
+msgid "Click on value to Enable/Disable it.Once done, click on save"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_NEW_NAME'
+msgid "Enter new Name"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEMS_TO_DELETE'
+msgid "Items to Delete"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEMS'
+msgid "Values"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEM_TO_RENAME'
+msgid "Item to rename"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEM_VALUE'
+msgid "Item value"
+msgstr ""
+
+#: $languageStrings->'LBL_NON_EDITABLE_PICKLIST_VALUES'
+msgid "Non Editable Values"
+msgstr ""
+
+#: $languageStrings->'LBL_RENAME_PICKLIST_ITEM'
+msgid "Rename PickList Item"
+msgstr ""
+
+#: $languageStrings->'LBL_RENAME_VALUE'
+msgid "Rename Value"
+msgstr ""
+
+#: $languageStrings->'LBL_REPLACE_IT_WITH'
+msgid "Replace it with"
+msgstr ""
+
+#: $languageStrings->'LBL_ROLE_NAME'
+msgid "Role name"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_ORDER'
+msgid "Save Order"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_AN_ITEM_TO_RENAME_OR_DELETE'
+msgid "Select an item to rename or delete"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECTED_VALUES_MESSGAE'
+msgid "will appear for the user with this role"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECTED_VALUES'
+msgid "Selected Values"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_PICKLIST_IN'
+msgid "Select Picklist in"
+msgstr ""
+
+#: $languageStrings->'LBL_TO_DELETE_MULTIPLE_HOLD_CONTROL_KEY'
+msgid "To Delete multiple items hold Ctrl key down while selecting items"
+msgstr ""
+
+#: $languageStrings->'LBL_VALUES_ASSIGNED_TO_A_ROLE'
+msgid "Values assigned to a role"
+msgstr ""
+
+#: $languageStrings->'NO_PICKLIST_FIELDS'
+msgid "do not have any picklist fields"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ALL_ROLES_SELECTED'
+msgid "All Roles Selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEM_ADDED_SUCCESSFULLY'
+msgid "Item added Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEM_RENAMED_SUCCESSFULLY'
+msgid "Item Renamed Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEMS_DELETED_SUCCESSFULLY'
+msgid "Items Deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LIST_UPDATED_SUCCESSFULLY'
+msgid "List updated Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MORE_THAN_ONE_ITEM_SELECTED'
+msgid "More than one Item selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_ITEM_SELECTED'
+msgid "No item Selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NOT_ALLOWED'
+msgid "are not allowed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_MODULE'
+msgid "Please select module"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SEQUENCE_UPDATED_SUCCESSFULLY'
+msgid "Sequence updated successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SPECIAL_CHARACTERS'
+msgid "Special Characters like"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_VALUE_ASSIGNED_SUCCESSFULLY'
+msgid "Value assigned successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_YOU_CANNOT_DELETE_ALL_THE_VALUES'
+msgid "You cannot delete all the values"
+msgstr ""

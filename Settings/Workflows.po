@@ -1,0 +1,408 @@
+#. extracted from fi_fi/Settings/Workflows.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'ADD_CONDITIONS'
+msgid "Add Conditions"
+msgstr ""
+
+#: $languageStrings->'ADD_TASKS'
+msgid "Add Tasks"
+msgstr ""
+
+#: $languageStrings->'Calendar'
+msgid "To Do"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVE'
+msgid "Active"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_ADD_FIELD'
+msgid "Add Field"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_FIELDS'
+msgid "Add Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_TASKS_FOR_WORKFLOW'
+msgid "Add Task for Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_TIME'
+msgid "Add time"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNUAL_REVENUE'
+msgid "annual_revenue"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGNED_TO'
+msgid "Assigned to"
+msgstr ""
+
+#: $languageStrings->'LBL_CANNOT_DELETE_DEFAULT_WORKFLOW'
+msgid "You Cannot delete default Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATED_IN_OLD_LOOK_CANNOT_BE_EDITED'
+msgid ""
+"This workflow was created in older look. Conditions created in older look "
+"cannot be edited. You can choose to recreate the conditions, or use the "
+"existing conditions without changing them."
+msgstr ""
+
+#: $languageStrings->'LBL_CREATING_WORKFLOW'
+msgid "Creating WorkFlow"
+msgstr ""
+
+#: $languageStrings->'LBL_DUE_DATE'
+msgid "Due Date"
+msgstr ""
+
+#: $languageStrings->'LBL_EDITING_WORKFLOW'
+msgid "Editing Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE_REPEAT'
+msgid "Enable Repeat"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE_TO_CREATE_FILTERS'
+msgid "Enable to create Filters"
+msgstr ""
+
+#: $languageStrings->'LBL_END_DATE'
+msgid "End Date"
+msgstr ""
+
+#: $languageStrings->'LBL_END_TIME'
+msgid "End Time"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_BASIC_DETAILS_OF_THE_WORKFLOW'
+msgid "Enter basic details of the Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_EVENT_NAME'
+msgid "Event Name"
+msgstr ""
+
+#: $languageStrings->'LBL_EXAMPLE_EXPRESSION'
+msgctxt "$languageStrings->'LBL_EXAMPLE_EXPRESSION'"
+msgid "Expression"
+msgstr ""
+
+#: $languageStrings->'LBL_EXAMPLE_FIELD_NAME'
+msgctxt "$languageStrings->'LBL_EXAMPLE_FIELD_NAME'"
+msgid "Field"
+msgstr ""
+
+#: $languageStrings->'LBL_EXAMPLE_RAWTEXT'
+msgid "Rawtext"
+msgstr ""
+
+#: $languageStrings->'LBL_EXECUTE_TASK'
+msgid "Execute Task"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPRESSION_EXAMPLE2'
+msgid ""
+"if mailingcountry == 'India' then concat(firstname,' ',lastname) else "
+"concat(lastname,' ',firstname) end"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPRESSION'
+msgctxt "$languageStrings->'LBL_EXPRESSION'"
+msgid "Expression"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_NAME'
+msgctxt "$languageStrings->'LBL_FIELD_NAME'"
+msgid "Field"
+msgstr ""
+
+#: $languageStrings->'LBL_FINISH'
+msgid "Finish"
+msgstr ""
+
+#: $languageStrings->'LBL_IN_ACTIVE'
+msgid "Inactive"
+msgstr ""
+
+#: $languageStrings->'LBL_METHOD_NAME'
+msgid "Method Name"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULES_TO_CREATE_RECORD'
+msgid "Modules to create record"
+msgstr ""
+
+#: $languageStrings->'LBL_NEW'
+msgid "New"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT'
+msgid "Next"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_METHOD_IS_AVAILABLE_FOR_THIS_MODULE'
+msgid "No method is available for this module"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_TASKS_ADDED'
+msgid "No Task"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTIFY_OWNER'
+msgid "notify_owner"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIORITY'
+msgid "Priority"
+msgstr ""
+
+#: $languageStrings->'LBL_RAW_TEXT'
+msgid "Raw text"
+msgstr ""
+
+#: $languageStrings->'LBL_RECEPIENTS'
+msgid "Recepients"
+msgstr ""
+
+#: $languageStrings->'LBL_RECREATE_CONDITIONS'
+msgid "Recreate Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_AND_CONTINUE'
+msgid "Save & Continue"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_OPTIONS'
+msgid "Select Options"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_NOTIFICATION'
+msgid "Send Notification"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_FIELD_VALUES'
+msgid "Set Field Values"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_VALUE'
+msgid "Set Value"
+msgstr ""
+
+#: $languageStrings->'LBL_SMS_TEXT'
+msgid "Sms Text"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFY_WHEN_TO_EXECUTE'
+msgid "Specify when to execute this Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_START_DATE'
+msgid "Start Date"
+msgstr ""
+
+#: $languageStrings->'LBL_START_TIME'
+msgid "Start Time"
+msgstr ""
+
+#: $languageStrings->'LBL_STEP_1'
+msgid "Step 1"
+msgstr ""
+
+#: $languageStrings->'LBL_TASK_TITLE'
+msgid "Task Title"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_TASK_TYPE'
+msgid "Task type"
+msgstr ""
+
+#: $languageStrings->'LBL_THE_SAME_VALUE_IS_USED_FOR_START_DATE'
+msgid "The same value is used for the start date"
+msgstr ""
+
+#: $languageStrings->'LBL_TIME'
+msgid "Time"
+msgstr ""
+
+#: $languageStrings->'LBL_TITLE'
+msgid "Title"
+msgstr ""
+
+#: $languageStrings->'LBL_TYPE'
+msgid "Type"
+msgstr ""
+
+#: $languageStrings->'LBL_USE_EXISTING_CONDITIONS'
+msgid "Use existing conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_USE_FIELD'
+msgid "Use Field"
+msgstr ""
+
+#: $languageStrings->'LBL_USE_FUNCTION'
+msgid "Use Function"
+msgstr ""
+
+#: $languageStrings->'LBL_VTIGER'
+msgid "Vtiger"
+msgstr ""
+
+#: $languageStrings->'LBL_WORKFLOW'
+msgctxt "$languageStrings->'LBL_WORKFLOW'"
+msgid "Workflow"
+msgstr ""
+
+#: $languageStrings->'MANUAL'
+msgid "System"
+msgstr ""
+
+#: $languageStrings->'ONCE'
+msgid "Until the first time the condition is true"
+msgstr ""
+
+#: $languageStrings->'ON_EVERY_SAVE'
+msgid "Every time the record is saved"
+msgstr ""
+
+#: $languageStrings->'ON_FIRST_SAVE'
+msgid "Only on the first save"
+msgstr ""
+
+#: $languageStrings->'ON_MODIFY'
+msgid "Every time a record is modified"
+msgstr ""
+
+#: $languageStrings->'SCHEDULE_WORKFLOW'
+msgid "Schedule Workflow"
+msgstr ""
+
+#: $languageStrings->'ON_SCHEDULE'
+msgid "Schedule"
+msgstr ""
+
+#: $languageStrings->'LBL_RUN_WORKFLOW'
+msgid "Run Workflow"
+msgstr ""
+
+#: $languageStrings->'LBL_AT_TIME'
+msgid "At Time"
+msgstr ""
+
+#: $languageStrings->'LBL_HOURLY'
+msgid "Hourly"
+msgstr ""
+
+#: $languageStrings->'LBL_DAILY'
+msgid "Daily"
+msgstr ""
+
+#: $languageStrings->'LBL_WEEKLY'
+msgid "Weekly"
+msgstr ""
+
+#: $languageStrings->'LBL_ON_THESE_DAYS'
+msgid "On these days"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTHLY_BY_DATE'
+msgid "Monthly by Date"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTHLY_BY_WEEKDAY'
+msgid "Monthly by Weekday"
+msgstr ""
+
+#: $languageStrings->'LBL_YEARLY'
+msgid "Yearly"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFIC_DATE'
+msgid "On Specific Date"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_DATE'
+msgid "Choose Date"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MONTH_AND_DAY'
+msgid "Select Month and Date"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECTED_DATES'
+msgid "Selected Dates"
+msgstr ""
+
+#: $languageStrings->'LBL_EXCEEDING_MAXIMUM_LIMIT'
+msgid "Maximum limit exceeded"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_TRIGGER_TIME'
+msgid "Next trigger time on"
+msgstr ""
+
+#: $languageStrings->'LBL_MESSAGE'
+msgid "Message"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: $languageStrings->'Workflows'
+msgctxt "$languageStrings->'Workflows'"
+msgid "Workflow"
+msgstr ""
+
+#. //Field names
+#: $languageStrings->'Summary'
+msgid "Summary"
+msgstr ""
+
+#: $languageStrings->'Module'
+msgid "Module"
+msgstr ""
+
+#: %24languageStrings-%3E%27Execution+Condition%27
+msgid "Execution Condition"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE'
+msgid "Same fields selected more than once"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_STATUS_CHANGED_SUCCESSFULLY'
+msgid "Status changed Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TASK_DELETED_SUCCESSFULLY'
+msgid "Task deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_WORKFLOW_SAVED_SUCCESSFULLY'
+msgid "Workflow saved successfully"
+msgstr ""

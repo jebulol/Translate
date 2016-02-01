@@ -1,0 +1,178 @@
+#. extracted from fi_fi/SalesOrder.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'AutoCreated'
+msgid "Auto Created"
+msgstr ""
+
+#: %24languageStrings-%3E%27Credit+Invoice%27
+msgid "Credit Invoice"
+msgstr ""
+
+#: %24languageStrings-%3E%27Customer+No%27
+msgid "Customer No"
+msgstr ""
+
+#: %24languageStrings-%3E%27Enable+Recurring%27
+msgid "Enable Recurring"
+msgstr ""
+
+#: %24languageStrings-%3E%27End+Period%27
+msgid "End Period"
+msgstr ""
+
+#: $languageStrings->'Frequency'
+msgid "Frequency"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+Status%27
+msgid "Invoice Status"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Sales Order"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_TO_PDF'
+msgid "Export to PDF"
+msgstr ""
+
+#: $languageStrings->'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM'
+msgid "is deleted from the system.please remove or replace this item"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Sales Order List"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_MAIL_PDF'
+msgid "Send Email with PDF"
+msgstr ""
+
+#: $languageStrings->'LBL_SO_INFORMATION'
+msgid "Sales Order Details"
+msgstr ""
+
+#: $languageStrings->'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM'
+msgid "This line item is deleted from the system,please remove this line items"
+msgstr ""
+
+#: $languageStrings->'LBL_THIS'
+msgid "This"
+msgstr ""
+
+#: $languageStrings->'Paid'
+msgid "Paid"
+msgstr ""
+
+#: %24languageStrings-%3E%27Payment+Duration%27
+msgid "Payment Duration"
+msgstr ""
+
+#: $languageStrings->'Pending'
+msgid "Pending"
+msgstr ""
+
+#: %24languageStrings-%3E%27Purchase+Order%27
+msgid "Purchase Order"
+msgstr ""
+
+#: %24languageStrings-%3E%27Quote+Name%27
+msgid "Quote Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Requisition+No%27
+msgid "Requisition No"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Commission%27
+msgid "Sales Commission"
+msgstr ""
+
+#: %24languageStrings-%3E%27SalesOrder+No%27
+msgid "Sales Order Number"
+msgstr ""
+
+#: $languageStrings->'Sent'
+msgid "Sent"
+msgstr ""
+
+#: $languageStrings->'SINGLE_SalesOrder'
+msgid "Sales Order"
+msgstr ""
+
+#: %24languageStrings-%3E%27Start+Period%27
+msgid "Start Period"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sub+Total%27
+msgid "Sub Total"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tracking+Number%27
+msgid "Tracking Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Vendor+Terms%27
+msgid "Vendor Terms"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: %24languageStrings-%3E%27Recurring+Invoice+Information%27
+msgid "Recurring Invoice Information"
+msgstr ""
+
+#: $languageStrings->'Daily'
+msgid "Daily"
+msgstr ""
+
+#: $languageStrings->'Weekly'
+msgid "Weekly"
+msgstr ""
+
+#: $languageStrings->'Monthly'
+msgid "Monthly"
+msgstr ""
+
+#: $languageStrings->'Quarterly'
+msgid "Quarterly"
+msgstr ""
+
+#: $languageStrings->'Yearly'
+msgid "Yearly"
+msgstr ""
+
+#: %24languageStrings-%3E%27Net+30+days%27
+msgid "Net 30 days"
+msgstr ""
+
+#: %24languageStrings-%3E%27Net+45+days%27
+msgid "Net 45 days"
+msgstr ""
+
+#: %24languageStrings-%3E%27Net+60+days%27
+msgid "Net 60 days"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED'
+msgid "Please remove line item that is deleted"
+msgstr ""

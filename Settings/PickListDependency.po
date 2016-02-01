@@ -1,0 +1,131 @@
+#. extracted from fi_fi/Settings/PickListDependency.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Picklist Dependency"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIGURE_DEPENDENCY_HELP_1'
+msgid ""
+"Only mapped picklist values of the Source field will be shown below (except "
+"for first time)"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIGURE_DEPENDENCY_HELP_2'
+msgid ""
+"If you want to see or change the mapping for the other picklist values of "
+"Source field, <br/>then you can select the values by clicking on <b>'Select "
+"Source values'</b> button on the right side"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIGURE_DEPENDENCY_HELP_3'
+msgid "Selected values of the Target field values, are highlighted as"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIGURE_DEPENDENCY_INFO'
+msgid ""
+"Click on the respective cell to change the mapping for picklist values of "
+"target field"
+msgstr ""
+
+#: $languageStrings->'LBL_ERR_CYCLIC_DEPENDENCY'
+msgid ""
+"This dependency setup is not allowed as it ends up in some cyclic dependency"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_DEPENDENCY'
+msgctxt "$languageStrings->'LBL_PICKLIST_DEPENDENCY'"
+msgid "Picklist Dependency"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FIELD'
+msgid "Select field"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MODULE'
+msgctxt "$languageStrings->'LBL_SELECT_MODULE'"
+msgid "Module"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_SOURCE_PICKLIST_VALUES'
+msgid "Select Source Picklist Values"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_SOURCE_VALUES'
+msgid "Select Source Values"
+msgstr ""
+
+#: $languageStrings->'LBL_SOURCE_FIELD'
+msgctxt "$languageStrings->'LBL_SOURCE_FIELD'"
+msgid "Source Field"
+msgstr ""
+
+#: $languageStrings->'LBL_TARGET_FIELD'
+msgctxt "$languageStrings->'LBL_TARGET_FIELD'"
+msgid "Target Field"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: $languageStrings->'PickListDependency'
+msgctxt "$languageStrings->'PickListDependency'"
+msgid "Picklist Dependency"
+msgstr ""
+
+#. //Field names
+#: $languageStrings->'Module'
+msgctxt "$languageStrings->'Module'"
+msgid "Module"
+msgstr ""
+
+#: %24languageStrings-%3E%27Source+Field%27
+msgctxt "$languageStrings->'Source Field'"
+msgid "Source Field"
+msgstr ""
+
+#: %24languageStrings-%3E%27Target+Field%27
+msgctxt "$languageStrings->'Target Field'"
+msgid "Target Field"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DEPENDENCY_ATLEAST_ONE_VALUE'
+msgid "You need to select at least one value for"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DEPENDENCY_DELETED_SUEESSFULLY'
+msgid "Dependency deleted successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE'
+msgid "Are you sure you want to delete this picklist dependency?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PICKLIST_DEPENDENCY_SAVED'
+msgid "Picklist Dependency Saved"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_SOME_VALUE'
+msgid "Select some value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME'
+msgid "Source field and Target field should not be same"
+msgstr ""

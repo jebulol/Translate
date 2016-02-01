@@ -1,0 +1,85 @@
+#. extracted from fi_fi/Faq.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Answer'
+msgid "Answer"
+msgstr ""
+
+#: $languageStrings->'Comments'
+msgctxt "$languageStrings->'Comments'"
+msgid "Comments"
+msgstr ""
+
+#: $languageStrings->'Draft'
+msgid "Draft"
+msgstr ""
+
+#: $languageStrings->'Faq'
+msgctxt "$languageStrings->'Faq'"
+msgid "FAQ"
+msgstr ""
+
+#: %24languageStrings-%3E%27Faq+No%27
+msgid "Faq Number"
+msgstr ""
+
+#: $languageStrings->'General'
+msgid "General"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add FAQ"
+msgstr ""
+
+#: $languageStrings->'LBL_COMMENT_INFORMATION'
+msgctxt "$languageStrings->'LBL_COMMENT_INFORMATION'"
+msgid "Comments"
+msgstr ""
+
+#: $languageStrings->'LBL_FAQ_INFORMATION'
+msgid "FAQ Information"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "FAQs List"
+msgstr ""
+
+#: $languageStrings->'LBL_SOLUTION'
+msgid "Solution"
+msgstr ""
+
+#: $languageStrings->'Obsolete'
+msgid "Obsolete"
+msgstr ""
+
+#: $languageStrings->'Published'
+msgid "Published"
+msgstr ""
+
+#: $languageStrings->'Question'
+msgid "Question"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Faq'
+msgctxt "$languageStrings->'SINGLE_Faq'"
+msgid "FAQ"
+msgstr ""

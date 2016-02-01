@@ -1,0 +1,265 @@
+#. extracted from fi_fi/Import.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_IMPORT_STEP_1'
+msgid "Step 1"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_1_DESCRIPTION'
+msgid "Select File"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_SUPPORTED_FILE_TYPES'
+msgid "\tSupported File Type(s): .CSV, .VCF"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_2'
+msgid "Step 2"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_2_DESCRIPTION'
+msgid "Specify Format"
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_TYPE'
+msgid "File Type"
+msgstr ""
+
+#: $languageStrings->'LBL_CHARACTER_ENCODING'
+msgid "Character Encoding"
+msgstr ""
+
+#: $languageStrings->'LBL_DELIMITER'
+msgid "Delimiter"
+msgstr ""
+
+#: $languageStrings->'LBL_HAS_HEADER'
+msgid "Has Header"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_3'
+msgid "Step 3"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_3_DESCRIPTION'
+msgid "Duplicate Record Handling"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_3_DESCRIPTION_DETAILED'
+msgid "Select this option to enable and set duplicate merge criteria"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFY_MERGE_TYPE'
+msgid "Select how duplicate records should be handled"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MERGE_FIELDS'
+msgid "Select the matching fields to find duplicate records"
+msgstr ""
+
+#: $languageStrings->'LBL_AVAILABLE_FIELDS'
+msgid "Available Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECTED_FIELDS'
+msgid "Fields to be matched on"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_BUTTON_LABEL'
+msgid "Next"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_4'
+msgid "Step 4"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_STEP_4_DESCRIPTION'
+msgid "Map the Columns to Module Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_COLUMN_HEADER'
+msgid "Header"
+msgstr ""
+
+#: $languageStrings->'LBL_ROW_1'
+msgid "Row 1"
+msgstr ""
+
+#: $languageStrings->'LBL_CRM_FIELDS'
+msgid "CRM Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_VALUE'
+msgid "Default Value"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_AS_CUSTOM_MAPPING'
+msgid "Save as Custom Mapping "
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_BUTTON_LABEL'
+msgid "Import"
+msgstr ""
+
+#: $languageStrings->'LBL_RESULT'
+msgid "Result"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_RECORDS_IMPORTED'
+msgid "Records successfully imported"
+msgstr ""
+
+#: $languageStrings->'LBL_NUMBER_OF_RECORDS_CREATED'
+msgid "Records created"
+msgstr ""
+
+#: $languageStrings->'LBL_NUMBER_OF_RECORDS_UPDATED'
+msgid "Records overwritten"
+msgstr ""
+
+#: $languageStrings->'LBL_NUMBER_OF_RECORDS_SKIPPED'
+msgid "Records skipped"
+msgstr ""
+
+#: $languageStrings->'LBL_NUMBER_OF_RECORDS_MERGED'
+msgid "Records merged"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_RECORDS_FAILED'
+msgid "Records failed importing"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_MORE'
+msgid "Import More"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_LAST_IMPORTED_RECORDS'
+msgid "Last Imported Records"
+msgstr ""
+
+#: $languageStrings->'LBL_UNDO_LAST_IMPORT'
+msgid "Undo Last Import"
+msgstr ""
+
+#: $languageStrings->'LBL_FINISH_BUTTON_LABEL'
+msgid "Finish"
+msgstr ""
+
+#: $languageStrings->'LBL_UNDO_RESULT'
+msgid "Undo Import Result"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_RECORDS'
+msgid "Total Number of Records"
+msgstr ""
+
+#: $languageStrings->'LBL_NUMBER_OF_RECORDS_DELETED'
+msgid "Number of records deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_OK_BUTTON_LABEL'
+msgid "Ok"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_SCHEDULED'
+msgid "Import Scheduled"
+msgstr ""
+
+#: $languageStrings->'LBL_RUNNING'
+msgid "Running"
+msgstr ""
+
+#: $languageStrings->'LBL_CANCEL_IMPORT'
+msgid "Cancel Import"
+msgstr ""
+
+#: $languageStrings->'LBL_ERROR'
+msgid "Error"
+msgstr ""
+
+#: $languageStrings->'LBL_CLEAR_DATA'
+msgid "Clear Data"
+msgstr ""
+
+#: $languageStrings->'ERR_UNIMPORTED_RECORDS_EXIST'
+msgid "Unable to import more data in this batch. Please start a new import."
+msgstr ""
+
+#: $languageStrings->'ERR_IMPORT_INTERRUPTED'
+msgid "Current Import has been interrupted. Please try again later"
+msgstr ""
+
+#: $languageStrings->'ERR_FAILED_TO_LOCK_MODULE'
+msgid "Failed to lock the module for import. Re-try again later"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_SAVED_MAPPING'
+msgid "Select Saved Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_ERROR_LARGE_FILE'
+msgid "Import Error Large file "
+msgstr ""
+
+#: $languageStrings->'LBL_FILE_UPLOAD_FAILED'
+msgid "File Upload Failed"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_CHANGE_UPLOAD_SIZE'
+msgid "Import Change Upload Size"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_DIRECTORY_NOT_WRITABLE'
+msgid "Import Directory is not writable"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_FILE_COPY_FAILED'
+msgid "Import File copy failed"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_FILE'
+msgid "Invalid File"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_ROWS_FOUND'
+msgid "No rows found"
+msgstr ""
+
+#: $languageStrings->'LBL_SCHEDULED_IMPORT_DETAILS'
+msgid ""
+"Your import has been scheduled and will start within 15 minutes. You will "
+"receive an email after import is completed.  <br> <br>\r\n"
+"\t\t\t\t\t\t\t\t\t\tPlease make sure that the Outgoing server and your email address "
+"is configured to receive email notification"
+msgstr ""
+
+#: $languageStrings->'LBL_DETAILS'
+msgid "Details"
+msgstr ""
+
+#: $languageStrings->'skipped'
+msgid "Skipped Records"
+msgstr ""
+
+#: $languageStrings->'failed'
+msgid "Failed Records"
+msgstr ""

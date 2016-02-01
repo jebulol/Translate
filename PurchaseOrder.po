@@ -1,0 +1,117 @@
+#. extracted from fi_fi/PurchaseOrder.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#. //DetailView Actions
+#: $languageStrings->'SINGLE_PurchaseOrder'
+msgid "Purchase Order"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_TO_PDF'
+msgid "Export to PDF"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_MAIL_PDF'
+msgid "Send Email with PDF"
+msgstr ""
+
+#. //Basic strings
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Purchase Order"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Purchase Order List"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_SHIPPING_ADDRESS'
+msgid "Copy Shipping Address"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_BILLING_ADDRESS'
+msgid "Copy Billing Address"
+msgstr ""
+
+#. // Blocks
+#: $languageStrings->'LBL_PO_INFORMATION'
+msgid "Purchase Order Details"
+msgstr ""
+
+#. //Field Labels
+#: %24languageStrings-%3E%27PurchaseOrder+No%27
+msgid "Purchase Order Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Requisition+No%27
+msgid "Requisition Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tracking+Number%27
+msgid "Tracking Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Commission%27
+msgid "Sales Commission"
+msgstr ""
+
+#: $languageStrings->'LBL_PAID'
+msgid "Paid"
+msgstr ""
+
+#: $languageStrings->'LBL_BALANCE'
+msgid "Balance"
+msgstr ""
+
+#. //Added for existing Picklist Entries
+#: %24languageStrings-%3E%27Received+Shipment%27
+msgid "Received Shipment"
+msgstr ""
+
+#. //Translation for product not found
+#: $languageStrings->'LBL_THIS'
+msgid "This"
+msgstr ""
+
+#: $languageStrings->'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM'
+msgid "is deleted from the system.please remove or replace this item"
+msgstr ""
+
+#: $languageStrings->'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM'
+msgid "This line item is deleted from the system,please remove this line items"
+msgstr ""
+
+#: $languageStrings->'LBL_LIST_PRICE'
+msgctxt "$languageStrings->'LBL_LIST_PRICE'"
+msgid "List Price"
+msgstr ""
+
+#: %24languageStrings-%3E%27List+Price%27
+msgctxt "$languageStrings->'List Price'"
+msgid "List Price"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_COMPANY_ADDRESS'
+msgid "Copy Company Address"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED'
+msgid "Please remove line item that is deleted"
+msgstr ""

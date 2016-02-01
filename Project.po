@@ -1,0 +1,145 @@
+#. extracted from fi_fi/Project.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: %24languageStrings-%3E%27Actual+End+Date%27
+msgid "Actual End Date"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Project"
+msgstr ""
+
+#: $languageStrings->'LBL_CHARTS'
+msgid "Charts"
+msgstr ""
+
+#: $languageStrings->'LBL_DOWNLOAD_FILE'
+msgid "Download File"
+msgstr ""
+
+#: $languageStrings->'LBL_MILESTONES_LIST'
+msgid "Milestones List"
+msgstr ""
+
+#: $languageStrings->'LBL_MILESTONES'
+msgid "Milestones"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE'
+msgid "more"
+msgstr ""
+
+#: $languageStrings->'LBL_PEOPLE'
+msgid "People"
+msgstr ""
+
+#: $languageStrings->'LBL_PROJECT_INFORMATION'
+msgid "Project Details"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Projects List"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_PROGRESS'
+msgid "Select Progress"
+msgstr ""
+
+#: $languageStrings->'LBL_STATUS_IS'
+msgid "Status is"
+msgstr ""
+
+#: $languageStrings->'LBL_STATUS'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_COMPLETED'
+msgid "Tasks Completed"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_DUE'
+msgid "Tasks Due"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_HIGH'
+msgid "High Priority"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_LIST'
+msgid "Tasks List"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_LOW'
+msgid "Low Priority"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_NORMAL'
+msgid "Normal Priority"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_OPEN'
+msgid "Tasks Open"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_OTHER'
+msgid "Other Priorities"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS'
+msgid "Tasks"
+msgstr ""
+
+#: $languageStrings->'LBL_TICKET_PRIORITY'
+msgid "Priority"
+msgstr ""
+
+#: $languageStrings->'Progress'
+msgid "Progress"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Name%27
+msgid "Project Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+No%27
+msgid "Project Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Url%27
+msgid "Project Url"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Project'
+msgid "Project"
+msgstr ""
+
+#: %24languageStrings-%3E%27Start+Date%27
+msgid "Start Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Target+Budget%27
+msgid "Target Budget"
+msgstr ""
+
+#: %24languageStrings-%3E%27Target+End+Date%27
+msgid "Target End Date"
+msgstr ""

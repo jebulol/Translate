@@ -1,0 +1,77 @@
+#. extracted from fi_fi/Settings/PBXManager.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /* +***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  * *********************************************************************************** */
+#: $languageStrings->'LBL_SELECT_ONE'
+msgid "Select"
+msgstr ""
+
+#: $languageStrings->'LBL_PBXMANAGER'
+msgid "PBXManager"
+msgstr ""
+
+#: $languageStrings->'LBL_PBXMANAGER_CONFIG'
+msgid "Asterisk Server Details"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTE'
+msgid "Note:"
+msgstr ""
+
+#: $languageStrings->'LBL_INFO_WEBAPP_URL'
+msgid "Configure your Asterisk App URL in the  format"
+msgstr ""
+
+#: $languageStrings->'LBL_FORMAT_WEBAPP_URL'
+msgid "(protocol)://(asterisk_ip):(VtigerConnector_port)"
+msgstr ""
+
+#: $languageStrings->'LBL_FORMAT_INFO_WEBAPP_URL'
+msgid "ex:http://0.0.0.0:5000"
+msgstr ""
+
+#: $languageStrings->'LBL_INFO_CONTEXT'
+msgid ""
+"Vtiger Spezifischer Kontext in Ihrer Asterisk-Server konfiguriert "
+"(extensions.conf)"
+msgstr ""
+
+#: $languageStrings->'LBL_PBXMANAGER_INFO'
+msgid ""
+"Configure Asterisk Server Details after Installing Vtiger Asterisk Connector "
+"in your Asterisk Server"
+msgstr ""
+
+#: $languageStrings->'webappurl'
+msgid "Vtiger Asterisk App URL"
+msgstr ""
+
+#: $languageStrings->'vtigersecretkey'
+msgid "Vtiger Secret Key"
+msgstr ""
+
+#: $languageStrings->'outboundcontext'
+msgid "Outbound Context"
+msgstr ""
+
+#: $languageStrings->'outboundtrunk'
+msgid "Outbound Trunk"
+msgstr ""

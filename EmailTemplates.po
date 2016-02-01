@@ -1,0 +1,63 @@
+#. extracted from fi_fi/EmailTemplates.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Email Template"
+msgstr ""
+
+#: $languageStrings->'SINGLE_EmailTemplates'
+msgctxt "$languageStrings->'SINGLE_EmailTemplates'"
+msgid "Email Template"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_TEMPLATES'
+msgid "Email Templates"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_TEMPLATE'
+msgctxt "$languageStrings->'LBL_EMAIL_TEMPLATE'"
+msgid "Email Template"
+msgstr ""
+
+#: $languageStrings->'LBL_TEMPLATE_NAME'
+msgid "Template name"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT'
+msgid "Subject"
+msgstr ""
+
+#: $languageStrings->'LBL_GENERAL_FIELDS'
+msgid "General Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FIELD_TYPE'
+msgid "Select Field Type"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_TEMPLATE_DESCRIPTION'
+msgid "Manage templates for E-Mail module"
+msgstr ""

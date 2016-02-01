@@ -1,0 +1,304 @@
+#. extracted from fi_fi/Events.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#. /* NOTE: Should be inline with Calendar language translation but few variations */
+#: %24languageStrings-%3E%27Activity+Type%27
+msgid "Activity Type"
+msgstr ""
+
+#: $languageStrings->'Busy'
+msgid "Busy"
+msgstr ""
+
+#: $languageStrings->'Call'
+msgid "Call"
+msgstr ""
+
+#: $languageStrings->'Daily'
+msgctxt "$languageStrings->'Daily'"
+msgid "Day(s)"
+msgstr ""
+
+#: %24languageStrings-%3E%27End+Date+%26+Time%27
+msgctxt "$languageStrings->'End Date & Time'"
+msgid "End Date & Time"
+msgstr ""
+
+#: $languageStrings->'Events'
+msgctxt "$languageStrings->'Events'"
+msgid "Events"
+msgstr ""
+
+#: $languageStrings->'Held'
+msgid "Held"
+msgstr ""
+
+#: $languageStrings->'INVITATION'
+msgid " Invitation "
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Event"
+msgstr ""
+
+#: $languageStrings->'LBL_CALENDAR_VIEW'
+msgid "Calendar View"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_FOLLOWUP_EVENT'
+msgid "Create Follow Up Event"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY0'
+msgid "Sunday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY1'
+msgid "Monday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY2'
+msgid "Tuesday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY3'
+msgid "Wednesday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY4'
+msgid "Thursday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY5'
+msgid "Friday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY6'
+msgid "Saturday"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY_OF_THE_MONTH'
+msgid "day of the month"
+msgstr ""
+
+#: $languageStrings->'LBL_DAYS'
+msgid "Days"
+msgstr ""
+
+#: $languageStrings->'LBL_DAYS_TYPE'
+msgctxt "$languageStrings->'LBL_DAYS_TYPE'"
+msgid "Day(s)"
+msgstr ""
+
+#: $languageStrings->'LBL_EVENT_INFORMATION'
+msgid "Event Details"
+msgstr ""
+
+#: $languageStrings->'LBL_EVENTS'
+msgctxt "$languageStrings->'LBL_EVENTS'"
+msgid "Events"
+msgstr ""
+
+#: $languageStrings->'LBL_FIRST'
+msgid "First"
+msgstr ""
+
+#: $languageStrings->'LBL_HOLD_FOLLOWUP_ON'
+msgid "Hold Followup on"
+msgstr ""
+
+#: $languageStrings->'LBL_HOURS'
+msgid "Hours"
+msgstr ""
+
+#: $languageStrings->'LBL_INVITE_USER_BLOCK'
+msgid "Invite"
+msgstr ""
+
+#: $languageStrings->'LBL_INVITE_USERS'
+msgid "Invite Users"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST'
+msgid "Last"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTHS_TYPE'
+msgctxt "$languageStrings->'LBL_MONTHS_TYPE'"
+msgid "Month(s)"
+msgstr ""
+
+#: $languageStrings->'LBL_ON'
+msgid "on"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "List View"
+msgstr ""
+
+#: $languageStrings->'LBL_RECURRENCE_INFORMATION'
+msgid "Recurrence Details"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_TO'
+msgid "Related To"
+msgstr ""
+
+#: $languageStrings->'LBL_REPEATEVENT'
+msgid "Once in every"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_FRI'
+msgid "Fri"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_MON'
+msgid "Mon"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_SAT'
+msgid "Sat"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_SUN'
+msgid "Sun"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_THU'
+msgid "Thr"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_TUE'
+msgid "Tue"
+msgstr ""
+
+#: $languageStrings->'LBL_SM_WED'
+msgid "Wed"
+msgstr ""
+
+#: $languageStrings->'LBL_TODOS'
+msgid "To Do"
+msgstr ""
+
+#: $languageStrings->'LBL_UNTIL'
+msgid "Until"
+msgstr ""
+
+#: $languageStrings->'LBL_WEEKS_TYPE'
+msgctxt "$languageStrings->'LBL_WEEKS_TYPE'"
+msgid "Week(s)"
+msgstr ""
+
+#: $languageStrings->'LBL_YEAR_TYPE'
+msgctxt "$languageStrings->'LBL_YEAR_TYPE'"
+msgid "Year"
+msgstr ""
+
+#: $languageStrings->'Location'
+msgid "Location"
+msgstr ""
+
+#: $languageStrings->'Meeting'
+msgid "Meeting"
+msgstr ""
+
+#: $languageStrings->'Monthly'
+msgctxt "$languageStrings->'Monthly'"
+msgid "Month(s)"
+msgstr ""
+
+#: %24languageStrings-%3E%27Not+Held%27
+msgid "Not Held"
+msgstr ""
+
+#: $languageStrings->'Planned'
+msgid "Planned"
+msgstr ""
+
+#: $languageStrings->'Private'
+msgid "Private"
+msgstr ""
+
+#: $languageStrings->'Public'
+msgid "Public"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'Recurrence'
+msgid "Repeat"
+msgstr ""
+
+#: %24languageStrings-%3E%27Send+Notification%27
+msgid "Send Notification"
+msgstr ""
+
+#: %24languageStrings-%3E%27Send+Reminder%27
+msgid "Send Email Reminder Before"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Events'
+msgid "Event"
+msgstr ""
+
+#: %24languageStrings-%3E%27Start+Date+%26+Time%27
+msgctxt "$languageStrings->'Start Date & Time'"
+msgid "Start Date & Time"
+msgstr ""
+
+#: $languageStrings->'Visibility'
+msgid "Visibility"
+msgstr ""
+
+#: $languageStrings->'Weekly'
+msgctxt "$languageStrings->'Weekly'"
+msgid "Week(s)"
+msgstr ""
+
+#: $languageStrings->'Yearly'
+msgctxt "$languageStrings->'Yearly'"
+msgid "Year"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: %24languageStrings-%3E%27End+Date+%26amp%3B+Time%27
+msgctxt "$languageStrings->'End Date &amp; Time'"
+msgid "End Date & Time"
+msgstr ""
+
+#: %24languageStrings-%3E%27Start+Date+%26amp%3B+Time%27
+msgctxt "$languageStrings->'Start Date &amp; Time'"
+msgid "Start Date & Time"
+msgstr ""
+
+#. //Priority picklist values
+#: $languageStrings->'High'
+msgid "High"
+msgstr ""
+
+#: $languageStrings->'Medium'
+msgid "Medium"
+msgstr ""
+
+#: $languageStrings->'Low'
+msgid "Low"
+msgstr ""

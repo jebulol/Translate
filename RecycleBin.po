@@ -1,0 +1,63 @@
+#. extracted from fi_fi/RecycleBin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+**********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  ************************************************************************************/
+#: $languageStrings->'RecycleBin'
+msgid "Recycle Bin"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MODULE'
+msgid "Select Module"
+msgstr ""
+
+#: $languageStrings->'LBL_EMPTY_RECYCLEBIN'
+msgid "Empty Recycle Bin"
+msgstr ""
+
+#: $languageStrings->'LBL_RESTORE'
+msgid "Restore"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_PERMITTED_MODULES'
+msgid "No permitted modules available"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Recycle Bin List"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RECORDS_FOUND'
+msgid "No records found to Restore in module"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MSG_EMPTY_RB_CONFIRMATION'
+msgid ""
+"Are you sure you want to permanently remove all the deleted records from "
+"your database?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_RESTORE_RECORDS_CONFIRMATION'
+msgid "Are you sure you want to restore the records?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RESTORING_RECORDS'
+msgid "Restoring records"
+msgstr ""

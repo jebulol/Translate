@@ -1,0 +1,248 @@
+#. extracted from fi_fi/Settings/ModuleManager.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_IMPORT_MODULE'
+msgid "Import Module"
+msgstr ""
+
+#: $languageStrings->'LBL_VTIGER_EXTENSION_STORE'
+msgid "Vtiger Extension Store"
+msgstr ""
+
+#: $languageStrings->'LBL_PUBLISHER'
+msgid "Publisher"
+msgstr ""
+
+#: $languageStrings->'LBL_LICENSE'
+msgid "License"
+msgstr ""
+
+#: $languageStrings->'LBL_PUBLISHED_ON'
+msgid "Published on"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL'
+msgid "Install"
+msgstr ""
+
+#: $languageStrings->'LBL_UPGRADE'
+msgid "Upgrade"
+msgstr ""
+
+#: $languageStrings->'LBL_VERSION'
+msgid "Version"
+msgstr ""
+
+#: $languageStrings->'LBL_DECLINE'
+msgid "Decline"
+msgstr ""
+
+#: $languageStrings->'LBL_ACCEPT_AND_INSTALL'
+msgid "Accept and Install"
+msgstr ""
+
+#: $languageStrings->'LBL_OK'
+msgid "OK"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_NOT_COMPATABLE'
+msgid "Extension is not Vtiger CRM Compatable"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_FILE'
+msgid "Invalid File"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_LICENSE_PROVIDED'
+msgid "No License Provided"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION'
+msgid "Installation"
+msgstr ""
+
+#: $languageStrings->'LBL_FAILED'
+msgid "Failed"
+msgstr ""
+
+#: $languageStrings->'LBL_SUCCESSFULL'
+msgid "Successfull"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION_LOG'
+msgid "Installation Log"
+msgstr ""
+
+#. //Install From file labels
+#: $languageStrings->'LBL_VERIFY_IMPORT_DETAILS'
+msgid "Verify Import Details"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE_NAME'
+msgid "Module Name"
+msgstr ""
+
+#: $languageStrings->'LBL_REQ_VTIGER_VERSION'
+msgid "Vtiger Version"
+msgstr ""
+
+#: $languageStrings->'LBL_LICENSE_ACCEPT_AGREEMENT'
+msgid "I accept the license agreement."
+msgstr ""
+
+#: $languageStrings->'LBL_EXISTS'
+msgid "Exists"
+msgstr ""
+
+#: $languageStrings->'LBL_PROCEED_WITH_IMPORT'
+msgid "Do you want to proceed with the import?"
+msgstr ""
+
+#: $languageStrings->'LBL_VERSION_NOT_SUPPORTED'
+msgid "Module version is not compatible with vtiger version"
+msgstr ""
+
+#: $languageStrings->'LBL_FINISH'
+msgid "Finish"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_ZIP'
+msgid "Install From File"
+msgstr ""
+
+#: $languageStrings->'LBL_NOT_FOUND'
+msgid ""
+"Sorry, no extensions are currently available for the current version of your "
+"CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_IMPORT_TRY_AGAIN'
+msgid " provided for module import! Try Again."
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORTED_MODULE'
+msgctxt "$languageStrings->'LBL_IMPORTED_MODULE'"
+msgid " module was imported successfully."
+msgstr ""
+
+#: $languageStrings->'LBL__IMPORTING_MODULE'
+msgid "Importing Module"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_STORE'
+msgid "Extension Store"
+msgstr ""
+
+#: $languageStrings->'LBL_ACCEPT_WITH_THE_DISCLAIMER'
+msgid "I accept with disclaimer and would like to proceed"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL_FROM_ZIP'
+msgid "Install from Zip"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_EXIST_DIRECTORY'
+msgid ""
+"Please delete the module direcctory that exist to proceed with import module"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_MODULE_FROM_FILE'
+msgid "Update Module From File"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATED_MODULE'
+msgid " module was updated successfully."
+msgstr ""
+
+#: $languageStrings->'LBL__UPDATING_MODULE'
+msgid "Updating Module"
+msgstr ""
+
+#: $languageStrings->'LBL_PHP_EXTENSION_LOADER_IS_NOT_AVAIABLE'
+msgid "Please install extension loader"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_MODULE_FROM_ZIP'
+msgid "Import Module from Zip"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_NOW'
+msgid "Update Now"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT_NOW'
+msgid "Import Now"
+msgstr ""
+
+#: $languageStrings->'LBL_DISCLAIMER_FOR_IMPORT_FROM_ZIP'
+msgid ""
+"<b>Disclaimer - Custom Files could put your CRM at risk</b> <br>  \n"
+"                                                 This functionality has been "
+"made available for Developers to test new modules.\n"
+"                                                    If you are installing "
+"from a file provided 3rd party, please proceed only if you trust the "
+"publisher. Custom Modules could include security vulnerabilities and "
+"overwrite system files putting your CRM at risk. The module you are about to "
+"install has not been reviewed by Vtiger."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ON'
+msgid "on"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK'
+msgid ""
+"Please install extension loader to install this extension from below link"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_EXTENSION_STORE_IS_NOT_SUPPOTED_WOULD_YOU_LIKE_TO_INSTALL'
+msgid "Extension is not supported, Would you like to install?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PHP_EXTENSION_LOADER_NOT_INSTALLED'
+msgid "Php extension loader not installed "
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CLICK_HERE'
+msgid "Click here "
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FOR_INSTALLATION'
+msgid "for installation"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IMPORT_SUCCESSFULL'
+msgid "Import Successfull"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IMPORTED_MODULE'
+msgctxt "$jsLanguageStrings->'JS_IMPORTED_MODULE'"
+msgid " module was imported successfully."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_UPDATE_SUCCESSFULL'
+msgid "Update Successfull"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_UPDATED_MODULE'
+msgid "module was updated successfully"
+msgstr ""

@@ -1,0 +1,893 @@
+#. extracted from fi_fi/Settings/Vtiger.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'address'
+msgid "Address"
+msgstr ""
+
+#: %24languageStrings-%3E%27Allows+you+to+Configure+Cron+Task%27
+msgid "Allows you to Configure Cron Task"
+msgstr ""
+
+#: %24languageStrings-%3E%27Allows+you+to+manage+Webforms%27
+msgid "Manage Webforms"
+msgstr ""
+
+#: $languageStrings->'city'
+msgid "City"
+msgstr ""
+
+#: $languageStrings->'code'
+msgid "Postal Code"
+msgstr ""
+
+#: %24languageStrings-%3E%27Configuration+Editor%27
+msgctxt "$languageStrings->'Configuration Editor'"
+msgid "Configuration Editor"
+msgstr ""
+
+#: $languageStrings->'country'
+msgid "Country"
+msgstr ""
+
+#: $languageStrings->'EmailTemplate'
+msgid "Email Template"
+msgstr ""
+
+#: $languageStrings->'EMAILTEMPLATES'
+msgid "E-mail Templates"
+msgstr ""
+
+#: $languageStrings->'fax'
+msgid "Fax"
+msgstr ""
+
+#: $languageStrings->'INVENTORYTERMSANDCONDITIONS'
+msgid "Inventory: Terms and Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_ACCESS_MANAGEMENT'
+msgid "Access Management"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVE'
+msgid "Active"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVE_USERS'
+msgid "Users"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MENU_ITEM'
+msgid "Add Menu Item"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MOVE_MENU_ITEMS'
+msgid "Add/Move Menu Items"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_NEW_TAX'
+msgid "Add New Tax"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_OR_DELETE_USERS'
+msgid "Add/Delete Users"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_USER'
+msgid "Add User"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNOUNCEMENT'
+msgid "Announcement"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNOUNCEMENT_DESC'
+msgid ""
+"Change the text that appears in the announcement display on top of each page"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNOUNCEMENT_DESCRIPTION'
+msgid "Manage company wide announcements"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNOUNCEMENTS'
+msgid "Announcements"
+msgstr ""
+
+#: $languageStrings->'LBL_AVAILABLE_WORKLIST_LIST'
+msgid "Available Workflows"
+msgstr ""
+
+#: $languageStrings->'LBL_CALCULATOR_DISPLAY'
+msgid "Calculator Display"
+msgstr ""
+
+#: $languageStrings->'LBL_COMMUNICATION_TEMPLATES'
+msgid "Templates"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_DESCRIPTION'
+msgid "Specify business address of company"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_DETAILS'
+msgid "Company Details"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_INFORMATION'
+msgid "Company Information"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_LOGO'
+msgctxt "$languageStrings->'LBL_COMPANY_LOGO'"
+msgid "Company Logo"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIG_DESCRIPTION'
+msgid "Edit the Configuration details of vtiger CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIG_EDITOR'
+msgctxt "$languageStrings->'LBL_CONFIG_EDITOR'"
+msgid "Configuration Editor"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIG_EDITOR_DESCRIPTION'
+msgid "Update configuration file of the application"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIG_FILE'
+msgid "config.inc.php"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATING_NEW'
+msgid "Creating new"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_DESCRIPTION'
+msgid "Manage international currencies and exchange rates"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_SETTINGS'
+msgid "Currencies"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_PORTAL'
+msgid "Customer Portal"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMIZE_MODENT_NUMBER'
+msgctxt "$languageStrings->'LBL_CUSTOMIZE_MODENT_NUMBER'"
+msgid "Customize Record Numbering"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMIZE_MODENT_NUMBER_DESCRIPTION'
+msgctxt "$languageStrings->'LBL_CUSTOMIZE_MODENT_NUMBER_DESCRIPTION'"
+msgid "Module Entity Number customization"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMIZE_RECORD_NUMBERING'
+msgctxt "$languageStrings->'LBL_CUSTOMIZE_RECORD_NUMBERING'"
+msgid "Customize Record Numbering"
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT'
+msgid ""
+"By default, SMTP account settings for the outgoing server are configured to "
+"od1.vtiger.com mail server. To avoid outgoing emails getting filtered out by "
+"spam filters on your recipient ISP mail server, we recommend you implement "
+"one of the following."
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_MODULE'
+msgid "Default Module"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_RECORD'
+msgid "Delete"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_DISABLED'
+msgid "Disabled"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_COMPANY_DETAILS_MESSAGE'
+msgid ""
+"To edit company details, please click on Settings Icon > Add/Delete Users > "
+"Company "
+msgstr ""
+
+#: $languageStrings->'LBL_EDITING'
+msgid "Editing"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_RECORD'
+msgctxt "$languageStrings->'LBL_EDIT_RECORD'"
+msgid "Edit"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_TAX'
+msgid "Edit Tax"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_TEMPLATE_DESCRIPTION'
+msgid "Manage templates for E-Mail module"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_ANNOUNCEMENT_HERE'
+msgid "Enter announcement here"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_TAX_NAME'
+msgid "Enter tax name"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_TAX_VALUE'
+msgid "Enter tax value"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSIONS'
+msgid "Extensions"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSIONS_PLACE'
+msgid "Extensions Place"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTERNAL_SERVER_SETTINGS'
+msgid "External Server Settings"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_FIELDFORMULAS_DESCRIPTION'
+msgid "Add custom equations to custom fields"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_FIELDFORMULAS'
+msgid "Field Formulas"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELDS_INFO_IS_EMPTY'
+msgid "Fields information is empty"
+msgstr ""
+
+#: $languageStrings->'LBL_FROM_EMAIL'
+msgid "From Email"
+msgstr ""
+
+#: $languageStrings->'LBL_GROUP_DESCRIPTION'
+msgid "Manage different types of teams based on roles, users, and profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_HELPDESK_SUPPORT_EMAILID'
+msgid "Helpdesk Support Email-Id"
+msgstr ""
+
+#: $languageStrings->'LBL_HELPDESK_SUPPORT_NAME'
+msgid "Helpdesk Support Name"
+msgstr ""
+
+#: $languageStrings->'LBL_IMAGE_CORRUPTED'
+msgid "Virus detected or Uploaded image corrupted"
+msgstr ""
+
+#: $languageStrings->'LBL_INACTIVE'
+msgid "In Active"
+msgstr ""
+
+#: $languageStrings->'LBL_INTEGRATION'
+msgid "Integration"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_EMAILID'
+msgid "Invalid EmailId"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_IMAGE'
+msgid "Invalid Image"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_MODULE'
+msgid "Invalid Module"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_NUMBER'
+msgid "Invalid Number"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_SUPPORT_NAME'
+msgid "Invalid Name"
+msgstr ""
+
+#: $languageStrings->'LBL_INV_TANDC_DESCRIPTION'
+msgid "Specify terms and conditions for Quotes, Invoices, and Sales Orders"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_SCAN_AT'
+msgid "Last scanned at "
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_SCAN_TIMED_OUT'
+msgid "Last scan timed out"
+msgstr ""
+
+#: $languageStrings->'LBL_LAYOUT_EDITOR_DESCRIPTION'
+msgid "Designing and Modifying the layout in each of the modules"
+msgstr ""
+
+#: $languageStrings->'LBL_LIST_WORKFLOWS_DESCRIPTION'
+msgid "Create and edit workflows"
+msgstr ""
+
+#: $languageStrings->'LBL_LIST_WORKFLOWS'
+msgctxt "$languageStrings->'LBL_LIST_WORKFLOWS'"
+msgid "Workflows"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGGED_OUT_TIME'
+msgid "Sign-out Time"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_LOGIN_HISTORY_DESCRIPTION'
+msgid "Login History Details"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_LOGIN_HISTORY_DETAILS'
+msgid "Login History"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_TIME'
+msgid "Sign-in Time"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGO_RECOMMENDED_MESSAGE'
+msgid ""
+"Recommended size 170X60 pixels( .jpeg , .jpg , .png , .gif , .pjpeg , .x-png "
+"format )."
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_MERGE_DESCRIPTION'
+msgid "Manage templates for Mail Merging"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_MERGE'
+msgid "Mail Merge"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SCANNER_DESCRIPTION'
+msgid "Configure email inbox for scanning and record attachment"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SCANNER'
+msgid "Mail Converter"
+msgstr ""
+
+#: $languageStrings->'LBL_MAILSENDERROR'
+msgid ""
+"Mail could not be sent to the admin user. Please check the admin "
+"emailid/Server settings"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SERVER_DESCRIPTION'
+msgid "Configure Outgoing Mail Server details"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SERVER_SETTINGS'
+msgctxt "$languageStrings->'LBL_MAIL_SERVER_SETTINGS'"
+msgid "Outgoing Server"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SERVER_SMTP'
+msgid "Mail Server Settings (SMTP)"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW'
+msgid "Maximum entries per page in List View"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_HISTORY_VIEWED'
+msgid "Maximum History Viewed"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX'
+msgid "Max"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_TEXT_LENGTH_IN_LISTVIEW'
+msgid "Maximum text length in List View"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_UPLOAD_SIZE'
+msgid "Maximum Upload Size (Max 5MB)"
+msgstr ""
+
+#: $languageStrings->'LBL_MB'
+msgid "MB"
+msgstr ""
+
+#: $languageStrings->'LBL_MENU_DESC'
+msgid "Customize Menu Sequence"
+msgstr ""
+
+#: $languageStrings->'LBL_MENU_EDITOR'
+msgid "Menu Editor"
+msgstr ""
+
+#: $languageStrings->'LBL_MENU_EDITOR_MESSAGE'
+msgid ""
+"The actual number of menu items displayed will depend on the screen size and "
+"might be less than selected items."
+msgstr ""
+
+#: $languageStrings->'LBL_MINI_CALENDAR_DISPLAY'
+msgid "Mini Calendar Display"
+msgstr ""
+
+#: $languageStrings->'LBL_MODTRACKER_DESCRIPTION'
+msgid "Select modules for tracking"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE_ENTITY_NUMBER_CUSTOMIZATION'
+msgctxt "$languageStrings->'LBL_MODULE_ENTITY_NUMBER_CUSTOMIZATION'"
+msgid "Module Entity Number customization"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE_MANAGER'
+msgid "Module Management"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULES'
+msgid "Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTIFICATIONS'
+msgid "Notifications"
+msgstr ""
+
+#: $languageStrings->'LBL_OPTIONS1'
+msgctxt "$languageStrings->'LBL_OPTIONS1'"
+msgid ""
+msgstr ""
+
+#: $languageStrings->'LBL_OPTIONS2'
+msgctxt "$languageStrings->'LBL_OPTIONS2'"
+msgid ""
+msgstr ""
+
+#: $languageStrings->'LBL_OTHER_SETTINGS'
+msgid "Other Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_OUTGOING_SERVER_DESC'
+msgid "Configure your Outgoing Mail Server details"
+msgstr ""
+
+#: $languageStrings->'LBL_OUTGOING_SERVER_NOTE'
+msgid ""
+"NOTE: Outgoing server should be set to SSL or TLS Protocal and If \"From "
+"Email\" field is set to blank then the User Email address will be picked up."
+msgstr ""
+
+#: $languageStrings->'LBL_OUTGOING_SERVER'
+msgctxt "$languageStrings->'LBL_OUTGOING_SERVER'"
+msgid "Outgoing Server"
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD'
+msgid "Password"
+msgstr ""
+
+#: $languageStrings->'LBL_PBXMANAGER'
+msgid "PBXManager"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_DEPENDENCY_DESCRIPTION'
+msgid "Setup Dependency between Picklist values in each module"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_DEPENDENCY_SETUP'
+msgid "Picklist Dependency Setup"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_DESCRIPTION'
+msgid "Customize Picklist values in each module"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_EDITOR'
+msgid "Picklist Editor"
+msgstr ""
+
+#: $languageStrings->'LBL_PIN'
+msgid "pin"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCT_SERVICE_TAXES'
+msgid "Product & Service Taxes"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE_DESCRIPTION'
+msgid "Manage user-specific modules access to different Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILES'
+msgid "Profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_REQUIRES_AUTHENTICATION'
+msgid "Requires Authentication"
+msgstr ""
+
+#: $languageStrings->'LBL_RESET_TO_DEFAULT'
+msgid "Reset to Default"
+msgstr ""
+
+#: $languageStrings->'LBL_ROLE_DESCRIPTION'
+msgid "Set up hierarchy of roles and assign to the users"
+msgstr ""
+
+#: $languageStrings->'LBL_ROLES'
+msgid "Roles"
+msgstr ""
+
+#: $languageStrings->'LBL_RUNNING'
+msgid "Running"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_SETTINGS_PLACEHOLDER'
+msgid "Search Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_DATE'
+msgid "Select dates"
+msgstr ""
+
+#: $languageStrings->'LBL_SERVER_NAME'
+msgid "Server Name"
+msgstr ""
+
+#: $languageStrings->'LBL_SETTINGS_ICON'
+msgid "Settings Icon"
+msgstr ""
+
+#: $languageStrings->'LBL_SETTINGS_SHORTCUTS'
+msgid "Settings Shortcuts"
+msgstr ""
+
+#: $languageStrings->'LBL_SHARING_ACCESS_DESCRIPTION'
+msgid "Manage module sharing rules & custom sharing rules"
+msgstr ""
+
+#: $languageStrings->'LBL_SHARING_ACCESS'
+msgid "Sharing Rules"
+msgstr ""
+
+#: $languageStrings->'LBL_SHIPPING_HANDLING_TAXES'
+msgid "Shipping & Handling Taxes"
+msgstr ""
+
+#: $languageStrings->'LBL_SHORT_SECONDS'
+msgid "sec"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIFY_TERMS_AND_CONDITIONS'
+msgid "Specify Terms & Conditions here"
+msgstr ""
+
+#: $languageStrings->'LBL_START_SEQUENCE'
+msgid "Start Sequence"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_STATUS'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'LBL_STUDIO'
+msgid "Studio"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT'
+msgid "Subject"
+msgstr ""
+
+#: $languageStrings->'LBL_SUCCESSFULLY_UPDATED'
+msgid "Successfully Updated"
+msgstr ""
+
+#: $languageStrings->'LBL_SUMMARY'
+msgid "Summary"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_CALCULATIONS'
+msgctxt "$languageStrings->'LBL_TAX_CALCULATIONS'"
+msgid "Tax Calculations"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_DESC'
+msgid ""
+"Manage different types of tax rates for taxes, such as Sales Tax, VAT etc.,"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_DESCRIPTION'
+msgid "Manage taxes and the corresponding tax rates"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_NAME_EXIST'
+msgid "Tax Name already exists"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_NAME'
+msgid "Tax Name"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_SETTINGS'
+msgctxt "$languageStrings->'LBL_TAX_SETTINGS'"
+msgid "Tax Calculations"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_STATUS_DESC'
+msgid "Enable checkbox to make tax active"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_VALUE'
+msgid "Tax Value"
+msgstr ""
+
+#: $languageStrings->'LBL_TEMPLATE_NAME'
+msgid "Template name"
+msgstr ""
+
+#: $languageStrings->'LBL_TERMS_AND_CONDITIONS'
+msgid "Terms & Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_TESTMAILSTATUS'
+msgid "Test Mail Status : "
+msgstr ""
+
+#: $languageStrings->'LBL_TIME_TAKEN'
+msgid " time taken "
+msgstr ""
+
+#: $languageStrings->'LBL_TO_ADD_NEW_USER_PLEASE_CLICK_ON'
+msgid "To add a new User, please click on "
+msgstr ""
+
+#: $languageStrings->'LBL_UNPIN'
+msgid "Unpin"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE'
+msgid "Update"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_LOGO'
+msgid "Update Logo"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_MISSING_RECORD_SEQUENCE'
+msgid "Update Missing Record Sequence"
+msgstr ""
+
+#: $languageStrings->'LBL_USE_PREFIX'
+msgid "Use Prefix"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_DESCRIPTION'
+msgid "Manage users who can access vtiger CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_IP_ADDRESS'
+msgid "User IP Address"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_MANAGEMENT'
+msgid "User & Access Control"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_USER_NAME'
+msgid "User Name"
+msgstr ""
+
+#: $languageStrings->'LBL_USE_RTE'
+msgid "Use RTE"
+msgstr ""
+
+#: $languageStrings->'LBL_WEBFORMS_DESCRIPTION'
+msgid "Create and manage webforms which can be used to capture Leads"
+msgstr ""
+
+#: $languageStrings->'LBL_WORKFLOW_LIST'
+msgid "Workflow List"
+msgstr ""
+
+#: $languageStrings->'LBL_WORKFLOWS_ACTIVE'
+msgctxt "$languageStrings->'LBL_WORKFLOWS_ACTIVE'"
+msgid "Workflows"
+msgstr ""
+
+#: $languageStrings->'LBL_WORLD_CLOCK_DISPLAY'
+msgid "World Clock Display"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_STORE'
+msgid "Extension Store"
+msgstr ""
+
+#: $languageStrings->'LoginHistory'
+msgid "User Login History"
+msgstr ""
+
+#: $languageStrings->'logoname'
+msgctxt "$languageStrings->'logoname'"
+msgid "Company Logo"
+msgstr ""
+
+#: $languageStrings->'ModTracker'
+msgid "Mod Tracker"
+msgstr ""
+
+#: $languageStrings->'organizationname'
+msgid "Company Name"
+msgstr ""
+
+#: $languageStrings->'phone'
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'PORTAL_EXTENSION_DESCRIPTION'
+msgid "Allows you to Configure Customer Portal Plugin"
+msgstr ""
+
+#: $languageStrings->'Scheduler'
+msgid "Scheduler"
+msgstr ""
+
+#: $languageStrings->'Settings'
+msgid "Settings"
+msgstr ""
+
+#: $languageStrings->'state'
+msgid "State"
+msgstr ""
+
+#: $languageStrings->'USERGROUPLIST'
+msgid "Groups"
+msgstr ""
+
+#: $languageStrings->'VTLIB_LBL_MODULE_MANAGER_DESCRIPTION'
+msgid "Manage module behavior inside vtiger CRM"
+msgstr ""
+
+#: $languageStrings->'VTLIB_LBL_MODULE_MANAGER'
+msgid "Module Manager"
+msgstr ""
+
+#: $languageStrings->'Webforms'
+msgid "Webforms"
+msgstr ""
+
+#: $languageStrings->'website'
+msgid "Website"
+msgstr ""
+
+#: $languageStrings->'vatid'
+msgid "VAT ID"
+msgstr ""
+
+#. //Exchange Connector
+#: $languageStrings->'LBL_EXCHANGE_CONNECTOR'
+msgid "Exchange Connector"
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_LAYOUT'
+msgid "Default Layout"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ANNOUNCEMENT_SAVED'
+msgid "Announcement Saved"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CONFIGURATION_DETAILS_SAVED'
+msgid "Configuration Details Saved"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CONFIRM_DEFAULT_SETTINGS'
+msgid ""
+"Are you sure that you want to change the server details to the default "
+"server values"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_EDIT'
+msgctxt "$jsLanguageStrings->'JS_EDIT'"
+msgid "Edit"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_GROUP_DELETED_SUCCESSFULLY'
+msgid "Group deleted successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100'
+msgid "Please enter value in the range 1-100"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO5'
+msgid "Please enter value in the range 1-5"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP'
+msgid "Please select atleast one member for a group"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORD_NUMBERING_SAVED_SUCCESSFULLY_FOR'
+msgid "Record Numbering Successfully saved for"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORD_NUMBERING_UPDATED_SUCCESSFULLY_FOR'
+msgid "Record Numbering Updated Successfully for"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SEQUENCE_NUMBER_MESSAGE'
+msgid "Sequence Number should be greater than or equal to"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TAX_DISABLED'
+msgid "Tax disabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TAX_ENABLED'
+msgid "Tax Enabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TAX_SAVED_SUCCESSFULLY'
+msgid "Tax Saved Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TERMS_AND_CONDITIONS_SAVED'
+msgid "Terms and conditions saved"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_MAXIMUM_SIZE_EXCEEDS'
+msgid "You can upload maximum size of 1MB only"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_NO_LOGO_SELECTED'
+msgid "No logo selected"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_PREFIX_IN_USE'
+msgid "Prefix in use"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_WRONG_IMAGE_TYPE'
+msgid "not supported Image type"
+msgstr ""

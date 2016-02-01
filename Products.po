@@ -1,0 +1,280 @@
+#. extracted from fi_fi/Products.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'300-Sales-Software'
+msgid "300-Sales-Software"
+msgstr ""
+
+#: $languageStrings->'301-Sales-Hardware'
+msgid "301-Sales-Hardware"
+msgstr ""
+
+#: $languageStrings->'302-Rental-Income'
+msgid "302-Rental-Income"
+msgstr ""
+
+#: $languageStrings->'303-Interest-Income'
+msgid "303-Interest-Income"
+msgstr ""
+
+#: $languageStrings->'304-Sales-Software-Support'
+msgid "304-Sales-Software-Support"
+msgstr ""
+
+#: %24languageStrings-%3E%27305-Sales+Other%27
+msgid "305-Sales Other"
+msgstr ""
+
+#: %24languageStrings-%3E%27306-Internet+Sales%27
+msgid "306-Internet Sales"
+msgstr ""
+
+#: %24languageStrings-%3E%27307-Service-Hardware+Labor%27
+msgid "307-Service-Hardware Labor"
+msgstr ""
+
+#: $languageStrings->'308-Sales-Books'
+msgid "308-Sales-Books"
+msgstr ""
+
+#: $languageStrings->'Box'
+msgid "Box"
+msgstr ""
+
+#: $languageStrings->'Carton'
+msgid "Carton"
+msgstr ""
+
+#: $languageStrings->'Caton'
+msgid "Caton"
+msgstr ""
+
+#: %24languageStrings-%3E%27Commission+Rate%27
+msgid "Commission Rate"
+msgstr ""
+
+#: %24languageStrings-%3E%27CRM+Applications%27
+msgid "CRM Applications"
+msgstr ""
+
+#: $languageStrings->'Dozen'
+msgid "Dozen"
+msgstr ""
+
+#: $languageStrings->'Each'
+msgid "Each"
+msgstr ""
+
+#: %24languageStrings-%3E%27GL+Account%27
+msgid "GL Account"
+msgstr ""
+
+#: $languageStrings->'Handler'
+msgid "Handler"
+msgstr ""
+
+#: $languageStrings->'Hardware'
+msgid "Hardware"
+msgstr ""
+
+#: $languageStrings->'Hours'
+msgid "Hours"
+msgstr ""
+
+#: $languageStrings->'Impressions'
+msgid "Impressions"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Product"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_ADD_TO_PRICEBOOKS'
+msgid "Add to PriceBooks"
+msgstr ""
+
+#: $languageStrings->'Lb'
+msgid "Lb"
+msgstr ""
+
+#: $languageStrings->'LBL_IMAGE_INFORMATION'
+msgid "Product Image Information"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_CURRENCIES'
+msgid "more currencies"
+msgstr ""
+
+#: $languageStrings->'LBL_PRICE'
+msgid "Price"
+msgstr ""
+
+#: $languageStrings->'LBL_PRICES'
+msgid "Product Prices"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCT_INFORMATION'
+msgid "Product Details"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCTSMOD_DISABLED'
+msgid "Enable Products Module to view Products"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Products List"
+msgstr ""
+
+#: $languageStrings->'LBL_RESET_PRICE'
+msgid "Reset Price"
+msgstr ""
+
+#: $languageStrings->'LBL_RESET'
+msgid "Reset"
+msgstr ""
+
+#: $languageStrings->'LBL_STOCK_INFORMATION'
+msgid "Stock Information"
+msgstr ""
+
+#: $languageStrings->'Manufacturer'
+msgid "Manufacturer"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mfr+PartNo%27
+msgid "Mfr PartNo"
+msgstr ""
+
+#: $languageStrings->'M'
+msgid "M"
+msgstr ""
+
+#: $languageStrings->'--None--'
+msgid "--None--"
+msgstr ""
+
+#: $languageStrings->'Pack'
+msgid "Pack"
+msgstr ""
+
+#: $languageStrings->'Pages'
+msgid "Pages"
+msgstr ""
+
+#: %24languageStrings-%3E%27Part+Number%27
+msgid "Part Number"
+msgstr ""
+
+#: $languageStrings->'Pieces'
+msgid "Pieces"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Active%27
+msgid "Product Active"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Category%27
+msgid "Product Category"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Image%27
+msgid "Product Image"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+No%27
+msgid "Product Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Sheet%27
+msgid "Product Sheet"
+msgstr ""
+
+#: $languageStrings->'Products'
+msgid "Products"
+msgstr ""
+
+#: %24languageStrings-%3E%27Qty+In+Demand%27
+msgid "Qty. in Demand"
+msgstr ""
+
+#: %24languageStrings-%3E%27Qty+In+Stock%27
+msgid "Qty. in Stock"
+msgstr ""
+
+#: $languageStrings->'Qty/Unit'
+msgid "Qty/Unit"
+msgstr ""
+
+#: $languageStrings->'Reams'
+msgid "Reams"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Reorder+Level%27
+msgid "Reorder Level"
+msgstr ""
+
+#: %24languageStrings-%3E%27Serial+No%27
+msgid "Serial No"
+msgstr ""
+
+#: $languageStrings->'Sheet'
+msgid "Sheet"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Products'
+msgid "Product"
+msgstr ""
+
+#: $languageStrings->'Software'
+msgid "Software"
+msgstr ""
+
+#: %24languageStrings-%3E%27Spiral+Binder%27
+msgid "Spiral Binder"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sq+Ft%27
+msgid "Sq Ft"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tax+Class%27
+msgid "Tax Class"
+msgstr ""
+
+#: %24languageStrings-%3E%27Unit+Price%27
+msgid "Unit Price"
+msgstr ""
+
+#: %24languageStrings-%3E%27Usage+Unit%27
+msgid "Usage Unit"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Vendor+PartNo%27
+msgid "Vendor PartNo"
+msgstr ""
+
+#: $languageStrings->'Website'
+msgid "Website"
+msgstr ""

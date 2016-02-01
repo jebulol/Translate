@@ -1,0 +1,213 @@
+#. extracted from fi_fi/Campaigns.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: %24languageStrings-%3E%27Actual+Cost%27
+msgid "Actual Cost"
+msgstr ""
+
+#: %24languageStrings-%3E%27Actual+Response+Count%27
+msgid "Actual Response Count"
+msgstr ""
+
+#: %24languageStrings-%3E%27Actual+ROI%27
+msgid "Actual ROI"
+msgstr ""
+
+#: %24languageStrings-%3E%27Actual+Sales+Count%27
+msgid "Actual Sales Count"
+msgstr ""
+
+#: $languageStrings->'Advertisement'
+msgid "Advertisement"
+msgstr ""
+
+#: $languageStrings->'Average'
+msgid "Average"
+msgstr ""
+
+#: %24languageStrings-%3E%27Banner+Ads%27
+msgid "Banner Ads"
+msgstr ""
+
+#: %24languageStrings-%3E%27Budget+Cost%27
+msgid "Budget Cost"
+msgstr ""
+
+#: %24languageStrings-%3E%27Campaign+Name%27
+msgid "Campaign Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Campaign+No%27
+msgid "Campaign No"
+msgstr ""
+
+#: $languageStrings->'Campaigns'
+msgid "Campaigns"
+msgstr ""
+
+#: %24languageStrings-%3E%27Campaign+Status%27
+msgid "Campaign Status"
+msgstr ""
+
+#: %24languageStrings-%3E%27Campaign+Type%27
+msgid "Campaign Type"
+msgstr ""
+
+#: $languageStrings->'Cancelled'
+msgid "Cancelled"
+msgstr ""
+
+#: $languageStrings->'Completed'
+msgid "Completed"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacted+-+Never+Contact+Again%27
+msgid "Contacted - Never Contact Again"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacted+-+Successful%27
+msgid "Contacted - Successful"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contacted+-+Unsuccessful%27
+msgid "Contacted - Unsuccessful"
+msgstr ""
+
+#: %24languageStrings-%3E%27Direct+Mail%27
+msgid "Direct Mail"
+msgstr ""
+
+#: $languageStrings->'Excellent'
+msgid "Excellent"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+Response+Count%27
+msgid "Expected Response Count"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+Response%27
+msgid "Expected Response"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+Revenue%27
+msgid "Expected Revenue"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+ROI%27
+msgid "Expected ROI"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+Sales+Count%27
+msgid "Expected Sales Count"
+msgstr ""
+
+#: $languageStrings->'Good'
+msgid "Good"
+msgstr ""
+
+#: $languageStrings->'Inactive'
+msgid "Inactive"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Campaign"
+msgstr ""
+
+#: $languageStrings->'LBL_CAMPAIGN_INFORMATION'
+msgid "Campaign Details"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPECTATIONS_AND_ACTUALS'
+msgid "Expectations & Actuals"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Campaigns List"
+msgstr ""
+
+#: $languageStrings->'--None--'
+msgid "--None--"
+msgstr ""
+
+#: %24languageStrings-%3E%27Num+Sent%27
+msgid "Num Sent"
+msgstr ""
+
+#: $languageStrings->'Others'
+msgid "Others"
+msgstr ""
+
+#: $languageStrings->'Planning'
+msgctxt "$languageStrings->'Planning'"
+msgid "Planning"
+msgstr ""
+
+#: $languageStrings->'Poor'
+msgid "Poor"
+msgstr ""
+
+#: $languageStrings->'Product'
+msgid "Product"
+msgstr ""
+
+#: %24languageStrings-%3E%27Referral+Program%27
+msgid "Referral Program"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Campaigns'
+msgid "Campaign"
+msgstr ""
+
+#: $languageStrings->'Sponsor'
+msgid "Sponsor"
+msgstr ""
+
+#: %24languageStrings-%3E%27Target+Audience%27
+msgid "Target Audience"
+msgstr ""
+
+#: $languageStrings->'TargetSize'
+msgid "TargetSize"
+msgstr ""
+
+#: $languageStrings->'Telemarketing'
+msgid "Telemarketing"
+msgstr ""
+
+#: $languageStrings->'Webinar'
+msgid "Webinar"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#. //campaignstatus picklist values
+#: $languageStrings->'Planning'
+msgctxt "$languageStrings->'Planning'"
+msgid "Planning"
+msgstr ""
+
+#: $languageStrings->'Active'
+msgid ""
+"Active'\n"
+"\n"
+"       'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_ADD_THIS_FILTER' => 'Are you sure "
+"you want to add this filter records?."
+msgstr ""

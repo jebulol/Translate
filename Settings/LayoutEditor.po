@@ -1,0 +1,324 @@
+#. extracted from fi_fi/Settings/LayoutEditor.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Calendar'
+msgid "To Do"
+msgstr ""
+
+#: $languageStrings->'Checkbox'
+msgid "Checkbox"
+msgstr ""
+
+#: $languageStrings->'Currency'
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->'Date'
+msgid "Date"
+msgstr ""
+
+#: $languageStrings->'Decimal'
+msgid "Decimal"
+msgstr ""
+
+#: $languageStrings->'Email'
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'Integer'
+msgid "Integer"
+msgstr ""
+
+#: $languageStrings->'LayoutEditor'
+msgid "Layout Editor"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIONS'
+msgid "Actions"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVE'
+msgid "Active"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_AFTER'
+msgid "Add After"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CUSTOM_BLOCK'
+msgid "Add Custom Block"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CUSTOM_FIELD'
+msgid "Add Custom Field"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MODULE_INFO'
+msgid "Select the module from the removed modules to add back to list"
+msgstr ""
+
+#: $languageStrings->'LBL_ALWAYS_SHOW'
+msgid "Always Show"
+msgstr ""
+
+#: $languageStrings->'LBL_ARRANGE_RELATED_LIST'
+msgid "Arrange Related List"
+msgstr ""
+
+#: $languageStrings->'LBL_ARRANGE_RELATED_TABS'
+msgid "Arrange Related Tabs"
+msgstr ""
+
+#: $languageStrings->'LBL_BLOCK_NAME'
+msgid "Block Name"
+msgstr ""
+
+#: $languageStrings->'LBL_CLICK_HERE_TO_EDIT'
+msgid "Click here to edit"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_CUSTOM_FIELD'
+msgid "Create Custom Field"
+msgstr ""
+
+#: $languageStrings->'LBL_DECIMALS'
+msgid "Decimals"
+msgstr ""
+
+#: $languageStrings->'LBL_DEFAULT_VALUE'
+msgid "Default Value"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_CUSTOM_BLOCK'
+msgid "Delete Custom Block"
+msgstr ""
+
+#: $languageStrings->'LBL_DETAILVIEW_LAYOUT'
+msgid "Detail View Layout"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATE_FIELD_EXISTS'
+msgid "Duplicate Field Exists"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATES_EXIST'
+msgctxt "$languageStrings->'LBL_DUPLICATES_EXIST'"
+msgid "Block Name already exists"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_PICKLIST_VALUES'
+msgid "Enter Picklist Values.."
+msgstr ""
+
+#: $languageStrings->'LBL_FIELDS_AND_LAYOUT_EDITOR'
+msgid "Fields and Layout Editor"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_INACTIVE_FIELDS'
+msgid "Inactive Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_LABEL_NAME'
+msgid "Label Name"
+msgstr ""
+
+#: $languageStrings->'LBL_LENGTH'
+msgid "Length"
+msgstr ""
+
+#: $languageStrings->'LBL_MANDATORY_FIELD'
+msgid "Mandatory Field"
+msgstr ""
+
+#: $languageStrings->'LBL_MASS_EDIT'
+msgid "Mass Edit"
+msgstr ""
+
+#: $languageStrings->'LBL_NON_ROLE_BASED_PICKLIST'
+msgid "Non Role Based Picklist"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RELATED_INFORMATION'
+msgid "No Related Information"
+msgstr ""
+
+#: $languageStrings->'LBL_PICKLIST_VALUES'
+msgid "Picklist Values"
+msgstr ""
+
+#: $languageStrings->'LBL_QUICK_CREATE'
+msgid "Quick Create"
+msgstr ""
+
+#: $languageStrings->'LBL_REACTIVATE'
+msgid "Reactivate"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_LIST_INFO'
+msgid "Drag and drop the module to reorder the list"
+msgstr ""
+
+#: $languageStrings->'LBL_REMOVE_INFO'
+msgid "Click on the close icon to remove the module from the list"
+msgstr ""
+
+#: $languageStrings->'LBL_ROLE_BASED_PICKLIST'
+msgid "Role Based Picklist"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_FIELD_SEQUENCE'
+msgid "Save Field Sequence"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FIELD_TYPE'
+msgid "Select Field Type"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MODULE'
+msgid "Select Module.."
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MODULE_TO_ADD'
+msgid "Select Module To Add"
+msgstr ""
+
+#: $languageStrings->'LBL_SUMMARY_FIELD'
+msgid "Summary View"
+msgstr ""
+
+#: $languageStrings->'LBL_WRONG_FIELD_TYPE'
+msgid "Wrong Field Type"
+msgstr ""
+
+#: $languageStrings->'MultiSelectCombo'
+msgid "Multi-Select Combo Box"
+msgstr ""
+
+#: $languageStrings->'Percent'
+msgid "Percent"
+msgstr ""
+
+#: $languageStrings->'Phone'
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'PickList'
+msgid "Pick List"
+msgstr ""
+
+#: $languageStrings->'Skype'
+msgid "Skype"
+msgstr ""
+
+#: $languageStrings->'TextArea'
+msgid "Text Area"
+msgstr ""
+
+#: $languageStrings->'Text'
+msgid "Text"
+msgstr ""
+
+#: $languageStrings->'Time'
+msgid "Time"
+msgstr ""
+
+#: $languageStrings->'URL'
+msgid "URL"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_BLOCK_NAME_EXISTS'
+msgctxt "$jsLanguageStrings->'JS_BLOCK_NAME_EXISTS'"
+msgid "Block Name already exists"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_BLOCK_SEQUENCE_UPDATED'
+msgid "Blocks Sequence Updated"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_BLOCK_VISIBILITY_HIDE'
+msgid "Block hide enabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_BLOCK_VISIBILITY_SHOW'
+msgid "Block show enabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CUSTOM_BLOCK_ADDED'
+msgid "New Custom Block added"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CUSTOM_BLOCK_DELETED'
+msgid "Custom Block Deleted"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CUSTOM_FIELD_ADDED'
+msgid "New Custom Field Added"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CUSTOM_FIELD_DELETED'
+msgid "Custom Field Deleted"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLICATES_VALUES_FOUND'
+msgid "Duplicate Values found"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FIELD_DETAILS_SAVED'
+msgid "Field Details Saved"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FIELD_SEQUENCE_UPDATED'
+msgid "Field Sequence Updated"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO'
+msgid "Length Should be less than or equal to"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_HIDDEN_FIELDS_EXISTS'
+msgid "No Inactive Fields"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NOT_ALLOWED'
+msgid "are not allowed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5'
+msgid "Decimal should be in the range 2 to 5"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RELATED_INFO_SAVED'
+msgid "Related Info Saved"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SAVE_THE_CHANGES_TO_UPDATE_FIELD_SEQUENCE'
+msgid "Save the changes to update Field sequence"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECTED_FIELDS_REACTIVATED'
+msgid "Selected Fields Reactivated"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SPECIAL_CHARACTERS'
+msgid "Special Characters like"
+msgstr ""

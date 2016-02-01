@@ -1,0 +1,266 @@
+#. extracted from fi_fi/Install.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /* +***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  * *********************************************************************************** */
+#: $languageStrings->'ERR_DATABASE_CONNECTION_FAILED'
+msgid "Unable to connect to database Server"
+msgstr ""
+
+#: $languageStrings->'ERR_DB_NOT_FOUND'
+msgid "This Database is not found.Try changing the Database settings"
+msgstr ""
+
+#: $languageStrings->'ERR_INVALID_MYSQL_PARAMETERS'
+msgid "Invalid mySQL Connection Parameters specified"
+msgstr ""
+
+#: $languageStrings->'ERR_INVALID_MYSQL_VERSION'
+msgid "MySQL version is not supported, kindly connect to MySQL 5.1.x or above"
+msgstr ""
+
+#: $languageStrings->'ERR_UNABLE_CREATE_DATABASE'
+msgid "Unable to Create database"
+msgstr ""
+
+#: $languageStrings->'LBL_ADMIN_INFORMATION'
+msgctxt "$languageStrings->'LBL_ADMIN_INFORMATION'"
+msgid "Admin User Information"
+msgstr ""
+
+#: $languageStrings->'LBL_ADMIN_USER_INFORMATION'
+msgctxt "$languageStrings->'LBL_ADMIN_USER_INFORMATION'"
+msgid "Admin User Information"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIRM_CONFIGURATION_SETTINGS'
+msgid "Confirm Configuration Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_NEW_DB'
+msgid "Create new database"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCIES'
+msgctxt "$languageStrings->'LBL_CURRENCIES'"
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY'
+msgctxt "$languageStrings->'LBL_CURRENCY'"
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_DATABASE_INFORMATION'
+msgid "Database Information"
+msgstr ""
+
+#: $languageStrings->'LBL_DATABASE_TYPE'
+msgid "Database Type"
+msgstr ""
+
+#: $languageStrings->'LBL_DATE_FORMAT'
+msgid "Date format"
+msgstr ""
+
+#: $languageStrings->'LBL_DB_NAME'
+msgid "Database Name"
+msgstr ""
+
+#: $languageStrings->'LBL_DISAGREE'
+msgid "Disagree"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL'
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'LBL_GD_LIBRARY'
+msgid "GD Library Support"
+msgstr ""
+
+#: $languageStrings->'LBL_HOST_NAME'
+msgid "Host Name"
+msgstr ""
+
+#: $languageStrings->'LBL_I_AGREE'
+msgid "I Agree"
+msgstr ""
+
+#: $languageStrings->'LBL_IMAP_SUPPORT'
+msgid "Imap Support"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION_IN_PROGRESS'
+msgid "Installation in progress"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION_WIZARD'
+msgid "Installation Wizard"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL_BUTTON'
+msgid "Install"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL_PREREQUISITES'
+msgid "Installation prerequisites"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_INFORMATION'
+msgid "More Information"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT'
+msgid "Next"
+msgstr ""
+
+#: $languageStrings->'LBL_ONE_LAST_THING'
+msgid "One last thing..."
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD_MISMATCH'
+msgid ""
+"Please re-enter passwords.  The \\\"Password\\\" and \\\"Re-type password\\\" values "
+"do not match."
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD'
+msgid "Password"
+msgstr ""
+
+#: $languageStrings->'LBL_PHP_CONFIGURATION'
+msgid "PHP Configuration"
+msgstr ""
+
+#: $languageStrings->'LBL_PHP_RECOMMENDED_SETTINGS'
+msgid "Recommended PHP Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_PHP_VERSION'
+msgid "PHP Version"
+msgstr ""
+
+#: $languageStrings->'LBL_PLEASE_WAIT'
+msgid "Please wait"
+msgstr ""
+
+#: $languageStrings->'LBL_PRESENT_VALUE'
+msgid "Present Value"
+msgstr ""
+
+#: $languageStrings->'LBL_READ_WRITE_ACCESS'
+msgid "Read/Write Access"
+msgstr ""
+
+#: $languageStrings->'LBL_RECHECK'
+msgid "Recheck"
+msgstr ""
+
+#: $languageStrings->'LBL_REQUIRED_VALUE'
+msgid "Required Value"
+msgstr ""
+
+#: $languageStrings->'LBL_RETYPE_PASSWORD'
+msgid "Retype Password"
+msgstr ""
+
+#: $languageStrings->'LBL_ROOT_PASSWORD'
+msgid "Root Password"
+msgstr ""
+
+#: $languageStrings->'LBL_ROOT_USERNAME'
+msgid "Root User Name"
+msgstr ""
+
+#: $languageStrings->'LBL_SYSTEM_CONFIGURATION'
+msgid "System Configuration"
+msgstr ""
+
+#: $languageStrings->'LBL_SYSTEM_INFORMATION'
+msgid "System Information"
+msgstr ""
+
+#: $languageStrings->'LBL_TIME_ZONE'
+msgid "Time Zone"
+msgstr ""
+
+#: $languageStrings->'LBL_TRUE'
+msgid "True"
+msgstr ""
+
+#: $languageStrings->'LBL_URL'
+msgid "URL"
+msgstr ""
+
+#: $languageStrings->'LBL_USERNAME'
+msgid "User Name"
+msgstr ""
+
+#: $languageStrings->'LBL_VTIGER6_SETUP_WIZARD_DESCRIPTION'
+msgid "This wizard will guide you through the installation of Vtiger CRM6"
+msgstr ""
+
+#: $languageStrings->'LBL_WELCOME_TO_VTIGER6_SETUP_WIZARD'
+msgid "Welcome to Vtiger CRM 6 Setup Wizard"
+msgstr ""
+
+#: $languageStrings->'LBL_WELCOME'
+msgid "Welcome"
+msgstr ""
+
+#: $languageStrings->'LBL_ZLIB_SUPPORT'
+msgid "Zlib Support"
+msgstr ""
+
+#: $languageStrings->'MSG_DB_PARAMETERS_INVALID'
+msgid ""
+"specified database user, password, hostname, database type, or port is "
+"invalid"
+msgstr ""
+
+#: $languageStrings->'MSG_DB_ROOT_USER_NOT_AUTHORIZED'
+msgid ""
+"Message: Specified database Root User doesn't have permission to Create "
+"database or the Database name has special characters. Try changing the "
+"Database settings"
+msgstr ""
+
+#: $languageStrings->'MSG_DB_USER_NOT_AUTHORIZED'
+msgid ""
+"specified database user does not have access to connect to the database "
+"server from the host"
+msgstr ""
+
+#: $languageStrings->'MSG_LIST_REASONS'
+msgid "This may be due to the following reasons"
+msgstr ""
+
+#: $languageStrings->'LBL_MYSQLI_CONNECT_SUPPORT'
+msgid "mysqli support"
+msgstr ""
+
+#: $languageStrings->'LBL_OPEN_SSL'
+msgid "openssl support"
+msgstr ""
+
+#: $languageStrings->'LBL_CURL'
+msgid "cURL support"
+msgstr ""

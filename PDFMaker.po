@@ -1,0 +1,1619 @@
+#. extracted from fi_fi/PDFMaker.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /* * *******************************************************************************
+#.  * The content of this file is subject to the PDF Maker Free license.
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Initial Developer of the Original Code is IT-Solutions4You s.r.o.
+#.  * Portions created by IT-Solutions4You s.r.o. are Copyright(C) IT-Solutions4You s.r.o.
+#.  * All Rights Reserved.
+#.  * ****************************************************************************** */
+#: $languageStrings->'MyExtension'
+msgid "My Extension"
+msgstr ""
+
+#: $languageStrings->"LBL_MODULE_NAME"
+msgctxt "$languageStrings->\"LBL_MODULE_NAME\""
+msgid "PDF Maker"
+msgstr ""
+
+#: $languageStrings->"LBL_TEMPLATE_GENERATOR"
+msgctxt "$languageStrings->\"LBL_TEMPLATE_GENERATOR\""
+msgid "PDF Maker"
+msgstr ""
+
+#: $languageStrings->"LBL_TEMPLATE_GENERATOR_DESCRIPTION"
+msgid "General pdf templates available for any modul."
+msgstr ""
+
+#: $languageStrings->"LBL_DELETE"
+msgctxt "$languageStrings->\"LBL_DELETE\""
+msgid "Delete"
+msgstr ""
+
+#: $languageStrings->"LBL_ADD_TEMPLATE"
+msgid "Add template"
+msgstr ""
+
+#: $languageStrings->"LBL_LIST_SELECT"
+msgid "Select"
+msgstr ""
+
+#: $languageStrings->"LBL_MODULENAMES"
+msgid "Module"
+msgstr ""
+
+#: $languageStrings->"LBL_DESCRIPTION"
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->"LBL_ACTION"
+msgid "Action"
+msgstr ""
+
+#: $languageStrings->"LBL_TEMPLATE"
+msgid "Template"
+msgstr ""
+
+#: $languageStrings->"LBL_EDIT"
+msgid "Edit"
+msgstr ""
+
+#: $languageStrings->"LBL_NEW_TEMPLATE"
+msgid "New template"
+msgstr ""
+
+#: $languageStrings->"LBL_PROPERTIES"
+msgctxt "$languageStrings->\"LBL_PROPERTIES\""
+msgid "Properties"
+msgstr ""
+
+#: $languageStrings->"LBL_PDF_NAME"
+msgid "Template name"
+msgstr ""
+
+#: $languageStrings->"LBL_PDF_FORMAT"
+msgid "Page format"
+msgstr ""
+
+#: $languageStrings->"LBL_PDF_ORIENTATION"
+msgid "Page orientation"
+msgstr ""
+
+#: $languageStrings->"portrait"
+msgid "Portrait"
+msgstr ""
+
+#: $languageStrings->"landscape"
+msgid "Landscape"
+msgstr ""
+
+#: $languageStrings->"LBL_MARGINS"
+msgid "Margins"
+msgstr ""
+
+#: $languageStrings->"LBL_TOP"
+msgid "Top"
+msgstr ""
+
+#: $languageStrings->"LBL_BOTTOM"
+msgid "Bottom"
+msgstr ""
+
+#: $languageStrings->"LBL_LEFT"
+msgid "Left"
+msgstr ""
+
+#: $languageStrings->"LBL_RIGHT"
+msgid "Right"
+msgstr ""
+
+#: $languageStrings->"LBL_PLS_SELECT"
+msgid "Please select ..."
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_USER_INFO"
+msgid "Company and User information"
+msgstr ""
+
+#: $languageStrings->"LBL_OTHER_INFO"
+msgid "Other informations"
+msgstr ""
+
+#: $languageStrings->"LBL_INSERT_TO_TEXT"
+msgid "Insert into template"
+msgstr ""
+
+#: $languageStrings->"LBL_INSERT_BARCODE_TO_TEXT"
+msgid "Insert Barcode into template"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_INFO"
+msgid "Company information"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_INFO"
+msgid "Assigned to User"
+msgstr ""
+
+#: $languageStrings->"LBL_LOGGED_USER_INFO"
+msgid "Logged in User"
+msgstr ""
+
+#: $languageStrings->"LBL_PDF_TEMPLATE"
+msgid "PDF Template"
+msgstr ""
+
+#: $languageStrings->"LBL_DUPLICATE"
+msgid "Duplicate"
+msgstr ""
+
+#. //company information
+#: $languageStrings->"LBL_COMPANY_NAME"
+msgid "Company Name"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_LOGO"
+msgid "Logo"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_ADDRESS"
+msgctxt "$languageStrings->\"LBL_COMPANY_ADDRESS\""
+msgid "Address"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_CITY"
+msgctxt "$languageStrings->\"LBL_COMPANY_CITY\""
+msgid "City"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_STATE"
+msgctxt "$languageStrings->\"LBL_COMPANY_STATE\""
+msgid "State"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_ZIP"
+msgctxt "$languageStrings->\"LBL_COMPANY_ZIP\""
+msgid "Zip"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_COUNTRY"
+msgctxt "$languageStrings->\"LBL_COMPANY_COUNTRY\""
+msgid "Country"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_PHONE"
+msgctxt "$languageStrings->\"LBL_COMPANY_PHONE\""
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_FAX"
+msgid "Fax"
+msgstr ""
+
+#: $languageStrings->"LBL_COMPANY_WEBSITE"
+msgid "Website"
+msgstr ""
+
+#. //user information
+#: $languageStrings->"LBL_USER_USERNAME"
+msgid "Username"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_FIRSTNAME"
+msgid "Firstname"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_LASTNAME"
+msgid "Lastname"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_EMAIL"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_PHONE"
+msgctxt "$languageStrings->\"LBL_USER_PHONE\""
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_TITLE"
+msgid "Title"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_ADDRESS"
+msgctxt "$languageStrings->\"LBL_USER_ADDRESS\""
+msgid "Address"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_CITY"
+msgctxt "$languageStrings->\"LBL_USER_CITY\""
+msgid "City"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_STATE"
+msgctxt "$languageStrings->\"LBL_USER_STATE\""
+msgid "State"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_ZIP"
+msgctxt "$languageStrings->\"LBL_USER_ZIP\""
+msgid "Zip"
+msgstr ""
+
+#: $languageStrings->"LBL_USER_COUNTRY"
+msgctxt "$languageStrings->\"LBL_USER_COUNTRY\""
+msgid "Country"
+msgstr ""
+
+#. //terms and conditions
+#: $languageStrings->"TERMS_AND_CONDITIONS"
+msgctxt "$languageStrings->\"TERMS_AND_CONDITIONS\""
+msgid "Terms and Conditions"
+msgstr ""
+
+#: $languageStrings->"LBL_TERMS_AND_CONDITIONS"
+msgctxt "$languageStrings->\"LBL_TERMS_AND_CONDITIONS\""
+msgid "Terms and Conditions"
+msgstr ""
+
+#. //module available fields
+#: $languageStrings->"LBL_MODULES_AVLBL"
+msgid "Available fields"
+msgstr ""
+
+#: $languageStrings->"LBL_SELECT_MODULE_FIELD"
+msgid "Select ..."
+msgstr ""
+
+#. //related modules
+#: $languageStrings->"LBL_RELATED_MODULES"
+msgid "Related modules"
+msgstr ""
+
+#: $languageStrings->"LBL_SELECT_MODULE"
+msgid "Select module ..."
+msgstr ""
+
+#. //products
+#: $languageStrings->"LBL_PRODUCT_POSITION"
+msgid "Position"
+msgstr ""
+
+#: $languageStrings->"LBL_CURRENCY_NAME"
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->"LBL_CURRENCY_CODE"
+msgid "Currency code"
+msgstr ""
+
+#: $languageStrings->"LBL_CURRENCY_SYMBOL"
+msgid "Currency symbol"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_PRODUCTNAME"
+msgid "Name (name and description of product/service)"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_PRODUCTTITLE"
+msgid "Name of product/service"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_PRODUCTDESCRIPTION"
+msgid "Description from module Product/Service"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_PRODUCTEDITDESCRIPTION"
+msgid "Product/Service description"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_QUANTITY"
+msgid "Quantity"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_USAGEUNIT"
+msgid "Unit"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_LISTPRICE"
+msgid "List price"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_TOTAL"
+msgid "Total price"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_DISCOUNT"
+msgid "Discount"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_PRODUCTTOTALAFTERDISCOUNT"
+msgctxt "$languageStrings->\"LBL_VARIABLE_PRODUCTTOTALAFTERDISCOUNT\""
+msgid "Total after discount"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_VAT_PERCENT"
+msgctxt "$languageStrings->\"LBL_PRODUCT_VAT_PERCENT\""
+msgid "TAX (%)"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_VAT_SUM"
+msgctxt "$languageStrings->\"LBL_PRODUCT_VAT_SUM\""
+msgid "TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_TOTAL_VAT"
+msgid "Total price with TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_DISCOUNT_PERCENT"
+msgid "Discount (%)"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_TOTALDISCOUNT_PERCENT"
+msgid "Total discount (%)"
+msgstr ""
+
+#. //invoice
+#: $languageStrings->"LBL_VARIABLE_SUM"
+msgctxt "$languageStrings->\"LBL_VARIABLE_SUM\""
+msgid "Sum"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_SUMWITHOUTVAT"
+msgid "Subtotal"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_TOTALDISCOUNT"
+msgid "Total discount"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_TOTALAFTERDISCOUNT"
+msgid "Total without TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_VAT"
+msgctxt "$languageStrings->\"LBL_VARIABLE_VAT\""
+msgid "TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_VAT_PERCENT"
+msgctxt "$languageStrings->\"LBL_VARIABLE_VAT_PERCENT\""
+msgid "TAX (%)"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_VAT_BLOCK"
+msgid "TAX block"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_SUMWITHVAT"
+msgid "Total with TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_ADJUSTMENT"
+msgid "Adjustment"
+msgstr ""
+
+#: $languageStrings->"LBL_VARIABLE_TOTALSUM"
+msgid "Grand total"
+msgstr ""
+
+#: $languageStrings->"LBL_DETAILS_BLOCK"
+msgid "Details"
+msgstr ""
+
+#: $languageStrings->"LBL_CALL_INFORMATION"
+msgid "Call information"
+msgstr ""
+
+#. //footer/header variables
+#: $languageStrings->"LBL_CURRENT_PAGE"
+msgid "Current page"
+msgstr ""
+
+#: $languageStrings->"LBL_ALL_PAGES"
+msgid "Total pages"
+msgstr ""
+
+#: $languageStrings->"LBL_PAGE_PAGES"
+msgid "Page / pages"
+msgstr ""
+
+#: $languageStrings->"LBL_FILENAME"
+msgid "Filename"
+msgstr ""
+
+#: $languageStrings->"LBL_FILESIZE"
+msgid "Filesize"
+msgstr ""
+
+#: $languageStrings->"LBL_TIMESTAMP"
+msgid "Timestamp"
+msgstr ""
+
+#: $languageStrings->"LBL_HEADER_VARIABLE"
+msgid "Header variables"
+msgstr ""
+
+#: $languageStrings->"LBL_FOOTER_VARIABLE"
+msgid "Footer variables"
+msgstr ""
+
+#: $languageStrings->"LBL_CURRENT_DATE"
+msgid "Current date"
+msgstr ""
+
+#: $languageStrings->"LBL_DATE_DD.MM.YYYY"
+msgid "dd.mm.yyyy"
+msgstr ""
+
+#: $languageStrings->"LBL_DATE_DD-MM-YYYY"
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: $languageStrings->"LBL_DATE_MM-DD-YYYY"
+msgid "mm-dd-yyyy"
+msgstr ""
+
+#: $languageStrings->"LBL_DATE_YYYY-MM-DD"
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#: $languageStrings->"LBL_MODULE_FIELDS"
+msgid "Module fields"
+msgstr ""
+
+#. //labels
+#: $languageStrings->"LBL_LABELS"
+msgid "Labels"
+msgstr ""
+
+#: $languageStrings->"LBL_GLOBAL_LANG"
+msgid "Global language"
+msgstr ""
+
+#: $languageStrings->"LBL_MODULE_LANG"
+msgid "Module language"
+msgstr ""
+
+#. //other
+#: $languageStrings->"LBL_CHANGE_MODULE"
+msgid "Change module"
+msgstr ""
+
+#: $languageStrings->"LBL_MARGIN_ERROR"
+msgid "Incorrect margin settings!"
+msgstr ""
+
+#: $languageStrings->'LBL_ARTICLE'
+msgid "Product block"
+msgstr ""
+
+#: $languageStrings->'LBL_ARTICLE_START'
+msgid "Block start"
+msgstr ""
+
+#: $languageStrings->'LBL_ARTICLE_END'
+msgid "Block end"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCTS_AVLBL'
+msgid "Common fields for Products & Services"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCTS_FIELDS'
+msgid "Available fields for Products"
+msgstr ""
+
+#: $languageStrings->'LBL_SERVICES_FIELDS'
+msgid "Available fields for Services"
+msgstr ""
+
+#: $languageStrings->'LBL_PRODUCT_FIELD_INFO'
+msgid ""
+"* fields are placed into Product block. Product block will be shown for "
+"every product/service in PDF."
+msgstr ""
+
+#: $languageStrings->'LBL_DAYS'
+msgid "dní"
+msgstr ""
+
+#: $languageStrings->"LBL_SETTINGS_TAB"
+msgid "Settings"
+msgstr ""
+
+#: $languageStrings->"LBL_ENCODING"
+msgid "Encoding"
+msgstr ""
+
+#: $languageStrings->"LBL_PROPERTIES_TAB"
+msgctxt "$languageStrings->\"LBL_PROPERTIES_TAB\""
+msgid "Properties"
+msgstr ""
+
+#: $languageStrings->"LBL_NOPRODUCT_BLOC"
+msgid "Current module does not contain product block."
+msgstr ""
+
+#: $languageStrings->"LBL_MODULE_ERROR"
+msgid "Please select the module."
+msgstr ""
+
+#: $languageStrings->"LBL_MISSING_FIELDS"
+msgid "Missing mndatory fields:"
+msgstr ""
+
+#: $languageStrings->"LBL_VIEWING"
+msgid "Viewing"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_BLOC_TPL"
+msgid "Product block template"
+msgstr ""
+
+#: $languageStrings->"SELECT_TEMPLATE"
+msgid "Please select the pdf template"
+msgstr ""
+
+#: $languageStrings->"LBL_VATBLOCK_VAT_PERCENT"
+msgid "TAX percent"
+msgstr ""
+
+#: $languageStrings->"LBL_VATBLOCK_SUM"
+msgctxt "$languageStrings->\"LBL_VATBLOCK_SUM\""
+msgid "Sum"
+msgstr ""
+
+#: $languageStrings->"LBL_VATBLOCK_VAT_VALUE"
+msgctxt "$languageStrings->\"LBL_VATBLOCK_VAT_VALUE\""
+msgid "TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_TOTAL_AFTER_DISCOUNT"
+msgctxt "$languageStrings->\"LBL_TOTAL_AFTER_DISCOUNT\""
+msgid "Total after discount"
+msgstr ""
+
+#: $languageStrings->"LBL_TOTAL_TAX_AMOUNT"
+msgid "Total TAX"
+msgstr ""
+
+#: $languageStrings->"LBL_SHTAXTOTAL"
+msgid "Shipping & Handling taxes"
+msgstr ""
+
+#: $languageStrings->"LBL_SHTAXAMOUNT"
+msgid "Shipping & Handling amount"
+msgstr ""
+
+#: $languageStrings->"LBL_IGNORE_PICKLIST_VALUES"
+msgid "Ignored picklist values"
+msgstr ""
+
+#: $languageStrings->"LBL_IGNORE_PICKLIST_VALUES_DESC"
+msgid ""
+"Enter the picklist values separated by comma, which will be ignored in pdf "
+"templates. (i.e. --None--, --none--, --keine--)"
+msgstr ""
+
+#: $languageStrings->"LBL_DECIMALS"
+msgid "Number format"
+msgstr ""
+
+#: $languageStrings->"LBL_DEC_POINT"
+msgid "Decimal point separator"
+msgstr ""
+
+#: $languageStrings->"LBL_DEC_DECIMALS"
+msgid "Decimal point number"
+msgstr ""
+
+#: $languageStrings->"LBL_DEC_THOUSANDS"
+msgid "Thousands separator"
+msgstr ""
+
+#: $languageStrings->"LBL_HEADER_TAB"
+msgid "Header"
+msgstr ""
+
+#: $languageStrings->"LBL_FOOTER_TAB"
+msgid "Footer"
+msgstr ""
+
+#: $languageStrings->"ALERT_USE_FOOTER_EDITOR"
+msgid "Use footer editor above."
+msgstr ""
+
+#: $languageStrings->"ALERT_USE_HEADER_EDITOR"
+msgid "Use header editor above."
+msgstr ""
+
+#: $languageStrings->"CRM_TEMPLATES_DONT_EXIST"
+msgid "No pdf templates have been created for this module."
+msgstr ""
+
+#: $languageStrings->"CRM_TEMPLATES_ADMIN"
+msgid "You can create a new pdf template "
+msgstr ""
+
+#: $languageStrings->"TEMPLATE_CREATE_HERE"
+msgid "here."
+msgstr ""
+
+#: $languageStrings->"LBL_BODY"
+msgid "Body"
+msgstr ""
+
+#: $languageStrings->"LBL_ENCODING_TITLE"
+msgid ""
+"Select the specific encoding in order to minimize time to generate the pdf "
+"file and it's size."
+msgstr ""
+
+#: $languageStrings->"LBL_SAVEASDOC"
+msgid "Save into Documents"
+msgstr ""
+
+#: $languageStrings->"ALERT_DOC_TITLE"
+msgid "The document title can not be empty."
+msgstr ""
+
+#. //installation
+#: $languageStrings->"LBL_INSTALL"
+msgid "installation"
+msgstr ""
+
+#: $languageStrings->"LBL_EXPRESS"
+msgid "Express"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM"
+msgid "Custom"
+msgstr ""
+
+#: $languageStrings->"LBL_EXPRESS_DESC"
+msgid "Standard vtiger installation is required."
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM_DESC"
+msgid ""
+"In case of some changes have been made in files mentioned above of standard "
+"vtiger installation."
+msgstr ""
+
+#: $languageStrings->"LBL_FINISH"
+msgid "Finish"
+msgstr ""
+
+#: $languageStrings->"LBL_NEXT"
+msgid "Next"
+msgstr ""
+
+#: $languageStrings->"LBL_INSTRUCTIONS"
+msgid "Follow these instructions in order to install PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_FILE"
+msgid "file"
+msgstr ""
+
+#: $languageStrings->"LBL_AROUND_LINE"
+msgid "Around line"
+msgstr ""
+
+#: $languageStrings->"LBL_BEFORE"
+msgid "<font color=\"green\">before</font>"
+msgstr ""
+
+#: $languageStrings->"LBL_AFTER"
+msgid "<font color=\"red\">after</font>"
+msgstr ""
+
+#: $languageStrings->"LBL_ADD_FOLLOWING"
+msgid "add the following"
+msgstr ""
+
+#: $languageStrings->"LBL_INSTAL_ERROR"
+msgid "Error occured during installation of PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_ERROR_TBL"
+msgid "Following tasks failed to finish"
+msgstr ""
+
+#: $languageStrings->"LBL_ERROR_COPY_FILE"
+msgid "copy file"
+msgstr ""
+
+#: $languageStrings->"LBL_CHANGE_PERMISSION"
+msgid "Please change file permission to 777."
+msgstr ""
+
+#: $languageStrings->"LBL_RELOAD"
+msgid "Retry"
+msgstr ""
+
+#: $languageStrings->"LBL_INSERT_KEY"
+msgid ""
+"Please insert a license key you received in purchase confirmation email."
+msgstr ""
+
+#: $languageStrings->"LBL_VALIDATE"
+msgid "Validate"
+msgstr ""
+
+#: $languageStrings->"LBL_INVALID_KEY"
+msgid "Invalid license key! Please contact the vendor of PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_ONLINE_ASSURE"
+msgid ""
+"Please make sure that your server has an internet access in order to run "
+"validation."
+msgstr ""
+
+#: $languageStrings->"LBL_ORDER_NOW"
+msgid "Order now"
+msgstr ""
+
+#: $languageStrings->"LBL_DOWNLOAD_SRC"
+msgid ""
+"In order to generate pdf files it's necessary to download and install mPDF "
+"script."
+msgstr ""
+
+#: $languageStrings->"LBL_DOWNLOAD_SRC_DESC"
+msgid ""
+"Click on Download button to download and install <strong><a "
+"href=\"http://www.mpdf1.com/mpdf/index.php\" target=\"_blank\">mPDF</a></strong> "
+"script and to progress in installation. Please be patient it may take a "
+"while.<br /><br />In case that you are unable to automatically download "
+"mPDF, you can donwload it manually from "
+"<pre>https://www.crm4you.sk/PDFMaker/src/mpdf.zip</pre> and unzip it into "
+"<pre>~VTIGER_ROOT/modules/PDFMaker/resources/mpdf/</pre>"
+msgstr ""
+
+#: $languageStrings->"LBL_DOWNLOAD"
+msgctxt "$languageStrings->\"LBL_DOWNLOAD\""
+msgid "Download"
+msgstr ""
+
+#: $languageStrings->"LBL_VALIDATION"
+msgid "Validation"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOMIZATION"
+msgid "Customization"
+msgstr ""
+
+#: $languageStrings->"LBL_INSTALL_SELECTION"
+msgid "Installation mode selection"
+msgstr ""
+
+#: $languageStrings->"DOWNLOAD_ERROR"
+msgid "downloading mPDF from remote server"
+msgstr ""
+
+#: $languageStrings->"UNZIP_ERROR"
+msgid "unzipping mpdf.zip"
+msgstr ""
+
+#: $languageStrings->"LBL_WELCOME"
+msgid "Welcome to the PDF Maker Installation Wizard"
+msgstr ""
+
+#: $languageStrings->"LBL_WELCOME_DESC"
+msgid "This will install PDF Maker into your vtiger CRM."
+msgstr ""
+
+#: $languageStrings->"LBL_WELCOME_FINISH"
+msgid ""
+"It is highly recommended to finish the installation without any "
+"interruption."
+msgstr ""
+
+#: $languageStrings->"LBL_TRY_AGAIN"
+msgid "Try Again"
+msgstr ""
+
+#: $languageStrings->"LBL_MB_STRING_ERROR"
+msgid ""
+"mPdf script requires <strong>mb_string</strong> extension to be enabled in "
+"your PHP installation. Please enable this extension for correct working of "
+"PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES"
+msgid "Barcodes"
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES_TYPE1"
+msgid "EAN-13 Barcodes (EAN-2 and EAN-5)"
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES_TYPE2"
+msgctxt "$languageStrings->\"LBL_BARCODES_TYPE2\""
+msgid "EAN-8, UPC-A and UPC-E Barcodes"
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES_TYPE3"
+msgid "EAN-2 and EAN-5 supplements, and combined forms"
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES_TYPE4"
+msgctxt "$languageStrings->\"LBL_BARCODES_TYPE4\""
+msgid "EAN-8, UPC-A and UPC-E Barcodes"
+msgstr ""
+
+#: $languageStrings->"LBL_BARCODES_TYPE5"
+msgid "Variable width Barcodes"
+msgstr ""
+
+#. //copyright
+#: $languageStrings->"PDF_MAKER"
+msgctxt "$languageStrings->\"PDF_MAKER\""
+msgid "PDF Maker"
+msgstr ""
+
+#: $languageStrings->"COPYRIGHT"
+msgid ":: <a href=\"http://www.its4you.sk/en\">IT-Solutions4You</a>"
+msgstr ""
+
+#. //additional
+#: $languageStrings->"LBL_INVALID_FOPEN_CURL"
+msgid ""
+"Enable <strong>allow_url_fopen</strong> setting or <strong>cURL</strong> "
+"extension in your PHP settings."
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_BREAKLINE"
+msgid "PDF Product Page Break"
+msgstr ""
+
+#: $languageStrings->"LBL_BREAKLINE_DESC"
+msgid "Insert Page Break after selected product."
+msgstr ""
+
+#: $languageStrings->"LBL_REACTIVATE"
+msgid "Reactivate license"
+msgstr ""
+
+#: $languageStrings->"LBL_REACTIVATE_DESC"
+msgid "In case problem with license key occures while generating PDF files."
+msgstr ""
+
+#: $languageStrings->"REACTIVATE_SUCCESS"
+msgid "You have successfuly reactivated your PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_GLOBAL_SETTINGS"
+msgid "Global settings"
+msgstr ""
+
+#: $languageStrings->"LBL_SHOW_SUBTOTAL"
+msgid "Show subtotal before page break"
+msgstr ""
+
+#: $languageStrings->"LBL_SHOW_HEADER"
+msgid "Show table header after page break"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCT_IMAGE"
+msgid "PDF Product Images"
+msgstr ""
+
+#: $languageStrings->"LBL_NO_IMAGE"
+msgid "No image"
+msgstr ""
+
+#: $languageStrings->"CUSTOM_FUNCTIONS"
+msgid "Custom functions"
+msgstr ""
+
+#: $languageStrings->"CUSTOM_FUNCTION"
+msgid "Custom function"
+msgstr ""
+
+#: $languageStrings->"PDFMakerManual"
+msgid "PDF Maker Manual"
+msgstr ""
+
+#: $languageStrings->"LBL_FILENAME"
+msgid "File name"
+msgstr ""
+
+#: $languageStrings->"LBL_COMMON_FILEINFO"
+msgid "Common File Information"
+msgstr ""
+
+#: $languageStrings->"LBL_CURDATE_DD-MM-YYYY"
+msgid "Current date (dd-mm-yyyy)"
+msgstr ""
+
+#: $languageStrings->"LBL_CURDATE_MM-DD-YYYY"
+msgid "Current date (mm-dd-yyyy)"
+msgstr ""
+
+#: $languageStrings->"LBL_CURDATE_YYYY-MM-DD"
+msgid "Current date (yyyy-mm-dd)"
+msgstr ""
+
+#: $languageStrings->"PDFMAKER_ATTACHMENT"
+msgid "PDF Maker Attachment"
+msgstr ""
+
+#: $languageStrings->"LBL_UPDATE"
+msgid "Update"
+msgstr ""
+
+#: $languageStrings->"LBL_UPDATE_INSTRUCTIONS"
+msgid "Follow these instructions in order to update PDF Maker"
+msgstr ""
+
+#: $languageStrings->"LBL_UPDATE_ERROR"
+msgid "Error occured while updating PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_UPDATE_SELECTION"
+msgid "Update mode selection"
+msgstr ""
+
+#: $languageStrings->"LBL_REPLACE"
+msgid "<font color=\"blue\">replace</font>"
+msgstr ""
+
+#: $languageStrings->"LBL_WITH_FOLLOWING"
+msgid "with the following"
+msgstr ""
+
+#: $languageStrings->"LBL_FINAL_INSTRUCTIONS"
+msgid "Final instructions"
+msgstr ""
+
+#: $languageStrings->"LBL_RECALCULATE_RIGHTS"
+msgid ""
+"It is necessary to <b>recalculate</b> rights in order to apply changes.<br "
+"/>Click on the Finish button to be redirected to <b>Sharing access "
+"settings</b>."
+msgstr ""
+
+#: $languageStrings->"LBL_BATCH_PRINT"
+msgid "Batch PDF Export"
+msgstr ""
+
+#: $languageStrings->"LBL_PDF_ACTIONS"
+msgid "PDF Maker batch export"
+msgstr ""
+
+#: $languageStrings->"LBL_UPDATE_SUCCESS"
+msgid "You have successfully finished the update process."
+msgstr ""
+
+#: $languageStrings->"LBL_PDFMAKER_IMPORT"
+msgid "Import PDF Templates"
+msgstr ""
+
+#: $languageStrings->"LBL_STEP_1"
+msgid "Select the .XML File"
+msgstr ""
+
+#: $languageStrings->"LBL_SELECT_XML_TEXT"
+msgid ""
+"To start import, browse to locate the .XML file and click on the Next button "
+"to Continue. "
+msgstr ""
+
+#: $languageStrings->"LBL_FILE_LOCATION"
+msgid "File Location :"
+msgstr ""
+
+#: $languageStrings->"LBL_SETASDEFAULT"
+msgid "Set as default"
+msgstr ""
+
+#: $languageStrings->"LBL_DEFAULT"
+msgid "(default)"
+msgstr ""
+
+#: $languageStrings->"LBL_SETASACTIVE"
+msgid "Set as active"
+msgstr ""
+
+#: $languageStrings->"LBL_SETASINACTIVE"
+msgid "Set as inactive"
+msgstr ""
+
+#: $languageStrings->"LBL_UNSETASDEFAULT"
+msgid "Unset as default"
+msgstr ""
+
+#. // v.1.29
+#: $languageStrings->"LBL_CRMNOW_DESCRIPTION"
+msgid "PDF Configurator description"
+msgstr ""
+
+#. // v.1.30
+#: $languageStrings->"LBL_EXPORT_TO_RTF"
+msgid "Export To RTF"
+msgstr ""
+
+#: $languageStrings->"LBL_RELATED_BLOCK_TPL"
+msgid "Related blocks"
+msgstr ""
+
+#: $languageStrings->"LBL_EDIT_RELATED_BLOCK"
+msgid "Edit block"
+msgstr ""
+
+#: $languageStrings->"LBL_EDIT_RELATED_BLOCK_BTN"
+msgid "Manage blocks"
+msgstr ""
+
+#: $languageStrings->"LBL_MANAGE_RELATED_BLOCK"
+msgid "Manage related blocks"
+msgstr ""
+
+#: $languageStrings->"LBL_RELATED_BLOCK"
+msgid "Related Block"
+msgstr ""
+
+#: $languageStrings->"LBL_RELATED_BLOCK_NAME"
+msgid "Block name"
+msgstr ""
+
+#: $languageStrings->"LBL_BLOCK_STYLE"
+msgid "Block style"
+msgstr ""
+
+#: $languageStrings->'LBL_OR'
+msgid "or"
+msgstr ""
+
+#: $languageStrings->'LBL_NEW_GROUP'
+msgid "New Group"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_GROUP'
+msgid "Delete Group"
+msgstr ""
+
+#: $languageStrings->'LBL_NEW_CONDITION'
+msgid "New Condition"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOW_STANDARD_FILTERS'
+msgid "Show Standard Filters"
+msgstr ""
+
+#. // v.1.31
+#: $languageStrings->"LBL_RECORD_ID"
+msgid "Record ID"
+msgstr ""
+
+#: $languageStrings->"LBL_PS_NO"
+msgid "Product No/Service No"
+msgstr ""
+
+#: $languageStrings->"LBL_DEACTIVATE"
+msgctxt "$languageStrings->\"LBL_DEACTIVATE\""
+msgid "Deactivate license"
+msgstr ""
+
+#: $languageStrings->"LBL_DEACTIVATE_TITLE"
+msgctxt "$languageStrings->\"LBL_DEACTIVATE_TITLE\""
+msgid "Deactivate license"
+msgstr ""
+
+#: $languageStrings->"LBL_DEACTIVATE_DESC"
+msgid ""
+"After deactivation You will be allowed only to export PDFMaker templates.<br "
+"/> After reactivation You will get the standard functionality."
+msgstr ""
+
+#: $languageStrings->"LBL_DEACTIVATE_ERROR"
+msgid "Error occured while deactivating the license key."
+msgstr ""
+
+#. // v.1.33
+#: $languageStrings->"LBL_SETFORPORTAL"
+msgid "Set for Customer Portal"
+msgstr ""
+
+#: $languageStrings->"LBL_WIDTH"
+msgid "Width (mm)"
+msgstr ""
+
+#: $languageStrings->"LBL_HEIGHT"
+msgid "Height (mm)"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM_FORMAT_ERROR"
+msgid ""
+"Incorrect Custom format values. Maximum values are 2000mm x 2000mm and "
+"minimum values are 100mm x 100mm."
+msgstr ""
+
+#: $languageStrings->"LBL_UNSET_PORTAL"
+msgid "Standard vTiger template will be used as a Customer Portal template."
+msgstr ""
+
+#: $languageStrings->"LBL_REPLACED_PORTAL_TEMPLATE"
+msgid "will be replaced with"
+msgstr ""
+
+#: $languageStrings->"LBL_VTIGER_TEMPLATE"
+msgid "Standard vTiger template"
+msgstr ""
+
+#: $languageStrings->"LBL_PDFMAKER_TEMPLATE"
+msgid "PDF Maker template"
+msgstr ""
+
+#: $languageStrings->"LBL_AS_PORTAL_TEMPLATE"
+msgid "as a Customer Portal template."
+msgstr ""
+
+#: $languageStrings->"LBL_TAC4YOU"
+msgid "Terms & Conditions 4You"
+msgstr ""
+
+#: $languageStrings->"LBL_EXTENSIONS"
+msgid "Extensions"
+msgstr ""
+
+#: $languageStrings->"LBL_EXTENSIONS_DESC"
+msgid "Download extensions for the PDF Maker."
+msgstr ""
+
+#: $languageStrings->"LBL_AVAILABLE_EXTENSIONS"
+msgid "Available extensions for the PDF Maker"
+msgstr ""
+
+#: $languageStrings->"LBL_MANUAL"
+msgid "Manual"
+msgstr ""
+
+#: $languageStrings->"LBL_DOWNLOAD"
+msgctxt "$languageStrings->\"LBL_DOWNLOAD\""
+msgid "Download"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOMERPORTAL"
+msgid "Customer Portal"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOMERPORTAL_DESC"
+msgid ""
+"Allows you to use one of the PDF Maker templates as a standard Customer "
+"Portal template for modules Invoice and Quotes."
+msgstr ""
+
+#: $languageStrings->"LBL_WORKFLOW"
+msgid "Workflow"
+msgstr ""
+
+#: $languageStrings->"LBL_WORKFLOW_DESC"
+msgid ""
+"Allows you to create PDF files by using the PDF Maker within the Workflow "
+"settings."
+msgstr ""
+
+#: $languageStrings->"ALERT_DOWNLOAD_ERROR"
+msgid "Error occured while downloading the file."
+msgstr ""
+
+#: $languageStrings->"LBL_INSTAL_EXT"
+msgid "INSTALLATION NOTES:"
+msgstr ""
+
+#: $languageStrings->"LBL_EXPRESS_INSTAL_EXT"
+msgid ""
+"If you have standard vTiger installation without any customizations of "
+"source code or database, please unzip the extension files to the root "
+"directory of vTiger."
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM_INSTAL_EXT"
+msgid "Otherwise, follow the custom installation process described in"
+msgstr ""
+
+#: $languageStrings->"LBL_CP_EXPRESS_INSTAL_EXT"
+msgid ""
+"If you have standard vTiger and Customer Portal installation without any "
+"customizations of source code or database, please unzip the extension files "
+"to the root directory of vTiger and CustomerPortal."
+msgstr ""
+
+#. // v.1.34
+#: $languageStrings->"LBL_PROFILES_DESC"
+msgid "Manage user-specific PDF Maker access to different Roles."
+msgstr ""
+
+#: $languageStrings->"LBL_SETPRIVILEGIES"
+msgid "Define PDF Maker privilegies for all profiles"
+msgstr ""
+
+#: $languageStrings->"LBL_PROFILES"
+msgid "Profiles"
+msgstr ""
+
+#: $languageStrings->"LBL_CREATE_EDIT"
+msgid "Create/Edit"
+msgstr ""
+
+#: $languageStrings->"LBL_VIEW"
+msgid "View"
+msgstr ""
+
+#: $languageStrings->"LBL_DELETE"
+msgctxt "$languageStrings->\"LBL_DELETE\""
+msgid "Delete"
+msgstr ""
+
+#: $languageStrings->"LBL_SHARING_TAB"
+msgid "Sharing"
+msgstr ""
+
+#: $languageStrings->"LBL_TEMPLATE_OWNER"
+msgid "Template owner"
+msgstr ""
+
+#: $languageStrings->"LBL_SHARING_ERROR"
+msgid "Select at least one entity that is allowed to share the template."
+msgstr ""
+
+#: $languageStrings->"LBL_ORDER"
+msgid "Order"
+msgstr ""
+
+#: $languageStrings->"LBL_SAVE_ORDER"
+msgid "Save order of templates"
+msgstr ""
+
+#: $languageStrings->"LBL_ORDER_ERROR"
+msgid "Please insert the valid order of templates."
+msgstr ""
+
+#: $languageStrings->"LBL_ORDER_SAVE_OK"
+msgid "Templates order has been saved successfully."
+msgstr ""
+
+#: $languageStrings->"LBL_ORDER_SAVE_ERROR"
+msgid "Error occured while saving the templates order."
+msgstr ""
+
+#: $languageStrings->"LBL_DONT_DISPLAY_HEADER_ON_FIRST_PAGE"
+msgid "Don't display header on first page"
+msgstr ""
+
+#: $languageStrings->"LBL_DONT_DISPLAY_FOOTER_ON_LAST_PAGE"
+msgid "Don't display footer on last page"
+msgstr ""
+
+#: $languageStrings->"LBL_DISPLAY_FOOTER_ONLY_ON_LAST_PAGE"
+msgid "Display footer only on last page"
+msgstr ""
+
+#: $languageStrings->"LBL_LISTVIEWBLOCK"
+msgid "ListView block"
+msgstr ""
+
+#: $languageStrings->"LBL_COUNTER"
+msgid "Counter"
+msgstr ""
+
+#: $languageStrings->"LBL_HEADER_FOOTER_VARIABLES"
+msgid "Header/Footer variables"
+msgstr ""
+
+#: $languageStrings->"LBL_INSTALL_SUCCESS"
+msgid "PDF Maker has been installed successfully."
+msgstr ""
+
+#. // v.1.35
+#: $languageStrings->"LBL_NEW_PDFMAKER"
+msgid "New PDF Maker"
+msgstr ""
+
+#: $languageStrings->"LBL_NEW_MPDF"
+msgid "New mPDF"
+msgstr ""
+
+#: $languageStrings->"LBL_AVAILABLE"
+msgid "available"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM_LABELS"
+msgid "Self-defined labels"
+msgstr ""
+
+#: $languageStrings->"LBL_CUSTOM_LABELS_DESC"
+msgid ""
+"Manage your own labels and make your PDF templates completely language "
+"independent."
+msgstr ""
+
+#: $languageStrings->"LBL_DEFINE_CUSTOM_LABELS"
+msgid "Define own labels available for all users"
+msgstr ""
+
+#: $languageStrings->"LBL_KEY"
+msgid "Label key"
+msgstr ""
+
+#: $languageStrings->"LBL_VALUE"
+msgid "Label value"
+msgstr ""
+
+#: $languageStrings->"LBL_NO_ITEM_FOUND"
+msgid "No item has been found."
+msgstr ""
+
+#: $languageStrings->"LBL_KEY_EXISTS"
+msgid "Following label keys must be unique:"
+msgstr ""
+
+#: $languageStrings->"LBL_KEY_NAME_PREFIX"
+msgid "Following label keys do not start with required prefix:"
+msgstr ""
+
+#: $languageStrings->"LBL_KEY_HAS_EMPTY_VAL"
+msgid "Following label keys must not have empty value:"
+msgstr ""
+
+#: $languageStrings->"LBL_LISTVIEW_TEMPLATE"
+msgid "Template can be used only as a 'ListView template'"
+msgstr ""
+
+#: $languageStrings->"LBL_FOR_DV"
+msgid "for DetailView"
+msgstr ""
+
+#: $languageStrings->"LBL_FOR_LV"
+msgid "for ListView"
+msgstr ""
+
+#: $languageStrings->"LBL_DEFAULT_NOPAR"
+msgid "default"
+msgstr ""
+
+#: $languageStrings->"LBL_DISPLAY_HEADER"
+msgid "Display header"
+msgstr ""
+
+#: $languageStrings->"LBL_DISPLAY_FOOTER"
+msgid "Display footer"
+msgstr ""
+
+#: $languageStrings->"LBL_ALL_PAGES"
+msgid "All pages"
+msgstr ""
+
+#: $languageStrings->"LBL_FIRST_PAGE"
+msgid "First page"
+msgstr ""
+
+#: $languageStrings->"LBL_OTHER_PAGES"
+msgid "Other pages"
+msgstr ""
+
+#: $languageStrings->"LBL_LAST_PAGE"
+msgid "Last page"
+msgstr ""
+
+#: $languageStrings->"LBL_DESC4YOU"
+msgid "Descriptions 4You"
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCTBLOCKTPL_DESC"
+msgid "Manage your own product block templates."
+msgstr ""
+
+#: $languageStrings->"LBL_PRODUCTBLOCKTPL"
+msgid "Product block templates"
+msgstr ""
+
+#: $languageStrings->"LBL_DEFINE_PBTPL"
+msgid "Define own product block templates available for all users"
+msgstr ""
+
+#: $languageStrings->"LBL_QRCODE"
+msgid "QR code"
+msgstr ""
+
+#: $languageStrings->"LBL_EDIT_PBTPL"
+msgid "Edit product block template"
+msgstr ""
+
+#: $languageStrings->"LBL_CREATE_PBTPL"
+msgid "Create new product block template"
+msgstr ""
+
+#: $languageStrings->"LBL_SELECT_RELBLOCK"
+msgid "Please select related block."
+msgstr ""
+
+#: $languageStrings->"LBL_DELETE_RELBLOCK_CONFIRM"
+msgid "Are you sure to delete the related block"
+msgstr ""
+
+#: $languageStrings->"LBL_MYPREF_DESC"
+msgid "Manage your global PDF Maker preferences."
+msgstr ""
+
+#: $languageStrings->"LBL_MYPREF"
+msgid "My preferences"
+msgstr ""
+
+#: $languageStrings->"LBL_DEFINE_MYPREF"
+msgid "Define your global PDF Maker settings."
+msgstr ""
+
+#: $languageStrings->"LBL_NOTIFICATION_SETT"
+msgid "Notification settings"
+msgstr ""
+
+#: $languageStrings->"LBL_SHOW_NOTIF"
+msgid "Show notification about new PDF Maker/mPDF version"
+msgstr ""
+
+#: $languageStrings->"LBL_OTHER_LANG_VALUES"
+msgid "Other languages values"
+msgstr ""
+
+#: $languageStrings->"LBL_CURR_LANG_VALUE"
+msgid "Current language value"
+msgstr ""
+
+#: $languageStrings->"LBL_OTHER_VALS"
+msgid "Other values"
+msgstr ""
+
+#: $languageStrings->"LBL_LANG"
+msgid "Label language"
+msgstr ""
+
+#. // v.1.35.2
+#: $languageStrings->"LBL_MODCOMMENTS"
+msgid "Comments"
+msgstr ""
+
+#: $languageStrings->"LBL_MODCOMMENTS_INFORMATION"
+msgid "Comments Information"
+msgstr ""
+
+#: $languageStrings->"LBL_DEBUG_DESC"
+msgid "Switch the PDFMaker debugging ON/OFF. Display system information."
+msgstr ""
+
+#: $languageStrings->"LBL_DEBUG"
+msgid "Debugging"
+msgstr ""
+
+#: $languageStrings->"LBL_DB_TAB"
+msgid "Database tables"
+msgstr ""
+
+#: $languageStrings->"LBL_PHPINFO_TAB"
+msgctxt "$languageStrings->\"LBL_PHPINFO_TAB\""
+msgid "PHP Information"
+msgstr ""
+
+#: $languageStrings->"LBL_DEBUGGING_SETT"
+msgid "Switch debugging ON/OFF"
+msgstr ""
+
+#: $languageStrings->"LBL_DEBUGGING_INFO"
+msgid "Other debugging info"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_MEMLIMIT"
+msgid "memory_limit"
+msgstr ""
+
+#: $languageStrings->"LBL_ORIGINAL_VAL"
+msgid "Original value"
+msgstr ""
+
+#: $languageStrings->"LBL_NEW_VAL"
+msgid "Changed value"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_MAXINVARS"
+msgid "max_input_vars"
+msgstr ""
+
+#: $languageStrings->"LBL_LOWVAL"
+msgid "Low value"
+msgstr ""
+
+#: $languageStrings->"LBL_MINVAL"
+msgid "Minimum value"
+msgstr ""
+
+#: $languageStrings->"LBL_OK"
+msgid "OK"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_SUHOSIN"
+msgid "suhosin"
+msgstr ""
+
+#: $languageStrings->"LBL_ENABLED"
+msgid "Enabled"
+msgstr ""
+
+#: $languageStrings->"LBL_DISABLED"
+msgid "Disabled"
+msgstr ""
+
+#: $languageStrings->"LBL_REQUEST_MV"
+msgid "request_max_vars"
+msgstr ""
+
+#: $languageStrings->"LBL_POST_MV"
+msgid "post_max_vars"
+msgstr ""
+
+#: $languageStrings->"LBL_PHPINFO"
+msgctxt "$languageStrings->\"LBL_PHPINFO\""
+msgid "PHP Information"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_FIELD"
+msgid "Field"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_TYPE"
+msgid "Type"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_NULL"
+msgid "Null"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_KEY"
+msgid "Key"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_DEFAULT"
+msgid "Default"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_DB_EXTRA"
+msgid "Extra"
+msgstr ""
+
+#: $languageStrings->"LBL_DEBUGGING_FILES_PERM"
+msgid "Selected files permissions"
+msgstr ""
+
+#: $languageStrings->"LBL_DBG_FP_NOT_WRITABLE"
+msgid "Write permission missing"
+msgstr ""
+
+#: $languageStrings->"LBL_NOT_WRITABLE"
+msgid "Not writable"
+msgstr ""
+
+#: $languageStrings->"LBL_ACTIONS"
+msgid "Actions"
+msgstr ""
+
+#. /*.*",
+#: $languageStrings->"LBL_DBG_SMARTY"
+msgid "Delete Smarty/templates_c/*.*"
+msgstr ""

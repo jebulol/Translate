@@ -1,0 +1,245 @@
+#. extracted from fi_fi/Settings/Leads.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'checkBox'
+msgctxt "$languageStrings->'checkBox'"
+msgid "Check Box"
+msgstr ""
+
+#: $languageStrings->'currency'
+msgctxt "$languageStrings->'currency'"
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->'date'
+msgctxt "$languageStrings->'date'"
+msgid "Date"
+msgstr ""
+
+#: $languageStrings->'decimal'
+msgctxt "$languageStrings->'decimal'"
+msgid "Decimal"
+msgstr ""
+
+#: $languageStrings->'email'
+msgctxt "$languageStrings->'email'"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MAPPING'
+msgid "Add Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_CONTACTS'
+msgid "Contacts"
+msgstr ""
+
+#: $languageStrings->'LBL_CONVERT_LEAD_FIELD_MAPPING'
+msgid "Convert Lead Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETED_SUCCESSFULLY'
+msgid "Deleted Successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_LABEL'
+msgid "Field Label"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_TYPE'
+msgid "Field Type"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_MAPPING'
+msgid "Invalid Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_MAPPING_WITH_OTHER_MODULES'
+msgid "Mapping with other Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_NONE'
+msgctxt "$languageStrings->'LBL_NONE'"
+msgid "None"
+msgstr ""
+
+#: $languageStrings->'LBL_OPPURTUNITIES'
+msgid "Opportunities"
+msgstr ""
+
+#: $languageStrings->'LBL_ORGANIZATIONS'
+msgid "Organizations"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVED_SUCCESSFULLY'
+msgid "Saved Successfully"
+msgstr ""
+
+#: $languageStrings->'multiSelectCombo'
+msgctxt "$languageStrings->'multiSelectCombo'"
+msgid "Multi-Select Combo Box"
+msgstr ""
+
+#: $languageStrings->'percent'
+msgctxt "$languageStrings->'percent'"
+msgid "Percent"
+msgstr ""
+
+#: $languageStrings->'phone'
+msgctxt "$languageStrings->'phone'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'picklist'
+msgctxt "$languageStrings->'picklist'"
+msgid "Pick List"
+msgstr ""
+
+#: $languageStrings->'skype'
+msgctxt "$languageStrings->'skype'"
+msgid "Skype"
+msgstr ""
+
+#: $languageStrings->'string'
+msgctxt "$languageStrings->'string'"
+msgid "String"
+msgstr ""
+
+#: $languageStrings->'textArea'
+msgctxt "$languageStrings->'textArea'"
+msgid "Text Area"
+msgstr ""
+
+#: $languageStrings->'text'
+msgctxt "$languageStrings->'text'"
+msgid "String"
+msgstr ""
+
+#: $languageStrings->'time'
+msgctxt "$languageStrings->'time'"
+msgid "Time"
+msgstr ""
+
+#: $languageStrings->'url'
+msgctxt "$languageStrings->'url'"
+msgid "Url"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CANT_MAP'
+msgid "Can't map"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_checkBox'
+msgctxt "$jsLanguageStrings->'JS_checkBox'"
+msgid "Check Box"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_currency'
+msgctxt "$jsLanguageStrings->'JS_currency'"
+msgid "Currency"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_date'
+msgctxt "$jsLanguageStrings->'JS_date'"
+msgid "Date"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_decimal'
+msgctxt "$jsLanguageStrings->'JS_decimal'"
+msgid "Decimal"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_email'
+msgctxt "$jsLanguageStrings->'JS_email'"
+msgid "Email"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_integer'
+msgid "Integer"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IS_ALREADY_BEEN_MAPPED'
+msgid "has already been mapped"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAPPING_DELETED_SUCCESSFULLY'
+msgid "Mapping Deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_multiSelectCombo'
+msgctxt "$jsLanguageStrings->'JS_multiSelectCombo'"
+msgid "Multi-Select Combo Box"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NONE'
+msgctxt "$jsLanguageStrings->'JS_NONE'"
+msgid "None"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_percent'
+msgctxt "$jsLanguageStrings->'JS_percent'"
+msgid "Percent"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_phone'
+msgctxt "$jsLanguageStrings->'JS_phone'"
+msgid "Phone"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_picklist'
+msgctxt "$jsLanguageStrings->'JS_picklist'"
+msgid "Pick List"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_skype'
+msgctxt "$jsLanguageStrings->'JS_skype'"
+msgid "Skype"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_string'
+msgctxt "$jsLanguageStrings->'JS_string'"
+msgid "String"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_textArea'
+msgctxt "$jsLanguageStrings->'JS_textArea'"
+msgid "Text Area"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_text'
+msgctxt "$jsLanguageStrings->'JS_text'"
+msgid "String"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_time'
+msgctxt "$jsLanguageStrings->'JS_time'"
+msgid "Time"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_url'
+msgctxt "$jsLanguageStrings->'JS_url'"
+msgid "Url"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_WITH'
+msgid "with"
+msgstr ""

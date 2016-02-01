@@ -1,0 +1,481 @@
+#. extracted from fi_fi/Settings/ExtensionStore.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /* 
+#. * Copyright (C) www.vtiger.com. All rights reserved.
+#. * @license Proprietary
+#. */
+#: $languageStrings->'LBL_PUBLISHER'
+msgid "Publisher"
+msgstr ""
+
+#: $languageStrings->'LBL_LICENSE'
+msgid "License"
+msgstr ""
+
+#: $languageStrings->'LBL_PUBLISHED_ON'
+msgid "Published on"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL'
+msgctxt "$languageStrings->'LBL_INSTALL'"
+msgid "Install"
+msgstr ""
+
+#: $languageStrings->'LBL_UPGRADE'
+msgctxt "$languageStrings->'LBL_UPGRADE'"
+msgid "Upgrade"
+msgstr ""
+
+#: $languageStrings->'LBL_VERSION'
+msgid "Version"
+msgstr ""
+
+#: $languageStrings->'LBL_DECLINE'
+msgid "Decline"
+msgstr ""
+
+#: $languageStrings->'LBL_ACCEPT_AND_INSTALL'
+msgid "Accept and Install"
+msgstr ""
+
+#: $languageStrings->'LBL_OK'
+msgid "OK"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_NOT_COMPATABLE'
+msgid "Extension is not Compatable"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_FILE'
+msgid "Invalid File"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_LICENSE_PROVIDED'
+msgid "No License Provided"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION'
+msgid "Installation"
+msgstr ""
+
+#: $languageStrings->'LBL_FAILED'
+msgid "Failed"
+msgstr ""
+
+#: $languageStrings->'LBL_SUCCESSFULL'
+msgid "Successful"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION_LOG'
+msgid "Installation Log"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATED_MODULE'
+msgid " module was updated successfully."
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATING_MODULE'
+msgid "Updating Module"
+msgstr ""
+
+#. //Extension Store translations
+#: $languageStrings->'LBL_VTIGER_EXTENSION_STORE'
+msgid "Vtiger Extension Store"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_FOR_AN_EXTENSION'
+msgid "Search for an extension.."
+msgstr ""
+
+#: $languageStrings->'LBL_DOWNLOADS'
+msgid "Downloads"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_EXTENSIONS_FOUND'
+msgid "No Extensions Found"
+msgstr ""
+
+#: $languageStrings->'LBL_REGISTER_TO_MARKET_PLACE'
+msgid "Register to Marketplace"
+msgstr ""
+
+#: $languageStrings->'LBL_MARKETPLACE_REGISTRATION'
+msgid "Marketplace Registration"
+msgstr ""
+
+#: $languageStrings->'LBL_MARKETPLACE_LOGIN'
+msgid "Marketplace Login"
+msgstr ""
+
+#: $languageStrings->'LBL_NEW_TO_MARKETPLCAE'
+msgid "New to Marketplace ?"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_AN_ACCOUNT'
+msgid "Create a new account"
+msgstr ""
+
+#: $languageStrings->'LBL_SETUP_CARD_DETAILS'
+msgid "Setup Card Details"
+msgstr ""
+
+#: $languageStrings->'LBL_SETUP_CARD'
+msgid "Setup Card"
+msgstr ""
+
+#: $languageStrings->'LBL_CARD_NUMBER'
+msgid "Card Number"
+msgstr ""
+
+#: $languageStrings->'LBL_EXP_MONTH'
+msgid "Exp Month"
+msgstr ""
+
+#: $languageStrings->'LBL_EXP_YEAR'
+msgid "Exp Year"
+msgstr ""
+
+#: $languageStrings->'LBL_CVC_CODE'
+msgid "CVC Code"
+msgstr ""
+
+#: $languageStrings->'LBL_RESET'
+msgid "Reset"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_STORE'
+msgid "Extension Store"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLED'
+msgctxt "$languageStrings->'LBL_INSTALLED'"
+msgid "Installed"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_CARD_DETAILS'
+msgctxt "$languageStrings->'LBL_UPDATE_CARD_DETAILS'"
+msgid "Update Card Details"
+msgstr ""
+
+#: $languageStrings->'LBL_BY'
+msgid "by"
+msgstr ""
+
+#: $languageStrings->'LBL_RATINGS'
+msgctxt "$languageStrings->'LBL_RATINGS'"
+msgid "Ratings"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_AUTHOR_INFORMATION'
+msgid "Author Information"
+msgstr ""
+
+#: $languageStrings->'LBL_AUTHOR_NAME'
+msgid "Author Name"
+msgstr ""
+
+#: $languageStrings->'LBL_PHONE'
+msgctxt "$languageStrings->'LBL_PHONE'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL'
+msgctxt "$languageStrings->'LBL_EMAIL'"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'LBL_SCREEN_SHOTS'
+msgid "Screenshots"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_RATINGS'
+msgid "Customer Ratings"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_REVIEWS'
+msgid "Customer Reviews"
+msgstr ""
+
+#: $languageStrings->'LBL_WRITE_A_REVIEW'
+msgid "Write a Review"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_REVIEW'
+msgid "Customer Review"
+msgstr ""
+
+#: $languageStrings->'LBL_REVIEW'
+msgid "Review"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMERS_REVIEWED'
+msgid "Customers Reviewed"
+msgstr ""
+
+#: $languageStrings->'LBL_SINGLE_CUSTOMER_REVIEWED'
+msgid "Single Customer Reviewed"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALLATION_FAILED'
+msgid "Installation Failed"
+msgstr ""
+
+#: $languageStrings->'LBL_SUCCESSFULL_INSTALLATION'
+msgid "Successful Installation"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL_FROM_ZIP'
+msgid "Install from Zip"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_DETAILS'
+msgid "More Details"
+msgstr ""
+
+#: $languageStrings->'Install'
+msgctxt "$languageStrings->'Install'"
+msgid "Install"
+msgstr ""
+
+#: $languageStrings->'Upgrade'
+msgctxt "$languageStrings->'Upgrade'"
+msgid "Upgrade"
+msgstr ""
+
+#: $languageStrings->'LBL_RATE_IT'
+msgid "Rate it."
+msgstr ""
+
+#: $languageStrings->'LBL_UNINSTALL'
+msgid "UnInstall"
+msgstr ""
+
+#: $languageStrings->'LBL_LAUNCH'
+msgid "Launch"
+msgstr ""
+
+#: $languageStrings->'LBL_SIGN_UP_FOR_FREE'
+msgid "Sign up for free"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_ADDRESS'
+msgid "Email address"
+msgstr ""
+
+#: $languageStrings->'LBL_FIRST_NAME'
+msgid "First name"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_NAME'
+msgid "Last name"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_NAME'
+msgid "Company name"
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD'
+msgid "Password"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIRM_PASSWORD'
+msgid "Confirm password"
+msgstr ""
+
+#: $languageStrings->'LBL_REGISTER'
+msgid "Register"
+msgstr ""
+
+#: $languageStrings->'LBL_EXTENSION_STORE_LOGIN'
+msgid "Extensionstore Login"
+msgstr ""
+
+#: $languageStrings->'LBL_REMEMBER_ME'
+msgid "Remember me"
+msgstr ""
+
+#: $languageStrings->'LBL_TRY_IT'
+msgid "Try it"
+msgstr ""
+
+#: $languageStrings->'LBL_TRIAL_INSTALLED'
+msgctxt "$languageStrings->'LBL_TRIAL_INSTALLED'"
+msgid "Trial Installed"
+msgstr ""
+
+#: $languageStrings->'LBL_BUY'
+msgid "Buy "
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_TO_MARKET_PLACE'
+msgid "Login to Marketplace"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN'
+msgid "Login"
+msgstr ""
+
+#: $languageStrings->'LBL_PHP_EXTENSION_LOADER_IS_NOT_AVAIABLE'
+msgid "Please install extension loader"
+msgstr ""
+
+#: $languageStrings->'LBL_INSTALL_EXTENSION_LOADER'
+msgid "Install Extension Loader"
+msgstr ""
+
+#: $languageStrings->'LBL_TO_CONTINUE_USING_EXTENSION_STORE'
+msgid "To continue using Extension Store please install "
+msgstr ""
+
+#: $languageStrings->'LBL_DOWNLOAD'
+msgid "Download"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPATIABLE_EXTENSION'
+msgid " and enable it as zend_extension."
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_DETAILS_ON_INSTALLATION'
+msgid "For more details on installation "
+msgstr ""
+
+#: $languageStrings->'LBL_READ_HERE'
+msgid "read here"
+msgstr ""
+
+#: $languageStrings->'LBL_REVIEWS'
+msgid "Reviews"
+msgstr ""
+
+#: $languageStrings->'LBL_SIGNUP_FOR_MARKET_PLACE'
+msgid "Signup for Marketplace"
+msgstr ""
+
+#: $languageStrings->'LBL_UNAUTHORIZED'
+msgid "Unauthorized"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPIRY_DATE'
+msgid "Expiry Date"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGOUT'
+msgid "Logout"
+msgstr ""
+
+#: $languageStrings->'firstname'
+msgid "First Name"
+msgstr ""
+
+#: $languageStrings->'lastname'
+msgid "Last Name"
+msgstr ""
+
+#: $languageStrings->'email'
+msgctxt "$languageStrings->'email'"
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'company'
+msgid "Company"
+msgstr ""
+
+#: $languageStrings->'Phone'
+msgctxt "$languageStrings->'Phone'"
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'Website'
+msgid "Website"
+msgstr ""
+
+#: $languageStrings->'LBL_SECURITY_CODE'
+msgid "Security Code"
+msgstr ""
+
+#: $languageStrings->'LBL_WHAT_IS_SECURITY_CODE'
+msgid "What is Security Code ?"
+msgstr ""
+
+#: $languageStrings->'LBL_CARD_NUMBER_PLACEHOLDER'
+msgid "16 digit number on your card"
+msgstr ""
+
+#: $languageStrings->'LBL_SECURITY_CODE_HELP_CONTENT'
+msgid ""
+"The CVV Number(Card Verification Value) on your credit/debit card is a 3 "
+"digit number on VISA®, MasterCard® etc.. branded credit/debit cards."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SETUP_CARD_DETAILS_TO_INSTALL_THIS_EXTENSION'
+msgid "Please setup card details to install this extension"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_UPDATE_CARD_DETAILS'
+msgctxt "$jsLanguageStrings->'JS_UPDATE_CARD_DETAILS'"
+msgid "Update Card Details"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ON'
+msgid "on"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RATINGS'
+msgctxt "$jsLanguageStrings->'JS_RATINGS'"
+msgid "Ratings"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_INSTALLED'
+msgctxt "$jsLanguageStrings->'JS_INSTALLED'"
+msgid "Installed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TRIAL_INSTALLED'
+msgctxt "$jsLanguageStrings->'JS_TRIAL_INSTALLED'"
+msgid "Trial Installed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK'
+msgid ""
+"Please install extension loader to install this extension from below link"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_LOGIN_TO_MARKETPLACE_FOR_INSTALLING_EXTENSION'
+msgid "Please login to marketplace for installing extension"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SETUP_CARD_DETAILS_TO_INSTALL_EXTENSION'
+msgid "Please setup card details to install extension"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_LOGIN_TO_MARKETPLACE_FOR_UNINSTALLING_EXTENSION'
+msgid "Please login to marketplace for uninstalling extension"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_INSTALL_THIS_EXTENSION'
+msgid "Are you sure you want to install this extension?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CARD_DETAILS_UPDATED'
+msgid "Card details updated!"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_LOGOUT_FROM_EXTENSION'
+msgid "Are you sure you want to log out from extension?"
+msgstr ""

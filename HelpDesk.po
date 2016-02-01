@@ -1,0 +1,324 @@
+#. extracted from fi_fi/HelpDesk.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: %24languageStrings-%3E%27Big+Problem%27
+msgid "Big Problem"
+msgstr ""
+
+#: $languageStrings->'Closed'
+msgctxt "$languageStrings->'Closed'"
+msgid "Closed"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contact+Name%27
+msgid "Contact Name"
+msgstr ""
+
+#: $languageStrings->'created'
+msgid "created"
+msgstr ""
+
+#: $languageStrings->'Critical'
+msgid "Critical"
+msgstr ""
+
+#: $languageStrings->'customer_portal'
+msgid "in the \"Customer Portal\" at VTiger."
+msgstr ""
+
+#: $languageStrings->'Days'
+msgid "Days"
+msgstr ""
+
+#: $languageStrings->'Dear'
+msgid "Dear"
+msgstr ""
+
+#: $languageStrings->'Feature'
+msgid "Feature"
+msgstr ""
+
+#: %24languageStrings-%3E%27From+Portal%27
+msgid "From Portal"
+msgstr ""
+
+#: %24languageStrings-%3E%27HelpDesk+ID%27
+msgctxt "$languageStrings->'HelpDesk ID'"
+msgid "Ticket ID"
+msgstr ""
+
+#: $languageStrings->'HelpDesk'
+msgid "Tickets"
+msgstr ""
+
+#: $languageStrings->'High'
+msgid "High"
+msgstr ""
+
+#: $languageStrings->'Hi'
+msgid "Hi"
+msgstr ""
+
+#: $languageStrings->'Hours'
+msgid "Hours"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Ticket"
+msgstr ""
+
+#: $languageStrings->'LBL_ALTBODY'
+msgid "This is the body in plain text for non-HTML mail clients"
+msgstr ""
+
+#: $languageStrings->'LBL_CHECK_MAILID'
+msgid "Please check your email id for Customer Portal"
+msgstr ""
+
+#: $languageStrings->'LBL_CONVERT_FAQ'
+msgid "Convert to FAQ"
+msgstr ""
+
+#: $languageStrings->'LBL_COULDNOT_CLOSED'
+msgid "Ticket could not be"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_COMMENTS'
+msgid ""
+"Customer has provided the following additional information to your reply:"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_PORTAL'
+msgid "in Customer Portal - URGENT"
+msgstr ""
+
+#: $languageStrings->'LBL_DETAIL'
+msgid "the details are :"
+msgstr ""
+
+#: $languageStrings->'LBL_GIVE_MAILID'
+msgid "Please give your email id"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_DETAILS'
+msgid "Following are your Customer Portal login details :"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_REVOKED'
+msgid "Your login is revoked. Please contact your admin."
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_COULDNOT_SENT'
+msgid "Mail could not be sent"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_SENT'
+msgid ""
+"Mail has been sent to your mail id with the customer portal login details"
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD'
+msgid "Password :"
+msgstr ""
+
+#: $languageStrings->'LBL_PORTAL_BODY_MAILINFO'
+msgid "The Ticket is"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Ticket List"
+msgstr ""
+
+#: $languageStrings->'LBL_REGARDS'
+msgid "Regards"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_TO'
+msgid "Related To"
+msgstr ""
+
+#: $languageStrings->'LBL_RESPOND'
+msgid "Kindly respond to above ticket at the earliest."
+msgstr ""
+
+#: $languageStrings->'LBL_RESPONDTO_TICKETID'
+msgid "Respond to Ticket ID"
+msgstr ""
+
+#: $languageStrings->'LBL_RESPONSE_TO_TICKET_NUMBER'
+msgid "Response to Ticket Number"
+msgstr ""
+
+#: $languageStrings->'LBL_SEVERITY'
+msgctxt "$languageStrings->'LBL_SEVERITY'"
+msgid "Severity"
+msgstr ""
+
+#. Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
+#: $languageStrings->'LBL_STATUS_CLOSED'
+msgctxt "$languageStrings->'LBL_STATUS_CLOSED'"
+msgid "Closed"
+msgstr ""
+
+#: $languageStrings->'LBL_STATUS'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'LBL_STATUS_UPDATE'
+msgid "Ticket status is updated as"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT_PORTAL_LOGIN_DETAILS'
+msgid "Regarding your Customer Portal login details"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT'
+msgid "Subject : "
+msgstr ""
+
+#: $languageStrings->'LBL_SUPPORT_ADMIN'
+msgid "Support Administrator"
+msgstr ""
+
+#: $languageStrings->'LBL_TEAM'
+msgid "HelpDesk Team"
+msgstr ""
+
+#: $languageStrings->'LBL_TICKET_DETAILS'
+msgid "Ticket Details"
+msgstr ""
+
+#: $languageStrings->'LBL_TICKET_INFORMATION'
+msgid "Ticket Information"
+msgstr ""
+
+#: $languageStrings->'LBL_TICKET_NUMBER'
+msgctxt "$languageStrings->'LBL_TICKET_NUMBER'"
+msgid "Ticket Number"
+msgstr ""
+
+#: $languageStrings->'LBL_TICKET_RESOLUTION'
+msgid "Ticket Resolution"
+msgstr ""
+
+#: $languageStrings->'LBL_USERNAME'
+msgid "User Name :"
+msgstr ""
+
+#: $languageStrings->'link'
+msgid "You can use the following link to view the replies made:"
+msgstr ""
+
+#: $languageStrings->'Major'
+msgid "Major"
+msgstr ""
+
+#: $languageStrings->'Minor'
+msgid "Minor"
+msgstr ""
+
+#: $languageStrings->'Normal'
+msgid "Normal"
+msgstr ""
+
+#: $languageStrings->'Open'
+msgid "Open"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Problem%27
+msgid "Other Problem"
+msgstr ""
+
+#: %24languageStrings-%3E%27Related+To%27
+msgid "Organization Name"
+msgstr ""
+
+#: $languageStrings->'replied'
+msgid "replied"
+msgstr ""
+
+#: $languageStrings->'reply'
+msgid "There is a reply to"
+msgstr ""
+
+#: $languageStrings->'Re'
+msgid "Re :"
+msgstr ""
+
+#: $languageStrings->'Severity'
+msgctxt "$languageStrings->'Severity'"
+msgid "Severity"
+msgstr ""
+
+#: $languageStrings->'SINGLE_HelpDesk'
+msgid "Ticket"
+msgstr ""
+
+#: %24languageStrings-%3E%27Small+Problem%27
+msgid "Small Problem"
+msgstr ""
+
+#: $languageStrings->'Solution'
+msgid "Solution"
+msgstr ""
+
+#: $languageStrings->'Support_team'
+msgid "Vtiger Support Team"
+msgstr ""
+
+#: $languageStrings->'Thanks'
+msgid "Thanks"
+msgstr ""
+
+#: %24languageStrings-%3E%27The+comments+are%27
+msgid "The comments are"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ticket+ID%27
+msgctxt "$languageStrings->'Ticket ID'"
+msgid "Ticket ID"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ticket+No%27
+msgctxt "$languageStrings->'Ticket No'"
+msgid "Ticket Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ticket+Title%27
+msgid "Ticket Title"
+msgstr ""
+
+#: $languageStrings->'Title'
+msgid "Title"
+msgstr ""
+
+#: %24languageStrings-%3E%27Update+History%27
+msgid "Update History"
+msgstr ""
+
+#: $languageStrings->'Urgent'
+msgid "Urgent"
+msgstr ""
+
+#: %24languageStrings-%3E%27Wait+For+Response%27
+msgid "Wait For Response"
+msgstr ""

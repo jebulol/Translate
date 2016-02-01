@@ -1,0 +1,97 @@
+#. extracted from fi_fi/Assets.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#. // Basic Strings
+#: $languageStrings->'Assets'
+msgid "Assets"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Assets'
+msgid "Asset"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Asset"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Assets List"
+msgstr ""
+
+#. // Blocks
+#: $languageStrings->'LBL_ASSET_INFORMATION'
+msgid "Asset Details"
+msgstr ""
+
+#. //Field Labels
+#: %24languageStrings-%3E%27Asset+No%27
+msgid "Asset No"
+msgstr ""
+
+#: %24languageStrings-%3E%27Serial+Number%27
+msgid "Serial Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Date+Sold%27
+msgid "Date Sold"
+msgstr ""
+
+#: %24languageStrings-%3E%27Date+in+Service%27
+msgid "Date in Service"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tag+Number%27
+msgid "Tag Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Invoice+Name%27
+msgid "Invoice Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Shipping+Method%27
+msgid "Shipping Method"
+msgstr ""
+
+#: %24languageStrings-%3E%27Shipping+Tracking+Number%27
+msgid "Shipping Tracking Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Asset+Name%27
+msgid "Asset Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Customer+Name%27
+msgid "Customer Name"
+msgstr ""
+
+#: $languageStrings->'Notes'
+msgid "Notes"
+msgstr ""
+
+#. /*picklist values*/
+#: %24languageStrings-%3E%27In+Service%27
+msgid "In Service"
+msgstr ""
+
+#: $languageStrings->'Out-of-service'
+msgid "Out-of-service"
+msgstr ""

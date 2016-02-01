@@ -1,0 +1,187 @@
+#. extracted from fi_fi/Settings/Profiles.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_PROFILES'
+msgid "Choose Profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_PROFILE'
+msgid "Create Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_PROFILE'
+msgid "Delete Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_PRVILIGE'
+msgctxt "$languageStrings->'LBL_DELETE_PRVILIGE'"
+msgid "Delete"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_RECORD'
+msgctxt "$languageStrings->'LBL_DELETE_RECORD'"
+msgid "Delete"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATE_RECORD'
+msgid "Duplicate"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATES_EXIST'
+msgid "Duplicate Profile Exists"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_ALL_DESC'
+msgid "Can edit all the module's information"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_ALL'
+msgid "Edit All"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE'
+msgid "Edit privileges for this profile"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_PRVILIGE'
+msgid "Create/Edit"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_RECORD'
+msgid "Edit"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_AND_TOOL_PRVILIGES'
+msgid "Field and Tool Privileges"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELDS'
+msgid "Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_INIVISIBLE'
+msgid "Invisible"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULES'
+msgid "Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE_NAME'
+msgid "Profile name"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILES'
+msgctxt "$languageStrings->'LBL_PROFILES'"
+msgid "Profiles"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE_VIEW'
+msgid "Profile view"
+msgstr ""
+
+#: $languageStrings->'LBL_READ_ONLY'
+msgid "Read only"
+msgstr ""
+
+#: $languageStrings->'LBL_TOOLS'
+msgid "Tools"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_ROLES_TO_PROFILE'
+msgid "Transfer roles to profile"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_ALL_DESC'
+msgid "Can view all the module's information"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_ALL'
+msgid "View All"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_PRVILIGE'
+msgid "View"
+msgstr ""
+
+#: $languageStrings->'LBL_WRITE'
+msgid "Write"
+msgstr ""
+
+#: $languageStrings->'Profiles'
+msgctxt "$languageStrings->'Profiles'"
+msgid "Profiles"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Profiles'
+msgid "Profile"
+msgstr ""
+
+#: $languageStrings->'Import'
+msgid "Import"
+msgstr ""
+
+#: $languageStrings->'Export'
+msgid "Export"
+msgstr ""
+
+#: $languageStrings->'Merge'
+msgid "Merge"
+msgstr ""
+
+#: $languageStrings->'ConvertLead'
+msgid "Convert Lead"
+msgstr ""
+
+#: $languageStrings->'DuplicatesHandling'
+msgid "Duplicates Handling"
+msgstr ""
+
+#: $languageStrings->'ReceiveIncomingCalls'
+msgid "Receive Incoming Calls"
+msgstr ""
+
+#: $languageStrings->'MakeOutgoingCalls'
+msgid "Make Outgoing Calls"
+msgstr ""
+
+#: $languageStrings->'Print'
+msgid "Print"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#. //Field names
+#: $languageStrings->'Name'
+msgid "Profile Name"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORD_DELETED_SUCCESSFULLY'
+msgid "Profile deleted successfully"
+msgstr ""

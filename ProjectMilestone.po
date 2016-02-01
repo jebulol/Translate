@@ -1,0 +1,57 @@
+#. extracted from fi_fi/ProjectMilestone.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Project Milestone"
+msgstr ""
+
+#: $languageStrings->'LBL_PROJECT_MILESTONE_INFORMATION'
+msgid "Project Milestone Details"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Project Milestones List"
+msgstr ""
+
+#: %24languageStrings-%3E%27Milestone+Date%27
+msgid "Milestone Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Milestone+Name%27
+msgid "Project Milestone Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Milestone+No%27
+msgid "Project Milestone Number"
+msgstr ""
+
+#: $languageStrings->'SINGLE_ProjectMilestone'
+msgid "Project Milestone"
+msgstr ""
+
+#: $languageStrings->'LBL_PROJECTS_LIST'
+msgid "Projects List"
+msgstr ""
+
+#: $languageStrings->'LBL_TASKS_LIST'
+msgid "Tasks List"
+msgstr ""

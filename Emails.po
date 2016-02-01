@@ -1,0 +1,149 @@
+#. extracted from fi_fi/Emails.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: %24languageStrings-%3E%27Date+%26+Time+Sent%27
+msgid "Date Sent"
+msgstr ""
+
+#: $languageStrings->'Emails'
+msgid "Emails"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_BCC'
+msgid "Add Bcc"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CC'
+msgid "Add Cc"
+msgstr ""
+
+#: $languageStrings->'LBL_ATTACHMENT'
+msgid "Attachment"
+msgstr ""
+
+#: $languageStrings->'LBL_BCC'
+msgid "Bcc"
+msgstr ""
+
+#: $languageStrings->'LBL_BROWSE_CRM'
+msgid "Browse CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_CC'
+msgid "Cc"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPOSE_EMAIL'
+msgid "Compose Email"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION'
+msgid "Description"
+msgstr ""
+
+#: $languageStrings->'LBL_MAIL_DATE'
+msgid "Mail Date"
+msgstr ""
+
+#: $languageStrings->'LBL_DRAFTED_ON'
+msgid "Drafted on"
+msgstr ""
+
+#: $languageStrings->'LBL_DRAFT'
+msgid "Draft"
+msgstr ""
+
+#: $languageStrings->'LBL_ATTACHED'
+msgid "Attached"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_INFORMATION'
+msgid "Email Information"
+msgstr ""
+
+#: $languageStrings->'LBL_EXCEEDED'
+msgid "Exceeded"
+msgstr ""
+
+#: $languageStrings->'LBL_FORWARD'
+msgid "Forward"
+msgstr ""
+
+#: $languageStrings->'LBL_FROM'
+msgid "From"
+msgstr ""
+
+#: $languageStrings->'LBL_GO_TO_PREVIEW'
+msgid "Go to Preview"
+msgstr ""
+
+#: $languageStrings->'LBL_INFO'
+msgid "Info"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_UPLOAD_SIZE'
+msgid "Maximum upload size is"
+msgstr ""
+
+#: $languageStrings->'LBL_OWNER'
+msgid "Owner"
+msgstr ""
+
+#: $languageStrings->'LBL_PRINT'
+msgid "Print"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_AS_DRAFT'
+msgid "Save as Draft"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_EMAIL_IDS'
+msgid "Select Email Addresses"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_EMAIL_TEMPLATE'
+msgid "Select Email Template"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND'
+msgid "Send"
+msgstr ""
+
+#: $languageStrings->'LBL_SENT_ON'
+msgid "Sent on"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT'
+msgid "Subject"
+msgstr ""
+
+#: $languageStrings->'LBL_TO'
+msgid "To"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Emails'
+msgid "Email"
+msgstr ""
+
+#: %24languageStrings-%3E%27Time+Start%27
+msgid "Time Sent"
+msgstr ""

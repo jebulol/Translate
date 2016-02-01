@@ -1,0 +1,161 @@
+#. extracted from fi_fi/Potentials.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Amount'
+msgid "Amount"
+msgstr ""
+
+#: %24languageStrings-%3E%27Campaign+Source%27
+msgid "Campaign Source"
+msgstr ""
+
+#: %24languageStrings-%3E%27Closed+Lost%27
+msgid "Closed Lost"
+msgstr ""
+
+#: %24languageStrings-%3E%27Closed+Won%27
+msgid "Closed Won"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contact+Name%27
+msgid "Contact Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Existing+Business%27
+msgid "Existing Business"
+msgstr ""
+
+#: %24languageStrings-%3E%27Forecast+Amount%27
+msgid "Forecast Amount"
+msgstr ""
+
+#: $languageStrings->'Forecast'
+msgid "Sales Forecast"
+msgstr ""
+
+#: $languageStrings->'Funnel'
+msgid "Sales Funnel"
+msgstr ""
+
+#: %24languageStrings-%3E%27Id.+Decision+Makers%27
+msgid "Identify Decision Makers"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Opportunity"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPECTED_CLOSE_DATE_ON'
+msgid "Expected to close on"
+msgstr ""
+
+#: $languageStrings->'LBL_OPPORTUNITY_INFORMATION'
+msgid "Opportunity Details"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Opportunities List"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_CONTACTS'
+msgid "Related Contacts"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_PRODUCTS'
+msgid "Related Products"
+msgstr ""
+
+#: %24languageStrings-%3E%27Needs+Analysis%27
+msgid "Needs Analysis"
+msgstr ""
+
+#: $languageStrings->'Negotiation/Review'
+msgid "Negotiation/Review"
+msgstr ""
+
+#: %24languageStrings-%3E%27New+Business%27
+msgid "New Business"
+msgstr ""
+
+#: %24languageStrings-%3E%27Next+Step%27
+msgid "Next Step"
+msgstr ""
+
+#: $languageStrings->'--None--'
+msgid "--None--"
+msgstr ""
+
+#: %24languageStrings-%3E%27Perception+Analysis%27
+msgid "Perception Analysis"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potential+No%27
+msgid "Opportunity Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potentials+by+Stage%27
+msgid "Opportunities by Stage"
+msgstr ""
+
+#: $languageStrings->'Potentials'
+msgid "Opportunities"
+msgstr ""
+
+#: $languageStrings->'Probability'
+msgid "Probability"
+msgstr ""
+
+#: %24languageStrings-%3E%27Proposal%2FPrice+Quote%27
+msgid "Proposal/Quotation"
+msgstr ""
+
+#: $languageStrings->'Prospecting'
+msgid "Prospecting"
+msgstr ""
+
+#: $languageStrings->'Qualification'
+msgid "Qualification"
+msgstr ""
+
+#: %24languageStrings-%3E%27Related+To%27
+msgid "Organization Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Stage%27
+msgid "Sales Stage"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Potentials'
+msgid "Opportunity"
+msgstr ""
+
+#: %24languageStrings-%3E%27Top+Potentials%27
+msgid "Top Opportunities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Total+Revenue%27
+msgid "Revenue by Salesperson"
+msgstr ""
+
+#: %24languageStrings-%3E%27Value+Proposition%27
+msgid "Value Proposition"
+msgstr ""

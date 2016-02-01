@@ -1,0 +1,90 @@
+#. extracted from fi_fi/Migration.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'LBL_CRM_DOCUMENTATION'
+msgid ""
+"Vtiger6 Help - <a href=\"http://wiki.vtiger.com/vtiger6\" "
+"target=\"_blank\">Documentaion</a> , <a href=\"http://www.youtube.com/vtiger\" "
+"target=\"_blank\">Videos</a> <BR>"
+msgstr ""
+
+#: $languageStrings->'LBL_DATABASE_CHANGE_LOG'
+msgid "Migration : Database Changes Log"
+msgstr ""
+
+#: $languageStrings->'LBL_DISCUSS_WITH_US_AT_BLOGS'
+msgid ""
+"To know more about Vtiger follow us our <a href=\"http://blogs.vtiger.com\" "
+"target=\"_blank\">Blog</a>"
+msgstr ""
+
+#: $languageStrings->'LBL_INPROGRESS'
+msgid "Migration in progress"
+msgstr ""
+
+#: $languageStrings->'LBL_MIGRATION_COMPLETED'
+msgid "Migration Completed"
+msgstr ""
+
+#: $languageStrings->'LBL_MIGRATION_COMPLETED_SUCCESSFULLY'
+msgid "Your vtiger6 migration completed successfully."
+msgstr ""
+
+#: $languageStrings->'LBL_MIGRATION_WIZARD'
+msgid "Migration Wizard"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIDE_BEING_ASSOCIATED'
+msgid "We take pride in being associated with you."
+msgstr ""
+
+#: $languageStrings->'LBL_RELEASE_NOTES'
+msgid ""
+"To know what is new in this version, please read <a href=\"#\" "
+"target=\"_blank\">Release Notes</a> <br>"
+msgstr ""
+
+#: $languageStrings->'LBL_SPACE_FOR_YOU'
+msgid "Come on over, there is space for you too!"
+msgstr ""
+
+#: $languageStrings->'LBL_TALK_TO_US_AT_FORUMS'
+msgid ""
+"Have any questions? Find help on Vtiger <a href=\"http://forums.vtiger.com\" "
+"target=\"_blank\"> Discussions </a><br>"
+msgstr ""
+
+#: $languageStrings->'LBL_THANKS'
+msgid "Thanks for using <b>vtiger CRM</b>"
+msgstr ""
+
+#: $languageStrings->'LBL_VTIGER_MIGRATION'
+msgid "Welcome to Vtiger Migration"
+msgstr ""
+
+#: $languageStrings->'LBL_WAIT'
+msgid "Please wait ..."
+msgstr ""
+
+#: $languageStrings->'LBL_WE_AIM_TO_BE_BEST'
+msgid "We aim to be - simply the best"
+msgstr ""

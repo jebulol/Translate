@@ -1,0 +1,65 @@
+#. extracted from fi_fi/Rss.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+**********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  ************************************************************************************/
+#: $languageStrings->'LBL_ADD_FEED_SOURCE'
+msgid "Add Feed Source"
+msgstr ""
+
+#: $languageStrings->'LBL_ENTER_FEED_SOURCE'
+msgid "Enter Feed Source"
+msgstr ""
+
+#: $languageStrings->'LBL_FEEDS_LIST_FROM'
+msgid "Feeds List From"
+msgstr ""
+
+#: $languageStrings->'LBL_FEED_SOURCE'
+msgid "Feed Source"
+msgstr ""
+
+#: $languageStrings->'LBL_RSS_FEED_SOURCES'
+msgid "Rss Feed Sources"
+msgstr ""
+
+#: $languageStrings->'LBL_SENDER'
+msgid "Sender"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_AS_DEFAULT'
+msgid "Set As Default"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Rss'
+msgid "Rss Feed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_INVALID_RSS_URL'
+msgid "Invalid Rss Url"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RSS_MADE_AS_DEFAULT'
+msgid "Rss Made as Default"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RSS_SUCCESSFULLY_SAVED'
+msgid "Rss Successfully saved"
+msgstr ""

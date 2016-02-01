@@ -1,0 +1,176 @@
+#. extracted from fi_fi/Settings/Webforms.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'SINGLE_Settings:Webforms'
+msgctxt "$languageStrings->'SINGLE_Settings:Webforms'"
+msgid "Webform"
+msgstr ""
+
+#. //Basic Field Names
+#: %24languageStrings-%3E%27WebForm+Name%27
+msgid "Webform Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Public+Id%27
+msgid "Public Id"
+msgstr ""
+
+#: $languageStrings->'Enabled'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'Module'
+msgid "Module"
+msgstr ""
+
+#: %24languageStrings-%3E%27Return+Url%27
+msgid "Return Url"
+msgstr ""
+
+#: %24languageStrings-%3E%27Post+Url%27
+msgid "Post Url"
+msgstr ""
+
+#: %24languageStrings-%3E%27Captcha+Enabled%27
+msgid "Captcha Enabled"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Webforms'
+msgctxt "$languageStrings->'SINGLE_Webforms'"
+msgid "Webform"
+msgstr ""
+
+#. //Actions
+#: $languageStrings->'LBL_SHOW_FORM'
+msgid "Show Form"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATES_EXIST'
+msgid "Webform Name already exists"
+msgstr ""
+
+#. //Blocks
+#: $languageStrings->'LBL_WEBFORM_INFORMATION'
+msgid "Webform Information"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_INFORMATION'
+msgid "Field Information"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELD_NAME'
+msgid "Field Name"
+msgstr ""
+
+#: $languageStrings->'LBL_OVERRIDE_VALUE'
+msgid "Override Value"
+msgstr ""
+
+#: $languageStrings->'LBL_MANDATORY'
+msgid "Mandatory"
+msgstr ""
+
+#: $languageStrings->'LBL_WEBFORM_REFERENCE_FIELD'
+msgid "Webforms reference Field"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FIELDS_OF_TARGET_MODULE'
+msgid "Select Fields for Target Module..."
+msgstr ""
+
+#: $languageStrings->'LBL_ALLOWS_YOU_TO_MANAGE_WEBFORMS'
+msgid "Allows you to manage webforms"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_FIELDS'
+msgid "Add Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_EMBED_THE_FOLLOWING_FORM_IN_YOUR_WEBSITE'
+msgid "Embed the following form in your website"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_VALUE'
+msgid "Select Value"
+msgstr ""
+
+#: $languageStrings->'LBL_LABEL'
+msgctxt "$languageStrings->'LBL_LABEL'"
+msgid "label"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_FIELDS_ORDER'
+msgid "Save fields order"
+msgstr ""
+
+#: $languageStrings->'LBL_HIDDEN'
+msgid "Hidden"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE_TARGET_MODULES_FOR_WEBFORM'
+msgid "Enable Target modules for webform"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_USERS'
+msgid "User Assignment"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGN_ROUND_ROBIN'
+msgid "Assign Users In Round Robin"
+msgstr ""
+
+#: $languageStrings->'LBL_ROUNDROBIN_USERS_LIST'
+msgid "Round Robin Users List"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_WEBFORM_DELETED_SUCCESSFULLY'
+msgid "Webform deleted successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LOADING_TARGET_MODULE_FIELDS'
+msgid "Loading Target Module Fields"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_AN_OPTION'
+msgid "Select an Option"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LABEL'
+msgctxt "$jsLanguageStrings->'JS_LABEL'"
+msgid "label"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MANDATORY_FIELDS_WITHOUT_OVERRIDE_VALUE_CANT_BE_HIDDEN'
+msgid "Mandatory Fields without override values cant be hidden"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_REFERENCE_FIELDS_CANT_BE_MANDATORY_WITHOUT_OVERRIDE_VALUE'
+msgid "Reference fields cant be mandatory without override value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TYPE_TO_SEARCH'
+msgid "Type to search"
+msgstr ""
+
+#: $jsLanguageStrings->"JS_WEBFORM_WITH_THIS_NAME_ALREADY_EXISTS"
+msgid "Webform with this name already exists"
+msgstr ""

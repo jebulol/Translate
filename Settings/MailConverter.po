@@ -1,0 +1,480 @@
+#. extracted from fi_fi/Settings/MailConverter.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'action'
+msgctxt "$languageStrings->'action'"
+msgid "Action"
+msgstr ""
+
+#: $languageStrings->'ADD_RULES'
+msgid "Add Rules"
+msgstr ""
+
+#: %24languageStrings-%3E%27After+Scan%27
+msgctxt "$languageStrings->'After Scan'"
+msgid "After Scan"
+msgstr ""
+
+#: $languageStrings->'ALL'
+msgid "All"
+msgstr ""
+
+#: %24languageStrings-%3E%27Begins+With%27
+msgid "Begin"
+msgstr ""
+
+#: $languageStrings->'body'
+msgctxt "$languageStrings->'body'"
+msgid "Body"
+msgstr ""
+
+#: %24languageStrings-%3E%27Connect+URL%27
+msgid "Connect URL"
+msgstr ""
+
+#: $languageStrings->'Contains'
+msgid "Contains"
+msgstr ""
+
+#: $languageStrings->'CREATE_Accounts_SUBJECT'
+msgid "Create Organization"
+msgstr ""
+
+#: $languageStrings->'CREATE_Contacts_SUBJECT'
+msgid "Create Contact"
+msgstr ""
+
+#: $languageStrings->'CREATE_HelpDesk_FROM'
+msgid "Create Ticket"
+msgstr ""
+
+#: $languageStrings->'CREATE_Leads_SUBJECT'
+msgid "Create Lead"
+msgstr ""
+
+#: %24languageStrings-%3E%27Do+Not+Validate+SSL+Certificate%27
+msgctxt "$languageStrings->'Do Not Validate SSL Certificate'"
+msgid "Do Not Validate SSL Certificate"
+msgstr ""
+
+#: %24languageStrings-%3E%27Ends+With%27
+msgid "End"
+msgstr ""
+
+#: $languageStrings->'Equals'
+msgid "Equals"
+msgstr ""
+
+#: $languageStrings->'fromaddress'
+msgctxt "$languageStrings->'fromaddress'"
+msgid "From"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTION'
+msgctxt "$languageStrings->'LBL_ACTION'"
+msgid "Action"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIONS'
+msgid "Actions"
+msgstr ""
+
+#: $languageStrings->'LBL_ADDING_NEW_MAILBOX'
+msgid "Adding New Mail Box"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add MailBox"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RULE'
+msgid "Add Rule"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_CONDITIONS'
+msgid "All Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_MESSAGES_FROM_LAST_SCAN'
+msgid "All messages from last scan"
+msgstr ""
+
+#: $languageStrings->'LBL_ANY_CONDITIOn'
+msgid "Any Condition"
+msgstr ""
+
+#: $languageStrings->'LBL_BACK_TO_MAILBOXES'
+msgid "Back to MailBoxes"
+msgstr ""
+
+#: $languageStrings->'LBL_BODY'
+msgctxt "$languageStrings->'LBL_BODY'"
+msgid "Body"
+msgstr ""
+
+#: $languageStrings->'LBL_CONDITIONS'
+msgid "Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_CONNECTION_ERROR'
+msgid "Connecting to Mailbox failed. Check network connection and try again."
+msgstr ""
+
+#: $languageStrings->'LBL_CONNECTION_TO_MAILBOX_FAILED'
+msgid ""
+"Connecting to mailbox failed!<br>Special characters are not allowed for "
+"servername."
+msgstr ""
+
+#: $languageStrings->'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS'
+msgctxt "$languageStrings->'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS'"
+msgid "Convert emails to respective records"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_MAILBOX'
+msgid "Create MailBox"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_MAILBOX_NOW'
+msgid "Create Mailbox now"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_DELETED_SUCCESSFULLY'
+msgid "Deleted Successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_RULE'
+msgid "Delete rule"
+msgstr ""
+
+#: $languageStrings->'LBL_DISABLE'
+msgid "Disable"
+msgstr ""
+
+#: $languageStrings->'LBL_DO_NOT_VALIDATE_SSL_CERTIFICATE'
+msgctxt "$languageStrings->'LBL_DO_NOT_VALIDATE_SSL_CERTIFICATE'"
+msgid "Do Not Validate SSL Certificate"
+msgstr ""
+
+#: $languageStrings->'LBL_DRAG_AND_DROP_BLOCK_TO_PRIORITISE_THE_RULE'
+msgid ""
+"The rule number indicates the priority. Drag and drop to change priority."
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_MAILBOX'
+msgid "Edit MailBox"
+msgstr ""
+
+#: $languageStrings->'LBL_ENABLE'
+msgid "Enable"
+msgstr ""
+
+#: $languageStrings->'LBL_FINISH'
+msgid "Finish"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS_INFO_IS_EMPTY'
+msgid "Folders information is empty"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDERS_SCANNED'
+msgid "Folders Scanned"
+msgstr ""
+
+#: $languageStrings->'LBL_FROM'
+msgctxt "$languageStrings->'LBL_FROM'"
+msgid "From"
+msgstr ""
+
+#: $languageStrings->'LBL_I_DONT_KNOW'
+msgid "I don't know"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_IS_IN_RUNNING_STATE'
+msgid "In running state"
+msgstr ""
+
+#: $languageStrings->'LBL_MAILBOX'
+msgid "Mail Box"
+msgstr ""
+
+#: $languageStrings->'LBL_MAILCONVERTER_DESCRIPTION'
+msgid ""
+"Mail Converter enables you to configure your mailbox to scan your emails and "
+"create appropriate entities in Vtiger CRM.<br />You'll also need to define "
+"rules to specify what actions should be performed on your emails.<br />Your "
+"emails are scanned automatically, unless you've disabled Mail Scanner task "
+"in Scheduler. <br /><br /><br />"
+msgstr ""
+
+#: $languageStrings->'LBL_MARK_MESSAGE_AS'
+msgid "Mark message as"
+msgstr ""
+
+#: $languageStrings->'LBL_MARK_MESSAGES_AS_READ'
+msgid "Mark messages as read"
+msgstr ""
+
+#: $languageStrings->'LBL_MARK_READ'
+msgid "Mark Read"
+msgstr ""
+
+#: $languageStrings->'LBL_MATCH'
+msgctxt "$languageStrings->'LBL_MATCH'"
+msgid "Match"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_LIMIT_ONLY_TWO'
+msgid "You have exceeded the additional mailbox limit!"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT'
+msgid "Next"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_PRIORITY'
+msgid "Priority"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_RULE_DELETION_FAILED'
+msgid "Rule deletion failed"
+msgstr ""
+
+#: $languageStrings->'LBL_RULE'
+msgctxt "$languageStrings->'LBL_RULE'"
+msgid "Rule"
+msgstr ""
+
+#: $languageStrings->'LBL_RULES_LIST'
+msgid "Rules List"
+msgstr ""
+
+#. Duplicated key-value pair
+#: $languageStrings->'LBL_RULES_SEQUENCE_INFO_IS_EMPTY'
+msgid "Rules sequence info is empty"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVED_SUCCESSFULLY'
+msgid "Saved successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_SCANED_SUCCESSFULLY'
+msgctxt "$languageStrings->'LBL_SCANED_SUCCESSFULLY'"
+msgid "Scanned successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_SCANNED_SUCCESSFULLY'
+msgctxt "$languageStrings->'LBL_SCANNED_SUCCESSFULLY'"
+msgid "Scanned successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_SCAN_NOW'
+msgid "Scan Now"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FOLDERS'
+msgctxt "$languageStrings->'LBL_SELECT_FOLDERS'"
+msgid "Select Folders"
+msgstr ""
+
+#: $languageStrings->'LBL_SEQUENCE_UPDATED_SUCCESSFULLY'
+msgid "Sequence updated successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_STATUS_MESSAGE'
+msgid "Check To make active"
+msgstr ""
+
+#: $languageStrings->'LBL_UNREAD_MESSAGES_FROM_LAST_SCAN'
+msgid "Unread messages from last scan"
+msgstr ""
+
+#: $languageStrings->'LBL_UNSELECT_ALL'
+msgid "Unselect All"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATE_FOLDERS'
+msgid "Update Folders"
+msgstr ""
+
+#: $languageStrings->'LBL_VALIDATE_SSL_CERTIFICATE'
+msgctxt "$languageStrings->'LBL_VALIDATE_SSL_CERTIFICATE'"
+msgid "Validate SSL Certificate"
+msgstr ""
+
+#: $languageStrings->'LINK_Accounts_FROM'
+msgid "Add to Organization [FROM]"
+msgstr ""
+
+#: $languageStrings->'LINK_Accounts_TO'
+msgid "Add to Organization [TO]"
+msgstr ""
+
+#: $languageStrings->'LINK_Contacts_FROM'
+msgid "Add to Contact [FROM]"
+msgstr ""
+
+#: $languageStrings->'LINK_Contacts_TO'
+msgid "Add to Contact [TO]"
+msgstr ""
+
+#: $languageStrings->'LINK_Leads_FROM'
+msgid "Add to Lead [FROM]"
+msgstr ""
+
+#: $languageStrings->'LINK_Leads_TO'
+msgid "Add to Lead [TO]"
+msgstr ""
+
+#: %24languageStrings-%3E%27Look+For%27
+msgid "Look For"
+msgstr ""
+
+#: $languageStrings->'MAILBOX_DETAILS'
+msgid "Mail Box Details"
+msgstr ""
+
+#: $languageStrings->'MAILBOX'
+msgid "MailBox"
+msgstr ""
+
+#: $languageStrings->'MailConverter_Description'
+msgctxt "$languageStrings->'MailConverter_Description'"
+msgid "Convert emails to respective records"
+msgstr ""
+
+#: $languageStrings->'MailConverter'
+msgid "Mail Converter"
+msgstr ""
+
+#: $languageStrings->'markas'
+msgctxt "$languageStrings->'markas'"
+msgid "After Scan"
+msgstr ""
+
+#: $languageStrings->'matchusing'
+msgctxt "$languageStrings->'matchusing'"
+msgid "Match"
+msgstr ""
+
+#: %24languageStrings-%3E%27Not+Contains%27
+msgid "Not Contains"
+msgstr ""
+
+#: %24languageStrings-%3E%27Not+Equals%27
+msgid "Not Equals"
+msgstr ""
+
+#: $languageStrings->'Password'
+msgid "Password"
+msgstr ""
+
+#: $languageStrings->'PRIORITISE_MESSAGE'
+msgid "Drag and drop block to prioritise the rule"
+msgstr ""
+
+#: $languageStrings->'Protocol'
+msgid "Protocol"
+msgstr ""
+
+#: $languageStrings->'Regex'
+msgid "Regex"
+msgstr ""
+
+#: $languageStrings->'RULE'
+msgctxt "$languageStrings->'RULE'"
+msgid "Rule"
+msgstr ""
+
+#: %24languageStrings-%3E%27Scanner+Name%27
+msgid "Scanner Name"
+msgstr ""
+
+#: $languageStrings->'SEEN'
+msgid "Read"
+msgstr ""
+
+#: $languageStrings->'SELECT_FOLDERS'
+msgctxt "$languageStrings->'SELECT_FOLDERS'"
+msgid "Select Folders"
+msgstr ""
+
+#: $languageStrings->'Server'
+msgid "Server Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27SSL+Method%27
+msgid "SSL Method"
+msgstr ""
+
+#: %24languageStrings-%3E%27SSL+Type%27
+msgid "SSL Type"
+msgstr ""
+
+#: $languageStrings->'Status'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'subject'
+msgid "Subject"
+msgstr ""
+
+#: %24languageStrings-%3E%27Time+Zone%27
+msgid "Time Zone"
+msgstr ""
+
+#: $languageStrings->'toaddress'
+msgid "To"
+msgstr ""
+
+#: $languageStrings->'TO_CHANGE_THE_FOLDER_SELECTION_DESELECT_ANY_OF_THE_SELECTED_FOLDERS'
+msgid "To change the folder selection deselect any of the selected folders"
+msgstr ""
+
+#: $languageStrings->'UNSEEN'
+msgid "Unread"
+msgstr ""
+
+#: $languageStrings->'UPDATE_HelpDesk_SUBJECT'
+msgid "Update Ticket"
+msgstr ""
+
+#: %24languageStrings-%3E%27User+Name%27
+msgid "User Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Validate+SSL+Certificate%27
+msgctxt "$languageStrings->'Validate SSL Certificate'"
+msgid "Validate SSL Certificate"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAILBOX_DELETED_SUCCESSFULLY'
+msgid "MailBox deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAILBOX_LOADED_SUCCESSFULLY'
+msgid "MailBox loaded Successfully"
+msgstr ""

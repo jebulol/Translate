@@ -1,0 +1,115 @@
+#. extracted from fi_fi/Settings/SharingAccess.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Accounts'
+msgid "Organizations & Contacts"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CUSTOM_RULE'
+msgid "Add Custom Rule"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CUSTOM_RULE_TO'
+msgid "Add Custom Rule to"
+msgstr ""
+
+#: $languageStrings->'LBL_ADVANCED_SHARING_RULES'
+msgid "Advanced Sharing Rules"
+msgstr ""
+
+#: $languageStrings->'LBL_APPLY_NEW_SHARING_RULES'
+msgid "Apply New Sharing Rules"
+msgstr ""
+
+#: $languageStrings->'LBL_CAN_ACCESSED_BY'
+msgid "Can be accessed by"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM_ACCESS_MESG'
+msgid "No Custom Access Rules defined"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE'
+msgid "Module"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIVILEGES'
+msgid "Privileges"
+msgstr ""
+
+#: $languageStrings->'LBL_READ'
+msgid "Read"
+msgstr ""
+
+#: $languageStrings->'LBL_READ_WRITE'
+msgid "Read and Write"
+msgstr ""
+
+#: $languageStrings->'LBL_RULE_NO'
+msgid "Rule Number"
+msgstr ""
+
+#: $languageStrings->'LBL_SHARING_RULE'
+msgid "Sharing Rules"
+msgstr ""
+
+#: $languageStrings->'LBL_WITH_PERMISSIONS'
+msgid "With Permissions"
+msgstr ""
+
+#: %24languageStrings-%3E%27Read+Only%27
+msgid "Read Only"
+msgstr ""
+
+#: %24languageStrings-%3E%27Read+Write%27
+msgid "Read/Write"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Groups'
+msgid "Group"
+msgstr ""
+
+#: $languageStrings->'SINGLE_RoleAndSubordinates'
+msgid "RoleAndSubordinate"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Roles'
+msgid "Role"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY'
+msgid "Custom Sharing Rule Saved Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE'
+msgid ""
+"Opportunities, Tickets, Quotes, SalesOrder & Invoice Access must be set to "
+"Private when the Organization Access is set to Private"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY'
+msgid "New Sharing Rules Applied Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_ANY_OTHER_ACCESSING_USER'
+msgid "Select any other accessing user"
+msgstr ""

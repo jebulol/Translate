@@ -1,0 +1,202 @@
+#. extracted from fi_fi/Contacts.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Assistant'
+msgid "Assistant"
+msgstr ""
+
+#: %24languageStrings-%3E%27Assistant+Phone%27
+msgid "Assistant Phone"
+msgstr ""
+
+#: $languageStrings->'Birthdate'
+msgid "Date of Birth"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contact+Id%27
+msgid "Contact Id"
+msgstr ""
+
+#: %24languageStrings-%3E%27Contact+Image%27
+msgid "Contact Image"
+msgstr ""
+
+#: $languageStrings->'Contacts'
+msgid "Contacts"
+msgstr ""
+
+#: $languageStrings->'Department'
+msgid "Department"
+msgstr ""
+
+#: %24languageStrings-%3E%27Do+Not+Call%27
+msgid "Do Not Call"
+msgstr ""
+
+#: $languageStrings->'Email'
+msgid "Primary Email"
+msgstr ""
+
+#: %24languageStrings-%3E%27Home+Phone%27
+msgid "Home Phone"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Contact"
+msgstr ""
+
+#: $languageStrings->'LBL_CONTACT_INFORMATION'
+msgid "Basic Information"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_MAILING_ADDRESS'
+msgid "Copy Mailing Address"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_OTHER_ADDRESS'
+msgid "Copy Other Address"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMER_PORTAL_INFORMATION'
+msgid "Customer Portal Details"
+msgstr ""
+
+#: $languageStrings->'LBL_IMAGE_INFORMATION'
+msgid "Profile Picture"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Contacts List"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+City%27
+msgid "Mailing City"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+Country%27
+msgid "Mailing Country"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+Po+Box%27
+msgid "Mailing P.O. Box"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+State%27
+msgid "Mailing State"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+Street%27
+msgid "Mailing Street"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mailing+Zip%27
+msgid "Mailing Zip"
+msgstr ""
+
+#: %24languageStrings-%3E%27Office+Phone%27
+msgid "Office Phone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+City%27
+msgid "Other City"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Country%27
+msgid "Other Country"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Phone%27
+msgid "Secondary Phone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Po+Box%27
+msgid "Other P.O. Box"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+State%27
+msgid "Other State"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Street%27
+msgid "Other Street"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Zip%27
+msgid "Other Zip"
+msgstr ""
+
+#: %24languageStrings-%3E%27Portal+User%27
+msgid "Portal User"
+msgstr ""
+
+#: $languageStrings->'Reference'
+msgid "Reference"
+msgstr ""
+
+#: %24languageStrings-%3E%27Reports+To%27
+msgid "Reports To"
+msgstr ""
+
+#: %24languageStrings-%3E%27Secondary+Email%27
+msgid "Secondary Email"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Contacts'
+msgid "Contact"
+msgstr ""
+
+#: %24languageStrings-%3E%27Support+End+Date%27
+msgid "Support End Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Support+Start+Date%27
+msgid "Support Start Date"
+msgstr ""
+
+#: $languageStrings->'Title'
+msgid "Title"
+msgstr ""
+
+#: %24languageStrings-%3E%27User+List%27
+msgid "User List"
+msgstr ""
+
+#. //Added for Picklist Values
+#: $languageStrings->'Dr.'
+msgid "Dr."
+msgstr ""
+
+#: $languageStrings->'Mr.'
+msgid "Mr."
+msgstr ""
+
+#: $languageStrings->'Mrs.'
+msgid "Mrs."
+msgstr ""
+
+#: $languageStrings->'Ms.'
+msgid "Ms."
+msgstr ""
+
+#: $languageStrings->'Prof.'
+msgid "Prof."
+msgstr ""

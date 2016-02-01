@@ -1,0 +1,982 @@
+#. extracted from fi_fi/Users.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /*+***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  *************************************************************************************/
+#: $languageStrings->'Admin'
+msgid "Admin"
+msgstr ""
+
+#: %24languageStrings-%3E%27Asterisk+Configuration%27
+msgid "Asterisk Configuration"
+msgstr ""
+
+#: %24languageStrings-%3E%27Asterisk+Extension%27
+msgid "Asterisk Extension"
+msgstr ""
+
+#: %24languageStrings-%3E%27Calendar+Hour+Format%27
+msgid "Calendar Hour Format"
+msgstr ""
+
+#: %24languageStrings-%3E%27Confirm+Password%27
+msgctxt "$languageStrings->'Confirm Password'"
+msgid "Confirm Password"
+msgstr ""
+
+#: %24languageStrings-%3E%27Date+Format%27
+msgctxt "$languageStrings->'Date Format'"
+msgid "Date Format"
+msgstr ""
+
+#: %24languageStrings-%3E%27Decimal+Separator%27
+msgid "Decimal Separator"
+msgstr ""
+
+#: %24languageStrings-%3E%27Default+Activity+View%27
+msgid "Default Calendar View"
+msgstr ""
+
+#: %24languageStrings-%3E%27Default+Call+Duration%27
+msgid "Default Call Duration (Mins)"
+msgstr ""
+
+#: %24languageStrings-%3E%27Default+Lead+View%27
+msgid "Default Lead View"
+msgstr ""
+
+#: $languageStrings->'Department'
+msgctxt "$languageStrings->'Department'"
+msgid "Department"
+msgstr ""
+
+#: $languageStrings->'Detail'
+msgid "Detail"
+msgstr ""
+
+#: %24languageStrings-%3E%27Digit+Grouping+Pattern%27
+msgid "Digit Grouping Pattern"
+msgstr ""
+
+#: %24languageStrings-%3E%27Digit+Grouping+Separator%27
+msgid "Digit Grouping Separator"
+msgstr ""
+
+#: $languageStrings->'ForgotPassword'
+msgid "Forgot Password"
+msgstr ""
+
+#: %24languageStrings-%3E%27Home+Phone%27
+msgid "Home Phone"
+msgstr ""
+
+#: $languageStrings->'INTERNAL_MAIL_COMPOSER'
+msgid "Internal Mail Composer"
+msgstr ""
+
+#: $languageStrings->'Language'
+msgctxt "$languageStrings->'Language'"
+msgid "Language"
+msgstr ""
+
+#: $languageStrings->'LBL_ABOUT_ME'
+msgid "About Me"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVE_USERS'
+msgid "Active Users"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add User"
+msgstr ""
+
+#: $languageStrings->'LBL_ADDRESS_INFORMATION'
+msgid "User Address"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_FIELDS_BELOW_ARE_REQUIRED'
+msgid "(All fields below are required)"
+msgstr ""
+
+#: $languageStrings->'LBL_ALMOST_THERE'
+msgid "Almost there!"
+msgstr ""
+
+#: $languageStrings->'LBL_BASE_CURRENCY'
+msgid "Base Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_CHANGE_PASSWORD'
+msgid "Change Password"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_BASE_CURRENCY'
+msgid "Choose Base Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_DATE_FORMAT'
+msgid "Choose Date Format"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_LANGUAGE'
+msgid "Choose Language"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_TIMEZONE'
+msgid "Choose Timezone"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPANY_SIZE'
+msgid "Company Size"
+msgstr ""
+
+#: $languageStrings->'LBL_CONFIRM_PASSWORD'
+msgctxt "$languageStrings->'LBL_CONFIRM_PASSWORD'"
+msgid "Confirm Password"
+msgstr ""
+
+#: $languageStrings->'LBL_CONNECT_WITH_US'
+msgid "Connect with US"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY_CONFIGURATION'
+msgid "Currency and Number Field Configuration"
+msgstr ""
+
+#: $languageStrings->'LBL_DATE_FORMAT'
+msgctxt "$languageStrings->'LBL_DATE_FORMAT'"
+msgid "Date Format"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_GROUP'
+msgid "Delete Group"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_GROUPNAME'
+msgid "Group to be Deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_PROFILE'
+msgid "Delete Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_USER_PERMANENTLY'
+msgid "Delete User Permanently"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE_USER'
+msgctxt "$languageStrings->'LBL_DELETE_USER'"
+msgid "User to be Deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_DEPARTMENT'
+msgctxt "$languageStrings->'LBL_DEPARTMENT'"
+msgid "Department"
+msgstr ""
+
+#: $languageStrings->'LBL_EMAIL_SEND'
+msgid "We have sent you email to reset your password."
+msgstr ""
+
+#: $languageStrings->'LBL_GET_MORE'
+msgid "Get more out of Vtiger"
+msgstr ""
+
+#: $languageStrings->'LBL_GET_STARTED'
+msgid "Get Started"
+msgstr ""
+
+#: $languageStrings->'LBL_HIDDEN'
+msgid "Hidden"
+msgstr ""
+
+#: $languageStrings->'LBL_HIDE'
+msgid "Hide"
+msgstr ""
+
+#: $languageStrings->'LBL_HOME_PAGE_COMPO'
+msgctxt "$languageStrings->'LBL_HOME_PAGE_COMPO'"
+msgid "Home Page Components"
+msgstr ""
+
+#: $languageStrings->'LBL_HOME_PAGE_COMPONENTS'
+msgctxt "$languageStrings->'LBL_HOME_PAGE_COMPONENTS'"
+msgid "Home Page Components"
+msgstr ""
+
+#: $languageStrings->'LBL_INACTIVE_USERS'
+msgid "Inactive Users"
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_USER_OR_EMAIL'
+msgid "Invalid Username or Email address."
+msgstr ""
+
+#: $languageStrings->'LBL_INVALID_USER_OR_PASSWORD'
+msgid "Invalid username or password."
+msgstr ""
+
+#: $languageStrings->'LBL_JOB_TITLE'
+msgid "Job Title"
+msgstr ""
+
+#: $languageStrings->'LBL_LANGUAGE'
+msgctxt "$languageStrings->'LBL_LANGUAGE'"
+msgid "Language"
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_AS'
+msgid "Login as "
+msgstr ""
+
+#: $languageStrings->'LBL_LOGIN_HISTORY'
+msgid "Login History"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_INFORMATION'
+msgid "More Information"
+msgstr ""
+
+#: $languageStrings->'LBL_MY_PREFERENCES'
+msgid "My Preferences"
+msgstr ""
+
+#: $languageStrings->'LBL_NEW_PASSWORD'
+msgid "New Password"
+msgstr ""
+
+#: $languageStrings->'LBL_OLD_PASSWORD'
+msgid "Old Password"
+msgstr ""
+
+#: $languageStrings->'LBL_OPERATING_CURRENCY'
+msgid "Base currency cannot be modified later. Select your operating currency"
+msgstr ""
+
+#: $languageStrings->'LBL_PHONE'
+msgid "Phone"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE_TO_BE_DELETED'
+msgid "Profile to be Deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_RESTORE'
+msgid "Restore"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_COUNTRY'
+msgid "Select Country"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOWN'
+msgid "Shown"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOW'
+msgid "Show"
+msgstr ""
+
+#: $languageStrings->'LBL_TAG_CLOUD_DISPLAY'
+msgid "Tag Cloud Display"
+msgstr ""
+
+#: $languageStrings->'LBL_TO_CRM'
+msgid "Login to Vtiger CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_GROUP'
+msgid "Transfer Ownership to: "
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_OWNERSHIP'
+msgid "Transfer Owner"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_RECORDS_TO_USER'
+msgid "Transfer records to user"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_ROLES_TO_PROFILE'
+msgid "Transfer Roles to Profile"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_USER'
+msgid "Transfer Ownership to User"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_ADV_OPTIONS'
+msgid "User Advanced Options"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_DELETED_SUCCESSFULLY'
+msgid "User deleted successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_USERDETAIL_INFO'
+msgid "Viewing user details"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_IMAGE_INFORMATION'
+msgid "User Photograph"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_LIST_DETAILS'
+msgid "Details"
+msgstr ""
+
+#: $languageStrings->'LBL_USERLOGIN_ROLE'
+msgid "User Login & Role"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_RESTORED_SUCCESSFULLY'
+msgid "User restored successfully"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_TO_BE_DELETED'
+msgctxt "$languageStrings->'LBL_USER_TO_BE_DELETED'"
+msgid "User to be Deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_WE_PROMISE_TO_KEEP_THIS_PRIVATE'
+msgid "(We promise to keep this private)"
+msgstr ""
+
+#: $languageStrings->'LBL_WHERE_ARE_YOU_FROM'
+msgid "Where are you from?"
+msgstr ""
+
+#: $languageStrings->'LBL_YOUR_CONTACT_NUMBER'
+msgid "Your Contact Number"
+msgstr ""
+
+#: %24languageStrings-%3E%27Number+Of+Currency+Decimals%27
+msgid "Number Of Currency Decimals"
+msgstr ""
+
+#: %24languageStrings-%3E%27Office+Phone%27
+msgid "Office Phone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Event+Duration%27
+msgid "Other Event Duration (Mins)"
+msgstr ""
+
+#: $languageStrings->'Password'
+msgid "Password"
+msgstr ""
+
+#: %24languageStrings-%3E%27Receive+Incoming+Calls%27
+msgid "Receive Incoming Calls"
+msgstr ""
+
+#: %24languageStrings-%3E%27Reports+To%27
+msgid "Reports To"
+msgstr ""
+
+#: $languageStrings->'Role'
+msgid "Role"
+msgstr ""
+
+#: $languageStrings->'Signature'
+msgid "Signature"
+msgstr ""
+
+#: %24languageStrings-%3E%27Street+Address%27
+msgid "Street Address"
+msgstr ""
+
+#: $languageStrings->'Summary'
+msgid "Summary"
+msgstr ""
+
+#: %24languageStrings-%3E%27Symbol+Placement%27
+msgid "Symbol Placement"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tag+Cloud%27
+msgid "Tag Cloud"
+msgstr ""
+
+#: $languageStrings->'Theme'
+msgid "Theme"
+msgstr ""
+
+#: %24languageStrings-%3E%27Time+Zone%27
+msgid "Time Zone"
+msgstr ""
+
+#: $languageStrings->'Title'
+msgid "Title"
+msgstr ""
+
+#: %24languageStrings-%3E%27Truncate+Trailing+Zeros%27
+msgid "Truncate Trailing Zeros"
+msgstr ""
+
+#: %24languageStrings-%3E%27User+Image%27
+msgid "Upload Photograph"
+msgstr ""
+
+#: %24languageStrings-%3E%27User+Name%27
+msgid "User Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Webservice+Access+Key%27
+msgid "Access Key"
+msgstr ""
+
+#: %24languageStrings-%3E%27Yahoo+id%27
+msgid "Yahoo id"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: %24languageStrings-%3E%27Day+starts+at%27
+msgid "Day starts at"
+msgstr ""
+
+#. //User status
+#: $languageStrings->'Active'
+msgid "Active"
+msgstr ""
+
+#: $languageStrings->'Inactive'
+msgid "Inactive"
+msgstr ""
+
+#. //Lead View settings
+#: $languageStrings->'Today'
+msgid "Today"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+2+Days%27
+msgid "Last 2 Days"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Week%27
+msgid "Last Week"
+msgstr ""
+
+#. //Calendar settings
+#: %24languageStrings-%3E%27This+Week%27
+msgid "This Week"
+msgstr ""
+
+#: %24languageStrings-%3E%27This+Month%27
+msgid "This Month"
+msgstr ""
+
+#: %24languageStrings-%3E%27This+Year%27
+msgid "This Year"
+msgstr ""
+
+#: $languageStrings->'Sunday'
+msgid "Sunday"
+msgstr ""
+
+#: $languageStrings->'Monday'
+msgid "Monday"
+msgstr ""
+
+#: $languageStrings->'Tuesday'
+msgid "Tuesday"
+msgstr ""
+
+#: $languageStrings->'Wednesday'
+msgid "Wednesday"
+msgstr ""
+
+#: $languageStrings->'Thursday'
+msgid "Thursday"
+msgstr ""
+
+#: $languageStrings->'Friday'
+msgid "Friday"
+msgstr ""
+
+#: $languageStrings->'Saturday'
+msgid "Saturday"
+msgstr ""
+
+#: %24languageStrings-%3E%271+Minute%27
+msgid "1 Minute"
+msgstr ""
+
+#: %24languageStrings-%3E%275+Minutes%27
+msgid "5 Minutes"
+msgstr ""
+
+#: %24languageStrings-%3E%2715+Minutes%27
+msgid "15 Minutes"
+msgstr ""
+
+#: %24languageStrings-%3E%2730+Minutes%27
+msgid "30 Minutes"
+msgstr ""
+
+#: %24languageStrings-%3E%2745+Minutes%27
+msgid "45 Minutes"
+msgstr ""
+
+#: %24languageStrings-%3E%271+Hour%27
+msgid "1 Hour"
+msgstr ""
+
+#: %24languageStrings-%3E%271+Day%27
+msgid "1 Day"
+msgstr ""
+
+#. //Time zones-Dont change any value
+#: $languageStrings->'Kwajalein'
+msgid "(UTC-12:00) International Date Line West"
+msgstr ""
+
+#: $languageStrings->'Pacific/Midway'
+msgid "(UTC-11:00) Coordinated Universal Time-11"
+msgstr ""
+
+#: $languageStrings->'Pacific/Samoa'
+msgid "(UTC-11:00) Samoa"
+msgstr ""
+
+#: $languageStrings->'Pacific/Honolulu'
+msgid "(UTC-10:00) Hawaii"
+msgstr ""
+
+#: $languageStrings->'America/Anchorage'
+msgid "(UTC-09:00) Alaska"
+msgstr ""
+
+#: $languageStrings->'America/Los_Angeles'
+msgid "(UTC-08:00) Pacific Time (US &amp; Canada)"
+msgstr ""
+
+#: $languageStrings->'America/Tijuana'
+msgid "(UTC-08:00) Tijuana, Baja California"
+msgstr ""
+
+#: $languageStrings->'America/Denver'
+msgid "(UTC-07:00) Mountain Time (US &amp; Canada)"
+msgstr ""
+
+#: $languageStrings->'America/Chihuahua'
+msgid "(UTC-07:00) Chihuahua, La Paz, Mazatlan"
+msgstr ""
+
+#: $languageStrings->'America/Mazatlan'
+msgid "(UTC-07:00) Mazatlan"
+msgstr ""
+
+#: $languageStrings->'America/Phoenix'
+msgid "(UTC-07:00) Arizona"
+msgstr ""
+
+#: $languageStrings->'America/Regina'
+msgid "(UTC-06:00) Saskatchewan"
+msgstr ""
+
+#: $languageStrings->'America/Tegucigalpa'
+msgid "(UTC-06:00) Central America"
+msgstr ""
+
+#: $languageStrings->'America/Chicago'
+msgid "(UTC-06:00) Central Time (US &amp; Canada)"
+msgstr ""
+
+#: $languageStrings->'America/Mexico_City'
+msgid "(UTC-06:00) Mexico City"
+msgstr ""
+
+#: $languageStrings->'America/Monterrey'
+msgid "(UTC-06:00) Monterrey"
+msgstr ""
+
+#: $languageStrings->'America/New_York'
+msgid "(UTC-05:00) Eastern Time (US &amp; Canada)"
+msgstr ""
+
+#: $languageStrings->'America/Bogota'
+msgid "(UTC-05:00) Bogota, Lima, Quito"
+msgstr ""
+
+#: $languageStrings->'America/Lima'
+msgid "(UTC-05:00) Lima"
+msgstr ""
+
+#: $languageStrings->'America/Rio_Branco'
+msgid "(UTC-05:00) Rio Branco"
+msgstr ""
+
+#: $languageStrings->'America/Indiana/Indianapolis'
+msgid "(UTC-05:00) Indiana (East)"
+msgstr ""
+
+#: $languageStrings->'America/Caracas'
+msgid "(UTC-04:30) Caracas"
+msgstr ""
+
+#: $languageStrings->'America/Halifax'
+msgid "(UTC-04:00) Atlantic Time (Canada)"
+msgstr ""
+
+#: $languageStrings->'America/Manaus'
+msgid "(UTC-04:00) Manaus"
+msgstr ""
+
+#: $languageStrings->'America/Santiago'
+msgid "(UTC-04:00) Santiago"
+msgstr ""
+
+#: $languageStrings->'America/La_Paz'
+msgid "(UTC-04:00) La Paz"
+msgstr ""
+
+#: $languageStrings->'America/Cuiaba'
+msgid "(UTC-04:00) Cuiaba"
+msgstr ""
+
+#: $languageStrings->'America/Asuncion'
+msgid "(UTC-04:00) Asuncion"
+msgstr ""
+
+#: $languageStrings->'America/St_Johns'
+msgid "(UTC-03:30) Newfoundland"
+msgstr ""
+
+#: $languageStrings->'America/Argentina/Buenos_Aires'
+msgid "(UTC-03:00) Buenos Aires"
+msgstr ""
+
+#: $languageStrings->'America/Sao_Paulo'
+msgid "(UTC-03:00) Brasilia"
+msgstr ""
+
+#: $languageStrings->'America/Godthab'
+msgid "(UTC-03:00) Greenland"
+msgstr ""
+
+#: $languageStrings->'America/Montevideo'
+msgid "(UTC-03:00) Montevideo"
+msgstr ""
+
+#: $languageStrings->'Atlantic/South_Georgia'
+msgid "(UTC-02:00) Mid-Atlantic"
+msgstr ""
+
+#: $languageStrings->'Atlantic/Azores'
+msgid "(UTC-01:00) Azores"
+msgstr ""
+
+#: $languageStrings->'Atlantic/Cape_Verde'
+msgid "(UTC-01:00) Cape Verde Is."
+msgstr ""
+
+#: $languageStrings->'Europe/London'
+msgid "(UTC) London, Edinburgh, Dublin, Lisbon"
+msgstr ""
+
+#: $languageStrings->'UTC'
+msgid "(UTC) Coordinated Universal Time, Greenwich Mean Time"
+msgstr ""
+
+#: $languageStrings->'Africa/Monrovia'
+msgid "(UTC) Monrovia, Reykjavik"
+msgstr ""
+
+#: $languageStrings->'Africa/Casablanca'
+msgid "(UTC) Casablanca"
+msgstr ""
+
+#: $languageStrings->'Europe/Belgrade'
+msgid "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+msgstr ""
+
+#: $languageStrings->'Europe/Sarajevo'
+msgid "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+msgstr ""
+
+#: $languageStrings->'Europe/Brussels'
+msgid "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
+msgstr ""
+
+#: $languageStrings->'Africa/Algiers'
+msgid "(UTC+01:00) West Central Africa"
+msgstr ""
+
+#: $languageStrings->'Europe/Amsterdam'
+msgid "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+msgstr ""
+
+#: $languageStrings->'Europe/Minsk'
+msgid "(UTC+02:00) Minsk"
+msgstr ""
+
+#: $languageStrings->'Africa/Cairo'
+msgid "(UTC+02:00) Cairo"
+msgstr ""
+
+#: $languageStrings->'Europe/Helsinki'
+msgid "(UTC+02:00) Helsinki, Riga, Sofia, Tallinn, Vilnius"
+msgstr ""
+
+#: $languageStrings->'Europe/Athens'
+msgid "(UTC+02:00) Athens, Bucharest"
+msgstr ""
+
+#: $languageStrings->'Europe/Istanbul'
+msgid "(UTC+02:00) Istanbul"
+msgstr ""
+
+#: $languageStrings->'Asia/Jerusalem'
+msgid "(UTC+02:00) Jerusalem"
+msgstr ""
+
+#: $languageStrings->'Asia/Amman'
+msgid "(UTC+02:00) Amman"
+msgstr ""
+
+#: $languageStrings->'Asia/Beirut'
+msgid "(UTC+02:00) Beirut"
+msgstr ""
+
+#: $languageStrings->'Africa/Windhoek'
+msgid "(UTC+02:00) Windhoek"
+msgstr ""
+
+#: $languageStrings->'Africa/Harare'
+msgid "(UTC+02:00) Harare"
+msgstr ""
+
+#: $languageStrings->'Asia/Kuwait'
+msgid "(UTC+03:00) Kuwait, Riyadh"
+msgstr ""
+
+#: $languageStrings->'Asia/Baghdad'
+msgid "(UTC+03:00) Baghdad"
+msgstr ""
+
+#: $languageStrings->'Africa/Nairobi'
+msgid "(UTC+03:00) Nairobi"
+msgstr ""
+
+#: $languageStrings->'Asia/Tehran'
+msgid "(UTC+03:30) Tehran"
+msgstr ""
+
+#: $languageStrings->'Asia/Tbilisi'
+msgid "(UTC+04:00) Tbilisi"
+msgstr ""
+
+#: $languageStrings->'Europe/Moscow'
+msgid "(UTC+04:00) Moscow, Volgograd"
+msgstr ""
+
+#: $languageStrings->'Asia/Muscat'
+msgid "(UTC+04:00) Abu Dhabi, Muscat"
+msgstr ""
+
+#: $languageStrings->'Asia/Baku'
+msgid "(UTC+04:00) Baku"
+msgstr ""
+
+#: $languageStrings->'Asia/Yerevan'
+msgid "(UTC+04:00) Yerevan"
+msgstr ""
+
+#: $languageStrings->'Asia/Karachi'
+msgid "(UTC+05:00) Islamabad, Karachi"
+msgstr ""
+
+#: $languageStrings->'Asia/Tashkent'
+msgid "(UTC+05:00) Tashkent"
+msgstr ""
+
+#: $languageStrings->'Asia/Kolkata'
+msgid "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+msgstr ""
+
+#: $languageStrings->'Asia/Colombo'
+msgid "(UTC+05:30) Sri Jayawardenepura"
+msgstr ""
+
+#: $languageStrings->'Asia/Katmandu'
+msgid "(UTC+05:45) Kathmandu"
+msgstr ""
+
+#: $languageStrings->'Asia/Dhaka'
+msgid "(UTC+06:00) Dhaka"
+msgstr ""
+
+#: $languageStrings->'Asia/Almaty'
+msgid "(UTC+06:00) Almaty"
+msgstr ""
+
+#: $languageStrings->'Asia/Yekaterinburg'
+msgid "(UTC+06:00) Ekaterinburg"
+msgstr ""
+
+#: $languageStrings->'Asia/Rangoon'
+msgid "(UTC+06:30) Yangon (Rangoon)"
+msgstr ""
+
+#: $languageStrings->'Asia/Novosibirsk'
+msgid "(UTC+07:00) Novosibirsk"
+msgstr ""
+
+#: $languageStrings->'Asia/Bangkok'
+msgid "(UTC+07:00) Bangkok, Jakarta"
+msgstr ""
+
+#: $languageStrings->'Asia/Brunei'
+msgid "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+msgstr ""
+
+#: $languageStrings->'Asia/Krasnoyarsk'
+msgid "(UTC+08:00) Krasnoyarsk"
+msgstr ""
+
+#: $languageStrings->'Asia/Ulaanbaatar'
+msgid "(UTC+08:00) Ulaan Bataar"
+msgstr ""
+
+#: $languageStrings->'Asia/Kuala_Lumpur'
+msgid "(UTC+08:00) Kuala Lumpur, Singapore"
+msgstr ""
+
+#: $languageStrings->'Asia/Taipei'
+msgid "(UTC+08:00) Taipei"
+msgstr ""
+
+#: $languageStrings->'Australia/Perth'
+msgid "(UTC+08:00) Perth"
+msgstr ""
+
+#: $languageStrings->'Asia/Irkutsk'
+msgid "(UTC+09:00) Irkutsk"
+msgstr ""
+
+#: $languageStrings->'Asia/Seoul'
+msgid "(UTC+09:00) Seoul"
+msgstr ""
+
+#: $languageStrings->'Asia/Tokyo'
+msgid "(UTC+09:00) Tokyo"
+msgstr ""
+
+#: $languageStrings->'Australia/Darwin'
+msgid "(UTC+09:30) Darwin"
+msgstr ""
+
+#: $languageStrings->'Australia/Adelaide'
+msgid "(UTC+09:30) Adelaide"
+msgstr ""
+
+#: $languageStrings->'Australia/Canberra'
+msgid "(UTC+10:00) Canberra, Melbourne, Sydney"
+msgstr ""
+
+#: $languageStrings->'Australia/Brisbane'
+msgid "(UTC+10:00) Brisbane"
+msgstr ""
+
+#: $languageStrings->'Australia/Hobart'
+msgid "(UTC+10:00) Hobart"
+msgstr ""
+
+#: $languageStrings->'Asia/Vladivostok'
+msgid "(UTC+10:00) Vladivostok"
+msgstr ""
+
+#: $languageStrings->'Pacific/Guam'
+msgid "(UTC+10:00) Guam, Port Moresby"
+msgstr ""
+
+#: $languageStrings->'Asia/Yakutsk'
+msgid "(UTC+10:00) Yakutsk"
+msgstr ""
+
+#: $languageStrings->'Etc/GMT-11'
+msgid "(UTC+11:00) Solomon Is., New Caledonia"
+msgstr ""
+
+#: $languageStrings->'Pacific/Fiji'
+msgid "(UTC+12:00) Fiji"
+msgstr ""
+
+#: $languageStrings->'Asia/Kamchatka'
+msgid "(UTC+12:00) Kamchatka"
+msgstr ""
+
+#: $languageStrings->'Pacific/Auckland'
+msgid "(UTC+12:00) Auckland"
+msgstr ""
+
+#: $languageStrings->'Asia/Magadan'
+msgid "(UTC+12:00) Magadan"
+msgstr ""
+
+#: $languageStrings->'Pacific/Tongatapu'
+msgid "(UTC+13:00) Nukualofa"
+msgstr ""
+
+#. // currency seperatar in user preferance
+#: $languageStrings->'LBL_Space'
+msgid "Space"
+msgstr ""
+
+#. //Curency seperator validation messages
+#: $jsLanguageStrings->'JS_DECIMAL_SEPERATOR_AND_GROUPING_SEPERATOR_CANT_BE_SAME'
+msgid "Decimal seperator and Grouping seperator cant be same"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ENTER_CONFIRMATION_PASSWORD'
+msgid "Please enter your password confirmation."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ENTER_NEW_PASSWORD'
+msgid "Please enter your new password."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ENTER_OLD_PASSWORD'
+msgid "Please enter your old password."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_INVALID_PASSWORD'
+msgid "You must specify a valid username and password."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PASSWORD_CHANGE_FAILED_1'
+msgid "User password change failed for "
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PASSWORD_CHANGE_FAILED_2'
+msgid " failed.  The new password must be set."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PASSWORD_INCORRECT_OLD'
+msgid "Incorrect old password specified. Re-enter password information."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_REENTER_PASSWORDS'
+msgid ""
+"Please re-enter passwords.  The \\\"new password\\\" and \\\"confirm password\\\" "
+"values do not match."
+msgstr ""

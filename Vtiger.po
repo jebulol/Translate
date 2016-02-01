@@ -1,0 +1,3231 @@
+#. extracted from fi_fi/Vtiger.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-01 14:35+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#. /* +***********************************************************************************
+#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#.  * ("License"); You may not use this file except in compliance with the License
+#.  * The Original Code is:  vtiger CRM Open Source
+#.  * The Initial Developer of the Original Code is vtiger.
+#.  * Portions created by vtiger are Copyright (C) vtiger.
+#.  * All Rights Reserved.
+#.  * *********************************************************************************** */
+#: $languageStrings->'--None--'
+msgid "--None--"
+msgstr ""
+
+#: %24languageStrings-%3E%27Account+Name%27
+msgid "Yrityksen nimi"
+msgstr ""
+
+#: $languageStrings->'Accounts'
+msgid "Yritykset"
+msgstr ""
+
+#: $languageStrings->'Acquired'
+msgid "Hankittu"
+msgstr ""
+
+#: $languageStrings->'Active'
+msgid "Aktiivinen"
+msgstr ""
+
+#: $languageStrings->'Activities'
+msgctxt "$languageStrings->'Activities'"
+msgid "Activities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Add+Comment%27
+msgid "Lisää kommentti"
+msgstr ""
+
+#: %24languageStrings-%3E%27Add+Note%27
+msgid "Lisää dokumentti"
+msgstr ""
+
+#: $languageStrings->'Adjustment'
+msgctxt "$languageStrings->'Adjustment'"
+msgid "Adjustment"
+msgstr ""
+
+#: %24languageStrings-%3E%27All+Comments%27
+msgid "Kaikki kommetit"
+msgstr ""
+
+#: $languageStrings->'All'
+msgid "Kaikki"
+msgstr ""
+
+#: %24languageStrings-%3E%27Annual+Revenue%27
+msgid "Liikevaihto"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'Apparel'
+msgid "Apparel"
+msgstr ""
+
+#: $languageStrings->'Approved'
+msgid "Hyväksytty"
+msgstr ""
+
+#: $languageStrings->'APPTITLE'
+msgid "HMS CRM"
+msgstr ""
+
+#: $languageStrings->'Assets'
+msgid "Assets"
+msgstr ""
+
+#: %24languageStrings-%3E%27Assigned+To%27
+msgid "Osoitettu"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'Banking'
+msgid "Banking"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+Address%27
+msgid "Laskutusosoite"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+City%27
+msgid "Laskutus kaupunki"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+Code%27
+msgid "Laskutus postinumero"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+Country%27
+msgid "Laskutusmaa"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+Po+Box%27
+msgid "Laskutus postilokero"
+msgstr ""
+
+#: %24languageStrings-%3E%27Billing+State%27
+msgid "Laskutus Maakunta"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'Biotechnology'
+msgid "Biotechnology"
+msgstr ""
+
+#: $languageStrings->'BlueDart'
+msgid "BlueDart"
+msgstr ""
+
+#: $languageStrings->'Calendar'
+msgid "Kalenteri"
+msgstr ""
+
+#: $languageStrings->'Campaigns'
+msgid "Kampanjat"
+msgstr ""
+
+#: $languageStrings->'Cancelled'
+msgid "Peruttu"
+msgstr ""
+
+#: $languageStrings->'Carrier'
+msgid "Kuriiri"
+msgstr ""
+
+#: $languageStrings->'Category'
+msgid "Kategoria"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'Chemicals'
+msgid "Chemicals"
+msgstr ""
+
+#: $languageStrings->'City'
+msgid "Kaupunki"
+msgstr ""
+
+#: %24languageStrings-%3E%27Cold+Call%27
+msgid "Cold Call"
+msgstr ""
+
+#: $languageStrings->'Comment'
+msgid "Kommentti"
+msgstr ""
+
+#: $languageStrings->'Communications'
+msgid "Viestintä"
+msgstr ""
+
+#: $languageStrings->'Conference'
+msgid "Konferenssi"
+msgstr ""
+
+#: $languageStrings->'Construction'
+msgid "Rakennus"
+msgstr ""
+
+#: $languageStrings->'Consulting'
+msgid "Konsultointi"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Contact+Name%27
+msgid "Yhteyshenkilö"
+msgstr ""
+
+#: $languageStrings->'Contacts'
+msgid "Yhteystiedot"
+msgstr ""
+
+#: %24languageStrings-%3E%27Conversion+Rate%27
+msgctxt "$languageStrings->'Conversion Rate'"
+msgid "Conversion Rate"
+msgstr ""
+
+#: $languageStrings->'Country'
+msgid "Maa"
+msgstr ""
+
+#: %24languageStrings-%3E%27Created+Time%27
+msgid "Luontiaika"
+msgstr ""
+
+#: $languageStrings->'Created'
+msgid "Luotu"
+msgstr ""
+
+#: $languageStrings->'Currency'
+msgid "Valuutta"
+msgstr ""
+
+#: %24languageStrings-%3E%27Customer+Name%27
+msgid "Asiakkaan Nimi"
+msgstr ""
+
+#: $languageStrings->'Delivered'
+msgid "Toimitettu"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'Description'
+msgid "Kuvaus"
+msgstr ""
+
+#: $languageStrings->'DHL'
+msgid "DHL"
+msgstr ""
+
+#: %24languageStrings-%3E%27Direct+Mail%27
+msgid "Direct Mail"
+msgstr ""
+
+#: %24languageStrings-%3E%27Discount+Amount%27
+msgid "Määräalennus"
+msgstr ""
+
+#: %24languageStrings-%3E%27Discount+Percent%27
+msgid "Prosenttialennus"
+msgstr ""
+
+#: $languageStrings->'Discount'
+msgid "Alennus"
+msgstr ""
+
+#: $languageStrings->'Documents'
+msgid "Dokumentit"
+msgstr ""
+
+#: %24languageStrings-%3E%27Due+Date+%26+Time%27
+msgid "Eräpäivä ja aika"
+msgstr ""
+
+#: %24languageStrings-%3E%27Due+Date%27
+msgid "Eräpäivä"
+msgstr ""
+
+#: $languageStrings->'Education'
+msgid "Koulutus"
+msgstr ""
+
+#: $languageStrings->'Electronics'
+msgid "Elektronikka"
+msgstr ""
+
+#: %24languageStrings-%3E%27Email+Opt+Out%27
+msgid "Email Opt Out"
+msgstr ""
+
+#: $languageStrings->'Email'
+msgid "Ensisijainen email"
+msgstr ""
+
+#: $languageStrings->'Emails'
+msgid "Sähköpostit"
+msgstr ""
+
+#: $languageStrings->'Employee'
+msgid "Työntekijä"
+msgstr ""
+
+#: $languageStrings->'Energy'
+msgid "Energia"
+msgstr ""
+
+#: $languageStrings->'Engineering'
+msgid "Engineering"
+msgstr ""
+
+#: $languageStrings->'Entertainment'
+msgid "Viihde"
+msgstr ""
+
+#: $languageStrings->'Environmental'
+msgid "Environmental"
+msgstr ""
+
+#: %24languageStrings-%3E%27Excise+Duty%27
+msgid "Excise Duty"
+msgstr ""
+
+#: %24languageStrings-%3E%27Existing+Customer%27
+msgid "Olemassaoleva asiakas"
+msgstr ""
+
+#: %24languageStrings-%3E%27Expected+Close+Date%27
+msgid "Expected Close Date"
+msgstr ""
+
+#: $languageStrings->'Fax'
+msgid "Fax"
+msgstr ""
+
+#: %24languageStrings-%3E%27Fax%3A+%27
+msgid "Fax: "
+msgstr ""
+
+#: $languageStrings->'FedEx'
+msgid "FedEx"
+msgstr ""
+
+#: $languageStrings->'Finance'
+msgid "Talous"
+msgstr ""
+
+#: %24languageStrings-%3E%27First+Name%27
+msgid "Etunimi"
+msgstr ""
+
+#: %24languageStrings-%3E%27Food+%26+Beverage%27
+msgid "Food & Beverage"
+msgstr ""
+
+#: $languageStrings->'Forecast'
+msgid "Ennuste"
+msgstr ""
+
+#: %24languageStrings-%3E%27Funnel+Amount%27
+msgid "Total Amount by Sales stage"
+msgstr ""
+
+#: $languageStrings->'Funnel'
+msgid "Funnel"
+msgstr ""
+
+#: $languageStrings->'Government'
+msgid "Government"
+msgstr ""
+
+#: %24languageStrings-%3E%27Grand+Total%3A%27
+msgid "Grand Total:"
+msgstr ""
+
+#: $languageStrings->'Half-Yearly'
+msgid "Half-Yearly"
+msgstr ""
+
+#: $languageStrings->'Healthcare'
+msgid "Healthcare"
+msgstr ""
+
+#: $languageStrings->'HelpDesk'
+msgid "Tickets"
+msgstr ""
+
+#: $languageStrings->'High'
+msgid "High"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'History'
+msgid "History"
+msgstr ""
+
+#: $languageStrings->'Hospitality'
+msgid "Hospitality"
+msgstr ""
+
+#: %24languageStrings-%3E%27In+Progress%27
+msgid "In Progress"
+msgstr ""
+
+#: $languageStrings->'Insurance'
+msgid "Insurance"
+msgstr ""
+
+#: $languageStrings->'Invoice'
+msgid "Invoice"
+msgstr ""
+
+#: %24languageStrings-%3E%27Is+Converted+From+Lead%27
+msgid "Is Converted From Lead"
+msgstr ""
+
+#: %24languageStrings-%3E%27Issued+Date%27
+msgid "Issued Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Item+Comment%27
+msgid "Item Comment"
+msgstr ""
+
+#: %24languageStrings-%3E%27Item+Discount+Amount%27
+msgid "Item Discount Amount"
+msgstr ""
+
+#: %24languageStrings-%3E%27Item+Discount+Percent%27
+msgid "Item Discount Percent"
+msgstr ""
+
+#: %24languageStrings-%3E%27Item+Name%27
+msgctxt "$languageStrings->'Item Name'"
+msgid "Item Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Labels+Editor%27
+msgid "Labels Editor"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+5+Comments%27
+msgid "Last 5 Comments"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Comment%27
+msgid "Last Comment"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Modified+By%27
+msgid "Last Modified By"
+msgstr ""
+
+#: %24languageStrings-%3E%27Last+Name%27
+msgid "Last Name"
+msgstr ""
+
+#: $languageStrings->'LBL_ACCESS_DENIED_FOR'
+msgid "Access Denied for"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTION'
+msgid "Action"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIONS'
+msgid "Actions"
+msgstr ""
+
+#: $languageStrings->'LBL_ACTIVITIES'
+msgctxt "$languageStrings->'LBL_ACTIVITIES'"
+msgid "Activities"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD'
+msgid "Add"
+msgstr ""
+
+#: $languageStrings->'LBL_ADDED'
+msgid "added"
+msgstr ""
+
+#: $languageStrings->'LBL_ADDRESS_INFORMATION'
+msgid "Address Details"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_BCC'
+msgid "Add Bcc"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_CC'
+msgid "Add Cc"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_COMMENT'
+msgid "Add Comment"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_ADD_CONDITION'
+msgid "Add Condition"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_EVENT'
+msgid "Add Event"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_ADD_GROUP'
+msgid "Add Group"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MANAGE_MODULES'
+msgid "Add / Manage Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MORE_COLUMNS'
+msgid "Add more columns"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_MORE_FIELDS'
+msgid "Add more fields"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_NEW_COMMENT'
+msgid "Add New Comment"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_NOTE'
+msgid "Add Document"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_PRODUCT'
+msgid "Add Product"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_RECORD'
+msgid "Add Record"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_SERVICE'
+msgid "Add Service"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_TASK'
+msgid "Add To Do"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_WIDGET'
+msgid "Add Widget"
+msgstr ""
+
+#: $languageStrings->'LBL_ADD_YOUR_COMMENT_HERE'
+msgid "Add your comment here..."
+msgstr ""
+
+#: $languageStrings->'LBL_ADJUSTMENT'
+msgctxt "$languageStrings->'LBL_ADJUSTMENT'"
+msgid "Adjustment"
+msgstr ""
+
+#: $languageStrings->'LBL_ADVANCE_SEARCH'
+msgid "Advanced"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_AFTER'
+msgid "after"
+msgstr ""
+
+#: $languageStrings->'LBL_AGO'
+msgid "ago"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL'
+msgid "All"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_CONDITIONS'
+msgid "All Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_CONDITIONS_DESC'
+msgid "All conditions must be met"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_EMAILS'
+msgid "All email accounts"
+msgstr ""
+
+#: $languageStrings->'LBL_ALL_RECORDS'
+msgid "All Records"
+msgstr ""
+
+#: $languageStrings->'LBL_ALPHABETS'
+msgid "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z"
+msgstr ""
+
+#: $languageStrings->'LBL_ANALYTICS'
+msgid "ANALYTICS"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_AND'
+msgid "and"
+msgstr ""
+
+#: $languageStrings->'LBL_ANNOUNCEMENT'
+msgid "Announcement"
+msgstr ""
+
+#: $languageStrings->'LBL_ANY_CONDITIONS'
+msgid "Any Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_ANY_CONDITIONS_DESC'
+msgid "At least one of the conditions must be met"
+msgstr ""
+
+#: $languageStrings->'LBL_APPLBL_NONEROVE'
+msgid "Approve"
+msgstr ""
+
+#: $languageStrings->'LBL_Apr'
+msgid "Apr"
+msgstr ""
+
+#: $languageStrings->'LBL_ASSIGNED_TO'
+msgid "Assigned To"
+msgstr ""
+
+#: $languageStrings->'LBL_AT'
+msgid "at"
+msgstr ""
+
+#: $languageStrings->'LBL_ATTACHMENT'
+msgid "Attachment"
+msgstr ""
+
+#: $languageStrings->'LBL_Aug'
+msgid "Aug"
+msgstr ""
+
+#: $languageStrings->'LBL_AVAILABLE_FIELDS'
+msgid "Available Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_BACK'
+msgid "Back"
+msgstr ""
+
+#: $languageStrings->'LBL_BACK_TO_PRODUCTS'
+msgid "Back to products"
+msgstr ""
+
+#: $languageStrings->'LBL_BASE_CURRENCY'
+msgid "Base Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_BASIC_DETAILS'
+msgid "Basic details"
+msgstr ""
+
+#: $languageStrings->'LBL_BCC'
+msgid "Bcc"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_BEFORE'
+msgid "before"
+msgstr ""
+
+#: $languageStrings->'LBL_BEFORE_EVENT'
+msgid " Before Event"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_BETWEEN'
+msgid "between"
+msgstr ""
+
+#: $languageStrings->'LBL_BILLING_ADDRESS_FROM'
+msgid "Copy Billing Address from"
+msgstr ""
+
+#: $languageStrings->'LBL_BLANK'
+msgid "-Blank-"
+msgstr ""
+
+#: $languageStrings->'LBL_BROWSE_CRM'
+msgid "Browse CRM"
+msgstr ""
+
+#: $languageStrings->'LBL_BY'
+msgid "by"
+msgstr ""
+
+#: $languageStrings->'LBL_CALENDAR'
+msgid "Calendar"
+msgstr ""
+
+#: $languageStrings->'LBL_CALENDAR_SETTINGS'
+msgid "Calendar Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_CANCEL'
+msgctxt "$languageStrings->'LBL_CANCEL'"
+msgid "Cancel"
+msgstr ""
+
+#: $languageStrings->'LBL_CAN_NOT_REMOVE_DEFAULT_WIDGET'
+msgid "Cannot remove default widget"
+msgstr ""
+
+#: $languageStrings->'LBL_CC'
+msgid "Cc"
+msgstr ""
+
+#: $languageStrings->'LBL_CHANGED'
+msgid "changed"
+msgstr ""
+
+#: $languageStrings->'LBL_CHAT_SUPPORT'
+msgid "Chat Support"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_COLUMNS'
+msgid "Choose columns and order"
+msgstr ""
+
+#: $languageStrings->'LBL_CHOOSE_FILTER_CONDITIONS'
+msgid "Choose filter conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_CLEAR'
+msgid "Clear"
+msgstr ""
+
+#: $languageStrings->'LBL_CLICK_ADD'
+msgid "Click add"
+msgstr ""
+
+#: $languageStrings->'LBL_CLOSE'
+msgid "Close"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_COMMENTED'
+msgid "commented"
+msgstr ""
+
+#: $languageStrings->'LBL_COMMENTS'
+msgctxt "$languageStrings->'LBL_COMMENTS'"
+msgid "Comments"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPLETED'
+msgid "completed"
+msgstr ""
+
+#: $languageStrings->'LBL_COMPOSE_EMAIL'
+msgid "Compose Email"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_CONTAINS'
+msgid "contains"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_BILLING_ADDRESS'
+msgid "Billing Address"
+msgstr ""
+
+#: $languageStrings->'LBL_COPY_SHIPPING_ADDRESS'
+msgctxt "$languageStrings->'LBL_COPY_SHIPPING_ADDRESS'"
+msgid "Shipping Address"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE'
+msgid "Create"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATED'
+msgid "created"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATED_ON'
+msgid "Created On"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_NEW'
+msgid "Create New"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_NEW_FILTER'
+msgid "Create New Filter"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATE_VIEW'
+msgid "Creating new view"
+msgstr ""
+
+#: $languageStrings->'LBL_CREATING_NEW'
+msgid "Creating New"
+msgstr ""
+
+#: $languageStrings->'LBL_CRM_SETTINGS'
+msgid "CRM Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENCY'
+msgid "Currency"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_FQ'
+msgid "Current FQ"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_FY'
+msgid "Current FY"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_MONTH'
+msgid "Current Month"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_WEEK'
+msgid "Current Week"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM'
+msgid "Custom"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOMIZE_MAIN_MENU'
+msgid "Customize Main Menu"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM_FIELD_MAPPING'
+msgid "Custom Field Mapping"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM_INFORMATION'
+msgid "Custom Information"
+msgstr ""
+
+#: $languageStrings->'LBL_CUSTOM_VIEW_NAME_DUPLICATES_EXIST'
+msgid "filter already exists"
+msgstr ""
+
+#: $languageStrings->'LBL_DASHBOARD'
+msgid "Dashboard"
+msgstr ""
+
+#: $languageStrings->'LBL_DAY'
+msgid "day"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_DAYS'
+msgid "days"
+msgstr ""
+
+#: $languageStrings->'LBL_Dec'
+msgid "Dec"
+msgstr ""
+
+#: $languageStrings->'LBL_DEDUCT'
+msgid "Deduct"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETE'
+msgid "Delete"
+msgstr ""
+
+#: $languageStrings->'LBL_DELETED'
+msgid "deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_DENY'
+msgid "Deny"
+msgstr ""
+
+#: $languageStrings->'LBL_DESCRIPTION_INFORMATION'
+msgid "Description Details"
+msgstr ""
+
+#: $languageStrings->'LBL_DESELECT_ALL_RECORDS'
+msgid "Deselect all"
+msgstr ""
+
+#: $languageStrings->'LBL_DETAILS'
+msgid "Details"
+msgstr ""
+
+#: $languageStrings->'LBL_DIRECT_AMOUNT_DISCOUNT'
+msgid "Direct Amount Discount"
+msgstr ""
+
+#: $languageStrings->'LBL_DIRECT_PRICE_REDUCTION'
+msgid "Direct Price Reduction"
+msgstr ""
+
+#: $languageStrings->'LBL_DISCOUNT'
+msgid "Discount"
+msgstr ""
+
+#: $languageStrings->'LBL_DISPLAY_MEDIUMTYPE'
+msgid "Medium"
+msgstr ""
+
+#: $languageStrings->'LBL_DISPLAY_NARROWTYPE'
+msgid "Narrow"
+msgstr ""
+
+#: $languageStrings->'LBL_DISPLAY_TYPE'
+msgid "Display Type"
+msgstr ""
+
+#: $languageStrings->'LBL_DISPLAY_WIDETYPE'
+msgid "Wide"
+msgstr ""
+
+#: $languageStrings->'LBL_DOCUMENTATION'
+msgid "Documentation"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_DOES_NOT_CONTAIN'
+msgid "does not contains"
+msgstr ""
+
+#: $languageStrings->'LBL_DRAG'
+msgid "Drag"
+msgstr ""
+
+#: $languageStrings->'LBL_DUE'
+msgid "due in"
+msgstr ""
+
+#: $languageStrings->'LBL_DUPLICATE'
+msgid "Duplicate"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT'
+msgid "Edit"
+msgstr ""
+
+#: $languageStrings->'LBL_EDITING'
+msgid "Editing"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_FIELDS'
+msgid "Edit Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_MAILSCANNER'
+msgid "Mail Converter"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_PICKLIST_VALUES'
+msgid "Edit Picklist Values"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_REASON'
+msgid "Edit reason"
+msgstr ""
+
+#: $languageStrings->'LBL_EDIT_WORKFLOWS'
+msgid "Edit Workflows"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_ENDS_WITH'
+msgid "ends with"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_EQUALS'
+msgid "equals"
+msgstr ""
+
+#: $languageStrings->'LBL_EXCEEDED'
+msgid "Exceeded"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT'
+msgid "Export"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_ALL_DATA'
+msgid "Export all data"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_DATA_IN_CURRENT_PAGE'
+msgid "Export data in current page"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_RECORDS'
+msgid "Export Records"
+msgstr ""
+
+#: $languageStrings->'LBL_EXPORT_SELECTED_RECORDS'
+msgid "Export Selected Records"
+msgstr ""
+
+#: $languageStrings->'LBL_Feb'
+msgid "Feb"
+msgstr ""
+
+#: $languageStrings->'LBL_FEEDBACK'
+msgid "Feedback"
+msgstr ""
+
+#: $languageStrings->'LBL_FIELDS'
+msgid "Fields"
+msgstr ""
+
+#: $languageStrings->'LBL_FILTER'
+msgid "Filter"
+msgstr ""
+
+#: $languageStrings->'LBL_FILTER_CONDITIONS'
+msgid "Filter Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_FILTER_ON_DATE'
+msgid "Filter on date"
+msgstr ""
+
+#: $languageStrings->'LBL_FINAL_DISCOUNT_AMOUNT'
+msgid "Final Discount Amount"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_FIND_DUPLICATES'
+msgid "Find Duplicates"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_DELETED'
+msgid "Folder deleted"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_EXISTS'
+msgid "Folder already exists"
+msgstr ""
+
+#: $languageStrings->'LBL_FOLDER_SAVED'
+msgid "Folder saved"
+msgstr ""
+
+#: $languageStrings->'LBL_FOR'
+msgid "for"
+msgstr ""
+
+#: $languageStrings->'LBL_FOUND'
+msgid "found"
+msgstr ""
+
+#: $languageStrings->'LBL_Fri'
+msgid "Fri"
+msgstr ""
+
+#: $languageStrings->'LBL_FROM'
+msgid "from"
+msgstr ""
+
+#: $languageStrings->'LBL_FULLSCREEN'
+msgid "Full Screen"
+msgstr ""
+
+#: $languageStrings->'LBL_FULL_FORM'
+msgid "Full Form"
+msgstr ""
+
+#: $languageStrings->'LBL_GENERATE'
+msgid "Generate"
+msgstr ""
+
+#: $languageStrings->'LBL_GLOBAL_SEARCH'
+msgid "Type keyword and press enter"
+msgstr ""
+
+#: $languageStrings->'LBL_GLOBAL_SEARCH_MAX_MESSAGE'
+msgid ""
+"Only the first 100 results of all modules are shown below. For module "
+"specific results, please select respective module and search"
+msgstr ""
+
+#: $languageStrings->'LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE'
+msgid ""
+"Only the first 100 results are shown below. Please do Advanced Search if you "
+"are not satisfied with the result"
+msgstr ""
+
+#: $languageStrings->'LBL_GO_BACK'
+msgid "Go back"
+msgstr ""
+
+#: $languageStrings->'LBL_GO_TO_FULL_FORM'
+msgid "Go to full form"
+msgstr ""
+
+#: $languageStrings->'LBL_GO_TO_PREVIEW'
+msgid "Go to Preview"
+msgstr ""
+
+#: $languageStrings->'LBL_GRAND_TOTAL'
+msgid "Grand Total"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_GREATER_OR_EQUAL'
+msgid "greater or equal"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_GREATER_THAN'
+msgid "greater than"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_GROUP'
+msgid "Group"
+msgstr ""
+
+#: $languageStrings->'LBL_GROUPS'
+msgid "Groups"
+msgstr ""
+
+#: $languageStrings->'LBL_GROUP_TAX'
+msgid "Group Tax"
+msgstr ""
+
+#: $languageStrings->'LBL_GUIDER'
+msgid "Guider"
+msgstr ""
+
+#: $languageStrings->'LBL_HANDLER_NOT_FOUND'
+msgid "Handler not found"
+msgstr ""
+
+#: $languageStrings->'LBL_HELP'
+msgid "Help"
+msgstr ""
+
+#: $languageStrings->'LBL_HIDE_COMPLETED_EVENTS'
+msgid "Hide Completed Calendar Events"
+msgstr ""
+
+#: $languageStrings->'LBL_HOME'
+msgid "Home"
+msgstr ""
+
+#: $languageStrings->'LBL_HOUR'
+msgid "hour"
+msgstr ""
+
+#: $languageStrings->'LBL_HOURS'
+msgid "hours"
+msgstr ""
+
+#: $languageStrings->'LBL_IGNORE_EMPTY_VALUES'
+msgid "Ignore empty values"
+msgstr ""
+
+#: $languageStrings->'LBL_IMPORT'
+msgid "Import"
+msgstr ""
+
+#: $languageStrings->'LBL_IN'
+msgid "in"
+msgstr ""
+
+#: $languageStrings->'LBL_INDIVIDUAL'
+msgid "Individual"
+msgstr ""
+
+#: $languageStrings->'LBL_INVENTORY'
+msgid "INVENTORY"
+msgstr ""
+
+#: $languageStrings->'LBL_IS_EMPTY'
+msgid "is empty"
+msgstr ""
+
+#: $languageStrings->'LBL_IS_NOT_EMPTY'
+msgid "is not empty"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEMS_TOTAL'
+msgid "Items Total"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEM_DETAILS'
+msgid "Item Details"
+msgstr ""
+
+#: $languageStrings->'LBL_ITEM_NAME'
+msgctxt "$languageStrings->'LBL_ITEM_NAME'"
+msgid "Item Name"
+msgstr ""
+
+#: $languageStrings->'LBL_Jan'
+msgid "Jan"
+msgstr ""
+
+#: $languageStrings->'LBL_Jul'
+msgid "Jul"
+msgstr ""
+
+#: $languageStrings->'LBL_Jun'
+msgid "Jun"
+msgstr ""
+
+#: $languageStrings->'LBL_JUSTNOW'
+msgid "just now"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_120_DAYS'
+msgid "Last 120 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_30_DAYS'
+msgid "Last 30 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_60_DAYS'
+msgid "Last 60 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_7_DAYS'
+msgid "Last 7 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_90_DAYS'
+msgid "Last 90 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_MONTH'
+msgid "Previous Month"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_SAVED_ON'
+msgid "Last saved on"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_VIEWED_RECORDS'
+msgid "Last Viewed Records"
+msgstr ""
+
+#: $languageStrings->'LBL_LAST_WEEK'
+msgid "Previous Week"
+msgstr ""
+
+#: $languageStrings->'LBL_LESS_THAN'
+msgid "less than"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_LESS_THAN_OR_EQUAL'
+msgid "less or equal"
+msgstr ""
+
+#: $languageStrings->'LBL_LISTVIEW_PAGE_JUMP'
+msgid "Page Jump"
+msgstr ""
+
+#: $languageStrings->'LBL_LIST_IN_METRICS'
+msgid "List in Metrics"
+msgstr ""
+
+#: $languageStrings->'LBL_LIST_PRICE'
+msgctxt "$languageStrings->'LBL_LIST_PRICE'"
+msgid "List Price"
+msgstr ""
+
+#: $languageStrings->'LBL_LOADING'
+msgid "Loading"
+msgstr ""
+
+#: $languageStrings->'LBL_LOADING_LISTVIEW_CONTENTS'
+msgctxt "$languageStrings->'LBL_LOADING_LISTVIEW_CONTENTS'"
+msgid "Loading, Please wait."
+msgstr ""
+
+#: $languageStrings->'LBL_LOADING_PLEASE_WAIT'
+msgctxt "$languageStrings->'LBL_LOADING_PLEASE_WAIT'"
+msgid "Loading, Please wait."
+msgstr ""
+
+#: $languageStrings->'LBL_LOADING_WIDGET'
+msgid "Loading Widget"
+msgstr ""
+
+#: $languageStrings->'LBL_MANAGE_USERS'
+msgid "Manage Users"
+msgstr ""
+
+#: $languageStrings->'LBL_Mar'
+msgid "Mar"
+msgstr ""
+
+#: $languageStrings->'LBL_MARKETING_AND_SALES'
+msgid "MARKETING & SALES"
+msgstr ""
+
+#: $languageStrings->'LBL_MARK_AS_HELD'
+msgid "Mark As Held"
+msgstr ""
+
+#: $languageStrings->'LBL_MASS_EDITING'
+msgid "Mass Editing"
+msgstr ""
+
+#: $languageStrings->'LBL_MATCHED_THIS_CRITERIA'
+msgid "matched this criteria"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_NUMBER_FILTER_COLUMNS'
+msgid "Max 12"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_QTY_SELECT'
+msgid "Maximum value is"
+msgstr ""
+
+#: $languageStrings->'LBL_MAX_UPLOAD_SIZE'
+msgid "Maximum upload size is"
+msgstr ""
+
+#: $languageStrings->'LBL_May'
+msgid "May"
+msgstr ""
+
+#: $languageStrings->'LBL_MERGE'
+msgid "Merge"
+msgstr ""
+
+#: $languageStrings->'LBL_MERGE_RECORDS_DESCRIPTION'
+msgid ""
+"The primary record will be retained after the merge. You can select the "
+"column to retain the values.<br />The other record will be deleted but the "
+"related information will be merged."
+msgstr ""
+
+#: $languageStrings->'LBL_MERGE_RECORDS_IN'
+msgid "Merge Records In"
+msgstr ""
+
+#: $languageStrings->'LBL_MERGE_SELECT'
+msgid "Merge Select"
+msgstr ""
+
+#: $languageStrings->'LBL_MERGING_CRITERIA_SELECTION'
+msgid "Merging Criteria Selection"
+msgstr ""
+
+#: $languageStrings->'LBL_MINE'
+msgid "Mine"
+msgstr ""
+
+#: $languageStrings->'LBL_MINI_LIST'
+msgctxt "$languageStrings->'LBL_MINI_LIST'"
+msgid "Mini List"
+msgstr ""
+
+#: $languageStrings->'LBL_MINUTE'
+msgid "minute"
+msgstr ""
+
+#: $languageStrings->'LBL_MINUTES'
+msgid "minutes"
+msgstr ""
+
+#: $languageStrings->'LBL_MODIFIED'
+msgid "Modified"
+msgstr ""
+
+#: $languageStrings->'LBL_MODIFIED_ON'
+msgid "Modified On"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE_DISABLED'
+msgid " Module is disabled"
+msgstr ""
+
+#: $languageStrings->'LBL_MODULE_SEQUENCE_NUMBERING'
+msgid "Module Sequence Numbering"
+msgstr ""
+
+#: $languageStrings->'LBL_Mon'
+msgid "Mon"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTH'
+msgid "month"
+msgstr ""
+
+#: $languageStrings->'LBL_MONTHS'
+msgid "months"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE'
+msgid "More"
+msgstr ""
+
+#: $languageStrings->'LBL_MORE_CURRENCIES'
+msgid "more currencies"
+msgstr ""
+
+#: $languageStrings->'LBL_MUTIPLE_EMAIL_SELECT_ONE'
+msgid "Please select one of the options below"
+msgstr ""
+
+#: $languageStrings->'LBL_MY_PREFERENCES'
+msgid "My Preferences"
+msgstr ""
+
+#: $languageStrings->'LBL_NET_PRICE'
+msgid "Net Price"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_120_DAYS'
+msgid "Next 120 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_30_DAYS'
+msgid "Next 30 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_60_DAYS'
+msgid "Next 60 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_90_DAYS'
+msgid "Next 90 Days"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_FQ'
+msgid "Next FQ"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_FY'
+msgid "Next FY"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_MONTH'
+msgid "Next Month"
+msgstr ""
+
+#: $languageStrings->'LBL_NEXT_WEEK'
+msgid "Next Week"
+msgstr ""
+
+#: $languageStrings->'LBL_NO'
+msgctxt "$languageStrings->'LBL_NO'"
+msgid "No"
+msgstr ""
+
+#: $languageStrings->'LBL_EQ_ZERO'
+msgctxt "$languageStrings->'LBL_EQ_ZERO'"
+msgid "No"
+msgstr ""
+
+#: $languageStrings->'LBL_NONE'
+msgid "None"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTE'
+msgid "Note"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTEPAD'
+msgctxt "$languageStrings->'LBL_NOTEPAD'"
+msgid "Notepad"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTEPAD_CONTENT'
+msgid "Notepad Content"
+msgstr ""
+
+#: $languageStrings->'LBL_NOTEPAD_NAME'
+msgid "Notepad Name"
+msgstr ""
+
+#: $languageStrings->'LBL_NOT_ACCESSIBLE'
+msgid "Access denied"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_NOT_EQUAL_TO'
+msgid "not equal to"
+msgstr ""
+
+#: $languageStrings->'LBL_Nov'
+msgid "Nov"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_COMMENTS'
+msgid "No comments"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_DATA'
+msgid "No Data"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_DATA_AVAILABLE'
+msgid "No data available"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_DUPLICATED_FOUND'
+msgid "No duplicates found"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_OVERDUE_ACTIVITIES'
+msgid "No overdue activities"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_PENDING_ACTIVITIES'
+msgid "No pending activities"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RECENT_UPDATES'
+msgid "No recent updates"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RECORDS'
+msgid "No Records"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RECORDS_FOUND'
+msgid "No records found"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RECORD_SELECTED'
+msgid "No record selected."
+msgstr ""
+
+#: $languageStrings->'LBL_NO_RELATED'
+msgid "No Related"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_SCHEDULED_ACTIVITIES'
+msgid "No scheduled activities"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_UPDATES'
+msgid "No Updates"
+msgstr ""
+
+#: $languageStrings->'LBL_NO_UPDATES_OR_COMMENTS'
+msgid "No updates or comments"
+msgstr ""
+
+#: $languageStrings->'LBL_Oct'
+msgid "Oct"
+msgstr ""
+
+#: $languageStrings->'LBL_OF'
+msgid "of"
+msgstr ""
+
+#: $languageStrings->'LBL_OF_PRICE'
+msgctxt "$languageStrings->'LBL_OF_PRICE'"
+msgid "Price"
+msgstr ""
+
+#: $languageStrings->'LBL_ON'
+msgid "on"
+msgstr ""
+
+#: $languageStrings->'LBL_ON_DEMAND_ADMIN'
+msgid "Add / Delete Users"
+msgstr ""
+
+#: $languageStrings->'LBL_OPERATION_NOT_PERMITTED'
+msgid "Operation not permitted"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_OR'
+msgid "or"
+msgstr ""
+
+#: $languageStrings->'LBL_OWNER'
+msgid "Owner"
+msgstr ""
+
+#: $languageStrings->'LBL_PAGE'
+msgid "Page"
+msgstr ""
+
+#: $languageStrings->'LBL_PARENT_OWNER'
+msgid "Parent Record Owner"
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD_LINK_EXPIRED_OR_INVALID_PASSWORD'
+msgid "Password link has expired or you have entered invalid password"
+msgstr ""
+
+#: $languageStrings->'LBL_PERMISSION_DENIED'
+msgid "Permission denied"
+msgstr ""
+
+#: $languageStrings->'LBL_PLEASE_SELECT_MODULE'
+msgid "Please select any module to search"
+msgstr ""
+
+#: $languageStrings->'LBL_POST'
+msgid "Post"
+msgstr ""
+
+#: $languageStrings->'LBL_PREVIOUS_FQ'
+msgid "Previous FQ"
+msgstr ""
+
+#: $languageStrings->'LBL_PREVIOUS_FY'
+msgid "Previous FY"
+msgstr ""
+
+#: $languageStrings->'LBL_PRE_TAX_TOTAL'
+msgid "Pre Tax Total"
+msgstr ""
+
+#: $languageStrings->'LBL_PRICING_INFORMATION'
+msgid "Pricing Information"
+msgstr ""
+
+#: $languageStrings->'LBL_PRIVACY_POLICY'
+msgid "Privacy Policy"
+msgstr ""
+
+#: $languageStrings->'LBL_PROFILE_PASSWORD'
+msgid "Profile / Password"
+msgstr ""
+
+#: $languageStrings->'LBL_QTY'
+msgctxt "$languageStrings->'LBL_QTY'"
+msgid "Quantity"
+msgstr ""
+
+#: $languageStrings->'LBL_QTY_IN_STOCK'
+msgid "Stock"
+msgstr ""
+
+#: $languageStrings->'LBL_QUICK_CREATE'
+msgid "Quick Create"
+msgstr ""
+
+#: $languageStrings->'LBL_READ_LICENSE'
+msgid "Read License"
+msgstr ""
+
+#: $languageStrings->'LBL_REASON_FOR_CHANGING_COMMENT'
+msgid "Reason for changing comment"
+msgstr ""
+
+#: $languageStrings->'LBL_RECENTLY_MODIFIED'
+msgid "Recently Modified"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORD'
+msgid "Record"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORDS_LIST'
+msgid "Records List"
+msgstr ""
+
+#: $languageStrings->'LBL_RECORD_DELETE'
+msgid "The record you are trying to view has been deleted."
+msgstr ""
+
+#: $languageStrings->'LBL_RECORD_NOT_FOUND'
+msgid "Record you are trying to access is not found"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_RECORD_SUMMARY'
+msgid "Module Summary"
+msgstr ""
+
+#: $languageStrings->'LBL_REFRESH'
+msgid "Refresh"
+msgstr ""
+
+#: $languageStrings->'LBL_RELATED_PRODUCTS'
+msgid "Product Details"
+msgstr ""
+
+#: $languageStrings->'LBL_REMINDER_INFORMATION'
+msgid "Reminder Details"
+msgstr ""
+
+#: $languageStrings->'LBL_REMOVE'
+msgid "Remove"
+msgstr ""
+
+#: $languageStrings->'LBL_REMOVED'
+msgid "removed"
+msgstr ""
+
+#: $languageStrings->'LBL_REPLIES'
+msgid "replies"
+msgstr ""
+
+#: $languageStrings->'LBL_REPLY'
+msgid "Reply"
+msgstr ""
+
+#: $languageStrings->'LBL_RESTORED'
+msgid "restored"
+msgstr ""
+
+#: $languageStrings->'LBL_RESULT_FOR_THE_TAG'
+msgid "Results for the tag"
+msgstr ""
+
+#: $languageStrings->'LBL_Sat'
+msgid "Sat"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE'
+msgctxt "$languageStrings->'LBL_SAVE'"
+msgid "Save"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_AS_DRAFT'
+msgid "Save as Draft"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_AS_FILTER'
+msgid "Save As Filter"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_FILTER'
+msgid "Save Filter"
+msgstr ""
+
+#: $languageStrings->'LBL_SAVE_MODIFY_FILTER'
+msgid "Save/Modify Filter"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH'
+msgid "Search"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_BUTTON'
+msgid "Search Button"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_FOR'
+msgid "Search For"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_IN'
+msgid "Search In"
+msgstr ""
+
+#: $languageStrings->'LBL_SEARCH_RESULTS'
+msgid "Search Results"
+msgstr ""
+
+#: $languageStrings->'LBL_SECOND'
+msgid "second"
+msgstr ""
+
+#: $languageStrings->'LBL_SECONDS'
+msgid "seconds"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT'
+msgid "Select"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_ALL'
+msgid "Select all"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_EMAIL_IDS'
+msgid "Select Email Addresses"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_EMAIL_TEMPLATE'
+msgid "Select Email Template"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_FIELD'
+msgid "Select Field"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_MODULE'
+msgid "Select Module"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_OPTION'
+msgid "Select an Option"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_RELATED_MODULES'
+msgid "Select Related Modules"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_STATUS'
+msgid "Select Status"
+msgstr ""
+
+#: $languageStrings->'LBL_SELECT_TO_LOAD_LIST'
+msgid "Select to Load List"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND'
+msgid "Send"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_EMAIL'
+msgid "Send Email"
+msgstr ""
+
+#: $languageStrings->'LBL_SEND_SMS'
+msgid "Send SMS"
+msgstr ""
+
+#: $languageStrings->'LBL_Sep'
+msgid "Sep"
+msgstr ""
+
+#: $languageStrings->'LBL_SETTINGS'
+msgid "Settings"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_SETUP_WEBFORMS'
+msgid "Setup Webforms"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_AS_DEFAULT'
+msgid "Set as Default"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_AS_PUBLIC'
+msgid " Set as Public"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_DISCOUNT_FOR'
+msgid "Set Discount For"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_SHIPPING_AND_HANDLING_TAXES_FOR'
+msgid "Set S&H Taxes For"
+msgstr ""
+
+#: $languageStrings->'LBL_SET_TAX_FOR'
+msgid "Set Tax for"
+msgstr ""
+
+#: $languageStrings->'LBL_SHIPPING_ADDRESS_FROM'
+msgid "Copy Shipping Address from"
+msgstr ""
+
+#: $languageStrings->'LBL_SHIPPING_AND_HANDLING_CHARGES'
+msgctxt "$languageStrings->'LBL_SHIPPING_AND_HANDLING_CHARGES'"
+msgid "Shipping & Handling Charges"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOW_COMPLETE_DETAILS'
+msgid "Complete Details"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOW_FULL_DETAILS'
+msgid "Show Full Details"
+msgstr ""
+
+#: $languageStrings->'LBL_SIGN_OUT'
+msgid "Sign Out"
+msgstr ""
+
+#: $languageStrings->'LBL_SIMPLE_FORM'
+msgid "Simple Form"
+msgstr ""
+
+#: $languageStrings->'LBL_SMS_MAX_CHARACTERS_ALLOWED'
+msgid "Maximum 160 characters are allowed for text message"
+msgstr ""
+
+#: $languageStrings->'LBL_SPECIAL_OPTIONS'
+msgid "Special Options"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'LBL_STARTS_WITH'
+msgid "starts with"
+msgstr ""
+
+#: $languageStrings->'LBL_STOCK_NOT_ENOUGH'
+msgid "Not enough stock"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT'
+msgctxt "$languageStrings->'LBL_SUBJECT'"
+msgid "Subject"
+msgstr ""
+
+#: $languageStrings->'LBL_SUB_PRODUCTS'
+msgid "Sub Products"
+msgstr ""
+
+#: $languageStrings->'LBL_SUMMARY'
+msgid "Summary"
+msgstr ""
+
+#: $languageStrings->'LBL_SUMMARY_DETAILS'
+msgid "Summary Details"
+msgstr ""
+
+#: $languageStrings->'LBL_Sun'
+msgid "Sun"
+msgstr ""
+
+#: $languageStrings->'LBL_SUPPORT'
+msgid "SUPPORT"
+msgstr ""
+
+#: $languageStrings->'LBL_TAG_CLOUD'
+msgid "Tag Cloud"
+msgstr ""
+
+#: $languageStrings->'LBL_TAG_THIS_RECORD'
+msgid "Tag this Record"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX'
+msgctxt "$languageStrings->'LBL_TAX'"
+msgid "Tax"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_FOR_SHIPPING_AND_HANDLING'
+msgid "Taxes For Shipping and Handling"
+msgstr ""
+
+#: $languageStrings->'LBL_TAX_MODE'
+msgid "Tax Mode"
+msgstr ""
+
+#: $languageStrings->'LBL_TERMS_INFORMATION'
+msgctxt "$languageStrings->'LBL_TERMS_INFORMATION'"
+msgid "Terms & Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_Thu'
+msgid "Thu"
+msgstr ""
+
+#: $languageStrings->'LBL_TO'
+msgid "To"
+msgstr ""
+
+#: $languageStrings->'LBL_to'
+msgid "to"
+msgstr ""
+
+#: $languageStrings->'LBL_TODAY'
+msgid "Today"
+msgstr ""
+
+#: $languageStrings->'LBL_TOMORROW'
+msgid "Tomorrow"
+msgstr ""
+
+#: $languageStrings->'LBL_TOOLS'
+msgid "Tools"
+msgstr ""
+
+#: $languageStrings->'LBL_TOOLS_HEADER'
+msgid "TOOLS"
+msgstr ""
+
+#: $languageStrings->'LBL_TOOLTIP'
+msgid "Tooltip Management"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL'
+msgctxt "$languageStrings->'LBL_TOTAL'"
+msgid "Total"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_AFTER_DISCOUNT'
+msgid "Total After Discount"
+msgstr ""
+
+#: $languageStrings->'LBL_TOTAL_TAX_AMOUNT'
+msgid "Total Tax Amount"
+msgstr ""
+
+#: $languageStrings->'LBL_TRANSFER_OWNERSHIP'
+msgid "Transfer Ownership"
+msgstr ""
+
+#: $languageStrings->'LBL_Tue'
+msgid "Tue"
+msgstr ""
+
+#: $languageStrings->'LBL_TYPE_SEARCH'
+msgid "Type to search"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATED'
+msgid "updated"
+msgstr ""
+
+#: $languageStrings->'LBL_UPDATES'
+msgid "Updates"
+msgstr ""
+
+#: $languageStrings->'LBL_USER'
+msgctxt "$languageStrings->'LBL_USER'"
+msgid "User"
+msgstr ""
+
+#: $languageStrings->'LBL_USERS'
+msgctxt "$languageStrings->'LBL_USERS'"
+msgid "Users"
+msgstr ""
+
+#: $languageStrings->'LBL_USER_SETTINGS'
+msgid "User Settings"
+msgstr ""
+
+#: $languageStrings->'LBL_VIDEO_TUTORIAL'
+msgid "Video Tutorial"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_DETAILS'
+msgid "View Details"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_NAME'
+msgid "View Name"
+msgstr ""
+
+#: $languageStrings->'LBL_VIEW_THREAD'
+msgid "View Thread"
+msgstr ""
+
+#: $languageStrings->'LBL_VTIGER_CRM_HONEST_OPEN_SOURCE'
+msgid "vtiger CRM Open Source"
+msgstr ""
+
+#: $languageStrings->'LBL_WEBFORMS'
+msgid "WebForms"
+msgstr ""
+
+#: $languageStrings->'LBL_Wed'
+msgid "Wed"
+msgstr ""
+
+#: $languageStrings->'LBL_YEAR'
+msgid "year"
+msgstr ""
+
+#: $languageStrings->'LBL_YEARS'
+msgid "years"
+msgstr ""
+
+#: $languageStrings->'LBL_YES'
+msgctxt "$languageStrings->'LBL_YES'"
+msgid "Yes"
+msgstr ""
+
+#: $languageStrings->'LBL_YESTERDAY'
+msgid "Yesterday"
+msgstr ""
+
+#: $languageStrings->'LBL_ZERO_DISCOUNT'
+msgid "Zero Discount"
+msgstr ""
+
+#: %24languageStrings-%3E%27Lead+Source%27
+msgid "Lead Source"
+msgstr ""
+
+#: %24languageStrings-%3E%27Leads+by+Industry%27
+msgid "Leads by Industry"
+msgstr ""
+
+#: %24languageStrings-%3E%27Leads+by+Source%27
+msgid "Leads by Source"
+msgstr ""
+
+#: %24languageStrings-%3E%27Leads+by+Status%27
+msgid "Leads by Status"
+msgstr ""
+
+#: %24languageStrings-%3E%27Leads+Created%27
+msgid "Leads Created"
+msgstr ""
+
+#: $languageStrings->'Leads'
+msgid "Leads"
+msgstr ""
+
+#: %24languageStrings-%3E%27List+and+Campaigns%27
+msgid "List and Campaigns"
+msgstr ""
+
+#: %24languageStrings-%3E%27List+Price%27
+msgctxt "$languageStrings->'List Price'"
+msgid "List Price"
+msgstr ""
+
+#: $languageStrings->'Low'
+msgid "Low"
+msgstr ""
+
+#: $languageStrings->'Machinery'
+msgid "Machinery"
+msgstr ""
+
+#: $languageStrings->'MailManager'
+msgid "Mail Manager"
+msgstr ""
+
+#: $languageStrings->'Manufacturing'
+msgid "Manufacturing"
+msgstr ""
+
+#: %24languageStrings-%3E%27Market+Failed%27
+msgid "Market Failed"
+msgstr ""
+
+#: $languageStrings->'Media'
+msgid "Media"
+msgstr ""
+
+#: %24languageStrings-%3E%27Mini+List%27
+msgctxt "$languageStrings->'Mini List'"
+msgid "Mini List"
+msgstr ""
+
+#: $languageStrings->'Mobile'
+msgid "Mobile Phone"
+msgstr ""
+
+#: $languageStrings->'ModComments'
+msgctxt "$languageStrings->'ModComments'"
+msgid "Comments"
+msgstr ""
+
+#: %24languageStrings-%3E%27Modified+Time%27
+msgid "Modified Time"
+msgstr ""
+
+#: %24languageStrings-%3E%27Net+Total%27
+msgid "Net Total"
+msgstr ""
+
+#: %24languageStrings-%3E%27Not+For+Profit%27
+msgid "Not For Profit"
+msgstr ""
+
+#: $languageStrings->'Notebook'
+msgctxt "$languageStrings->'Notebook'"
+msgid "Notepad"
+msgstr ""
+
+#: %24languageStrings-%3E%27Notify+Owner%27
+msgid "Notify Owner"
+msgstr ""
+
+#: $languageStrings->'NOT_A_BUNDLE'
+msgid "Not a bundle"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Open+Tickets%27
+msgid "Open Tickets"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Email%27
+msgid "Other Email"
+msgstr ""
+
+#: %24languageStrings-%3E%27Other+Phone%27
+msgid "Secondary Phone"
+msgstr ""
+
+#: $languageStrings->'Other'
+msgid "Other"
+msgstr ""
+
+#: $languageStrings->'Others'
+msgid "Others"
+msgstr ""
+
+#: %24languageStrings-%3E%27Overdue+Activities%27
+msgid "Overdue Activities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Parent+Product%27
+msgid "Parent Product"
+msgstr ""
+
+#: $languageStrings->'Partner'
+msgid "Partner"
+msgstr ""
+
+#: $languageStrings->'Pending'
+msgid "Pending"
+msgstr ""
+
+#: $languageStrings->'Phone'
+msgid "Primary Phone"
+msgstr ""
+
+#: %24languageStrings-%3E%27Phone%3A+%27
+msgid "Phone: "
+msgstr ""
+
+#: %24languageStrings-%3E%27Pipelined+Amount%27
+msgid "Sales Pipeline"
+msgstr ""
+
+#: %24languageStrings-%3E%27Po+Box%27
+msgid "PO Box"
+msgstr ""
+
+#: %24languageStrings-%3E%27Postal+Code%27
+msgid "Postal Code"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potential+Name%27
+msgid "Opportunity Name"
+msgstr ""
+
+#: %24languageStrings-%3E%27Potentials+by+Stage%27
+msgid "Opportunities by Stage"
+msgstr ""
+
+#: $languageStrings->'Potentials'
+msgid "Opportunities"
+msgstr ""
+
+#: $languageStrings->'POWEREDBY'
+msgid "Powered by vtiger CRM"
+msgstr ""
+
+#: $languageStrings->'Price'
+msgctxt "$languageStrings->'Price'"
+msgid "Price"
+msgstr ""
+
+#: $languageStrings->'PriceBooks'
+msgid "Price Books"
+msgstr ""
+
+#: $languageStrings->'Priority'
+msgid "Priority"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Bundles%27
+msgid "Product Bundles"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Code%27
+msgid "Product Code"
+msgstr ""
+
+#: %24languageStrings-%3E%27Product+Name%27
+msgid "Product Name"
+msgstr ""
+
+#: $languageStrings->'Products'
+msgid "Products"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Cancelled%27
+msgid "Project Cancelled"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Milestones%27
+msgctxt "$languageStrings->'Project Milestones'"
+msgid "Project Milestones"
+msgstr ""
+
+#: %24languageStrings-%3E%27Project+Tasks%27
+msgctxt "$languageStrings->'Project Tasks'"
+msgid "Project Tasks"
+msgstr ""
+
+#: $languageStrings->'Project'
+msgctxt "$languageStrings->'Project'"
+msgid "Projects"
+msgstr ""
+
+#: $languageStrings->'ProjectMilestone'
+msgctxt "$languageStrings->'ProjectMilestone'"
+msgid "Project Milestones"
+msgstr ""
+
+#: $languageStrings->'Projects'
+msgctxt "$languageStrings->'Projects'"
+msgid "Projects"
+msgstr ""
+
+#: $languageStrings->'ProjectTask'
+msgctxt "$languageStrings->'ProjectTask'"
+msgid "Project Tasks"
+msgstr ""
+
+#: %24languageStrings-%3E%27Public+Relations%27
+msgid "Public Relations"
+msgstr ""
+
+#: $languageStrings->'Public'
+msgid "Public"
+msgstr ""
+
+#: %24languageStrings-%3E%27Purchase+Order%27
+msgctxt "$languageStrings->'Purchase Order'"
+msgid "Purchase Order"
+msgstr ""
+
+#: $languageStrings->'PurchaseOrder'
+msgctxt "$languageStrings->'PurchaseOrder'"
+msgid "Purchase Order"
+msgstr ""
+
+#: $languageStrings->'Quantity'
+msgctxt "$languageStrings->'Quantity'"
+msgid "Quantity"
+msgstr ""
+
+#: $languageStrings->'Quotes'
+msgid "Quotes"
+msgstr ""
+
+#: $languageStrings->'Rating'
+msgid "Rating"
+msgstr ""
+
+#: $languageStrings->'Recreation'
+msgid "Recreation"
+msgstr ""
+
+#: %24languageStrings-%3E%27Related+To%27
+msgid "Related To"
+msgstr ""
+
+#: %24languageStrings-%3E%27Reminder+Interval%27
+msgid "Popup Reminder Interval"
+msgstr ""
+
+#: $languageStrings->'Retail'
+msgid "Retail"
+msgstr ""
+
+#: $languageStrings->'Reviewed'
+msgid "Reviewed"
+msgstr ""
+
+#: $languageStrings->'Rss'
+msgid "RSS"
+msgstr ""
+
+#: %24languageStrings-%3E%27S%26H+Amount%27
+msgid "S&H Amount"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+End+Date%27
+msgid "Sales End Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Order%27
+msgctxt "$languageStrings->'Sales Order'"
+msgid "Sales Order"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sales+Start+Date%27
+msgid "Sales Start Date"
+msgstr ""
+
+#: $languageStrings->'SalesOrder'
+msgctxt "$languageStrings->'SalesOrder'"
+msgid "Sales Order"
+msgstr ""
+
+#: $languageStrings->'Salutation'
+msgid "Salutation"
+msgstr ""
+
+#: %24languageStrings-%3E%27Secondary+Email%27
+msgid "Secondary Email"
+msgstr ""
+
+#: %24languageStrings-%3E%27Self+Generated%27
+msgid "Self Generated"
+msgstr ""
+
+#: %24languageStrings-%3E%27Service+Contracts%27
+msgctxt "$languageStrings->'Service Contracts'"
+msgid "Service Contracts"
+msgstr ""
+
+#: $languageStrings->'ServiceContracts'
+msgctxt "$languageStrings->'ServiceContracts'"
+msgid "Service Contracts"
+msgstr ""
+
+#: $languageStrings->'Services'
+msgid "Services"
+msgstr ""
+
+#: %24languageStrings-%3E%27Shipping+%26+Handling+Charges%27
+msgctxt "$languageStrings->'Shipping & Handling Charges'"
+msgid "Shipping & Handling Charges"
+msgstr ""
+
+#: %24languageStrings-%3E%27Shipping+%26+Handling+Tax%3A%27
+msgid "Shipping & Handling Tax:"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+Address%27
+msgctxt "$languageStrings->'Shipping Address'"
+msgid "Shipping Address"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+City%27
+msgid "Shipping City"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+Code%27
+msgid "Shipping Postal Code"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+Country%27
+msgid "Shipping Country"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+Po+Box%27
+msgid "Shipping PO Box"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: %24languageStrings-%3E%27Shipping+State%27
+msgid "Shipping State"
+msgstr ""
+
+#: $languageStrings->'Shipping'
+msgid "Shipping"
+msgstr ""
+
+#: $languageStrings->'Shutdown'
+msgid "Shutdown"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'SINGLE_Accounts'
+msgctxt "$languageStrings->'SINGLE_Accounts'"
+msgid "Organization"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $languageStrings->'SINGLE_Contacts'
+msgctxt "$languageStrings->'SINGLE_Contacts'"
+msgid "Contact"
+msgstr ""
+
+#: $languageStrings->'SINGLE_Emails'
+msgid "Email"
+msgstr ""
+
+#: $languageStrings->'Single_Users'
+msgctxt "$languageStrings->'Single_Users'"
+msgid "User"
+msgstr ""
+
+#: $languageStrings->'State'
+msgid "State"
+msgstr ""
+
+#: $languageStrings->'Status'
+msgid "Status"
+msgstr ""
+
+#: $languageStrings->'Street'
+msgid "Street"
+msgstr ""
+
+#: %24languageStrings-%3E%27Sub+Total%27
+msgid "Sub Total"
+msgstr ""
+
+#: $languageStrings->'Subject'
+msgctxt "$languageStrings->'Subject'"
+msgid "Subject"
+msgstr ""
+
+#: %24languageStrings-%3E%27Support+Expiry+Date%27
+msgid "Support Expiry Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Support+Start+Date%27
+msgid "Support Start Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tax+Type%27
+msgid "Tax Type"
+msgstr ""
+
+#: $languageStrings->'Tax'
+msgctxt "$languageStrings->'Tax'"
+msgid "Tax"
+msgstr ""
+
+#: $languageStrings->'Tax1'
+msgid "Tax1"
+msgstr ""
+
+#: $languageStrings->'Tax2'
+msgid "Tax2"
+msgstr ""
+
+#: $languageStrings->'Tax3'
+msgid "Tax3"
+msgstr ""
+
+#: $languageStrings->'Tax:'
+msgid "Tax:"
+msgstr ""
+
+#: $languageStrings->'Technology'
+msgid "Technology"
+msgstr ""
+
+#: $languageStrings->'Telecommunications'
+msgid "Telecommunications"
+msgstr ""
+
+#: %24languageStrings-%3E%27Terms+%26+Conditions%27
+msgctxt "$languageStrings->'Terms & Conditions'"
+msgid "Terms & Conditions"
+msgstr ""
+
+#: %24languageStrings-%3E%27Tickets+by+Status%27
+msgid "Tickets by Status"
+msgstr ""
+
+#: %24languageStrings-%3E%27Top+Potentials%27
+msgid "Top Opportunities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Total+Revenue%27
+msgid "Total Revenue"
+msgstr ""
+
+#: $languageStrings->'Total'
+msgctxt "$languageStrings->'Total'"
+msgid "Total"
+msgstr ""
+
+#: %24languageStrings-%3E%27Trade+Show%27
+msgid "Trade Show"
+msgstr ""
+
+#: $languageStrings->'Transportation'
+msgid "Transportation"
+msgstr ""
+
+#: $languageStrings->'Type'
+msgid "Type"
+msgstr ""
+
+#: %24languageStrings-%3E%27Upcoming+Activities%27
+msgid "Upcoming Activities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Upcoming+Tasks%27
+msgid "Upcoming Tasks"
+msgstr ""
+
+#: $languageStrings->'UPS'
+msgid "UPS"
+msgstr ""
+
+#: $languageStrings->'USPS'
+msgid "USPS"
+msgstr ""
+
+#: $languageStrings->'Utilities'
+msgid "Utilities"
+msgstr ""
+
+#: %24languageStrings-%3E%27Valid+Date%27
+msgid "Valid Date"
+msgstr ""
+
+#: %24languageStrings-%3E%27Vendor+Name%27
+msgid "Vendor Name"
+msgstr ""
+
+#: $languageStrings->'Vendors'
+msgid "Vendors"
+msgstr ""
+
+#: %24languageStrings-%3E%27Web+Site%27
+msgid "Web Site"
+msgstr ""
+
+#: %24languageStrings-%3E%27Website%3A+%27
+msgid "Website: "
+msgstr ""
+
+#: %24languageStrings-%3E%27Word+of+mouth%27
+msgid "Word of mouth"
+msgstr ""
+
+#. //Promotion translations
+#: $languageStrings->'LBL_HIDE_PROMOTION'
+msgctxt "$languageStrings->'LBL_HIDE_PROMOTION'"
+msgid "Hide Promotion"
+msgstr ""
+
+#: $languageStrings->'LBL_SHOW_PROMOTION'
+msgctxt "$languageStrings->'LBL_SHOW_PROMOTION'"
+msgid "Show Promotion"
+msgstr ""
+
+#. //customerportal forgot password
+#: $languageStrings->'LBL_LOGIN_DETAILS'
+msgid "Login Details"
+msgstr ""
+
+#: $languageStrings->'LBL_USERNAME'
+msgid " Username"
+msgstr ""
+
+#: $languageStrings->'LBL_PASSWORD'
+msgid "Password"
+msgstr ""
+
+#: $languageStrings->'LBL_SUBJECT_PORTAL_LOGIN_DETAILS'
+msgid "Portal Login Details"
+msgstr ""
+
+#. //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+#: $languageStrings->'Users'
+msgctxt "$languageStrings->'Users'"
+msgid "Users"
+msgstr ""
+
+#: %24languageStrings-%3E%27Service+Requests%27
+msgid "Service Requests"
+msgstr ""
+
+#: %24languageStrings-%3E%27Terms+%26amp%3B+Conditions%27
+msgctxt "$languageStrings->'Terms &amp; Conditions'"
+msgid "Terms & Conditions"
+msgstr ""
+
+#: $languageStrings->'LBL_CONVERSION_RATE'
+msgctxt "$languageStrings->'LBL_CONVERSION_RATE'"
+msgid "Conversion Rate"
+msgstr ""
+
+#. //Email template  edit Convertion
+#: $languageStrings->'LBL_CURRENT_DATE'
+msgctxt "$languageStrings->'LBL_CURRENT_DATE'"
+msgid "Current Date"
+msgstr ""
+
+#: $languageStrings->'LBL_CURRENT_TIME'
+msgid "Current Time"
+msgstr ""
+
+#: $languageStrings->'LBL_LEFT_PANEL_SHOW_HIDE'
+msgid ""
+"Left panel show/hide'\n"
+"\n"
+"\t'AM' => 'AM"
+msgstr ""
+
+#: $jsLanguageStrings->'INVALID_NUMBER'
+msgid "Invalid number"
+msgstr ""
+
+#: $jsLanguageStrings->'INVALID_NUMBER_OF'
+msgid "Invalid number of"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ACCEPT_ONLY_NUMBER'
+msgid "Accepts only numbers"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ACCEPT_POSITIVE_NUMBER'
+msgid "Accepts only positive numbers"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS'
+msgid "You are allowed to select a maximum of three records"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ARE_YOU_SURE_TO_DELETE_WIDGET'
+msgid "Are you sure to delete widget"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CAN_NOT_REMOVE_DEFAULT_WIDGET'
+msgid "Cannot remove Default Widget"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CHECK_FILE_INTEGRITY'
+msgid "Check File Integrity"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CONTAINS_ILLEGAL_CHARACTERS'
+msgid "contains illegal characters"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_CURRENT_DATE'
+msgctxt "$jsLanguageStrings->'JS_CURRENT_DATE'"
+msgid "Current Date"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DO_NOT_HAVE_AN_EMAIL_ID'
+msgid "does not have an email address"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE'
+msgctxt "$jsLanguageStrings->'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE'"
+msgid "Duplicate entries found for the value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE'
+msgctxt "$jsLanguageStrings->'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE'"
+msgid "Duplicate entries found for the value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLICATE_RECORD'
+msgid "Duplicate Record"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_DUPLICTAE_CREATION_CONFIRMATION'
+msgid ""
+"Organization Name already Exists.Do you want to create a duplicate record?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_EMAIL_SERVER_CONFIGURATION'
+msgid "Please configure your outgoing server settings from the settings page"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_END_DATE_TIME'
+msgid "End Date & Time"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ERROR'
+msgid "Error"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FAILED_TO_SAVE'
+msgid "Failed to save changes on server"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_FIELD_MAPPED_MORE_THAN_ONCE'
+msgid "Field mapped more than once"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IMPORT_FILE_CAN_NOT_BE_EMPTY'
+msgid "Import File cannot be Empty"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_INFORMATION'
+msgid "Information"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_INVALID_PAGE_NUMBER'
+msgid "Invalid Page Number"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IS_DISABLED'
+msgid "is disabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_IS_ENABLED'
+msgid "is enabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEMS'
+msgid "items"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEMS_DELETED_SUCCESSFULLY'
+msgid "Items Deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEM_ADDED_SUCCESSFULLY'
+msgid "Item added Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_ITEM_RENAMED_SUCCESSFULLY'
+msgid "Item Renamed Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE'
+msgid "Are you sure that you want to delete?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_CANCEL'
+msgctxt "$jsLanguageStrings->'JS_LBL_CANCEL'"
+msgid "Cancel"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY'
+msgid "Comment value cannot be empty"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_PERMISSION'
+msgid "Permissions"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_LBL_SAVE'
+msgctxt "$jsLanguageStrings->'JS_LBL_SAVE'"
+msgid "Save"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAP_MANDATORY_FIELDS'
+msgid "Please map mandatory fields"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAP_NAME_ALREADY_EXISTS'
+msgid "Map Name already exists"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAP_NAME_CAN_NOT_BE_EMPTY'
+msgid "Map Name cannot be empty"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MASS_EDIT_LIMIT'
+msgid "Mass Edit operation can be done on 500 or less records at a time"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAX_FILE_UPLOAD_EXCEEDS'
+msgid "max file Upload exceeds"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MAX_TAG_LENGTH_EXCEEDS'
+msgid "Tag length exceeds max size"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $jsLanguageStrings->'JS_MESSAGE'
+msgid "Message"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MINUTES'
+msgid "mins"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MODULE_DISABLED'
+msgid "Module Disabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MODULE_ENABLED'
+msgid "Module Enabled"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_MORE_THAN_ONE_ITEM_SELECTED'
+msgid "More than one Item selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_CREATE_OR_NOT_QUICK_CREATE_ENABLED'
+msgid "No create permissions or not enabled for quick create"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_ITEM_SELECTED'
+msgid "No item Selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_RECORDS_RELATED_TO_THIS_FILTER'
+msgid "No Records Related to this Filter"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_RESULTS_FOUND'
+msgid "No Results Found"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NO_VIEW_PERMISSION_AFTER_SAVE'
+msgid ""
+"You will not have permissions to view this record after save. Would you like "
+"to continue?"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_NUMBER_SHOULD_BE_LESS_THAN_32'
+msgid "Number should be less than 32"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PAGE_NOT_EXIST'
+msgid "Page not exist"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PBX_CALL_FROM'
+msgid "Call From"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PBX_FILL_ALL_FIELDS'
+msgid "Please fill all the fields"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PBX_INCOMING_CALL'
+msgid "Incoming Call"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PBX_OUTGOING_FAILURE'
+msgid "Call Failed"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PBX_OUTGOING_SUCCESS'
+msgid "Pick up the extension receiver to dial the number"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PERCENTAGE_VALUE_SHOULD_BE_LESS_THAN_100'
+msgid "Percentage value should be less than 100"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PHONE_NUMBER_LENGTH_EXCEEDED'
+msgid "phone number length exceeded limit"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENABLE_BASE_CURRENCY_FOR_PRODUCT'
+msgid "Please enable base currency for product"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_A_TAG'
+msgid "Please enter a tag"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_DECIMAL_VALUE'
+msgid "Please enter decimal value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_INTEGER_VALUE'
+msgid "Please enter integer value"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER'
+msgid "Please enter Primary email address to enable portal user"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_SOME_TEXT_FOR_COMMENT'
+msgid "Please enter some text for comment"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_SOME_VALUE'
+msgid "Please enter some value to search"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_VALID_DATE'
+msgid "Please Enter Valid Date"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_VALID_EMAIL_ADDRESS'
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_ENTER_VALID_TIME'
+msgid "Please Enter Valid Time"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_AN_ACCOUNT_TO_COPY_ADDRESS'
+msgid "Please select an Organization to copy address"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS'
+msgid "Please select a Contact to copy address"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_ATLEAST_ONE_MANDATORY_FIELD'
+msgid "Please select at least one Mandatory Field"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_ATLEAST_ONE_OPTION'
+msgid "Please select at least one option"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_BASE_CURRENCY_FOR_PRODUCT'
+msgid "Please select base currency for product"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_ONE_FIELD_FOR_MERGE'
+msgid "Select at least one field for merge criteria"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SELECT_ONE_RECORD'
+msgid "Please select at least one record"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PLEASE_SPLIT_FILE_AND_IMPORT_AGAIN'
+msgid "Please split the file into smaller files and import again."
+msgstr ""
+
+#: $jsLanguageStrings->'JS_POSTPONE'
+msgid "Postpone"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS'
+msgid "Primary email field does not exist to enable portal user"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORDS_ARE_GETTING_DELETED'
+msgid "Records are getting deleted"
+msgstr ""
+
+#: %24jsLanguageStrings-%3E%27JS_RECORDS_TRANSFERRED+SUCCESSFULLY%27
+msgid "Records ownership has been transferred successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORD_GETTING_DELETED'
+msgid "Record getting deleted"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_REENTER_PASSWORDS'
+msgid "Renter Passwords"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_REQUIRED_FIELD'
+msgid "* This field is required"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS'
+msgid "Selected Organization does not contain address to copy"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS'
+msgid "Selected Contact does not contain address to copy"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING'
+msgid "Select atleast two records for merging"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_FILE_EXTENSION'
+msgid "Please select a file with the following extension:"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $jsLanguageStrings->'JS_SELECT_MODULE'
+msgid "Please Select Module"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP'
+msgid "You have to select the records in the same groups for merging"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SHORTCUT_ALREADY_ADDED'
+msgid "This shortcut is already added"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SHOULD_BE_GREATER_THAN_CURRENT_DATE'
+msgid "should be greater than Current Date"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SHOULD_BE_GREATER_THAN_OR_EQUAL_TO'
+msgid "should be greater than or equal to"
+msgstr ""
+
+#. Duplicated key-value pairs
+#: $jsLanguageStrings->'JS_SHOULD_BE_LESS_THAN_CURRENT_DATE'
+msgid "should be less than Current Date"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SHOULD_BE_LESS_THAN_OR_EQUAL_TO'
+msgid "should be less than or equal to"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SMS_SERVER_CONFIGURATION'
+msgid "Please configure your SMS notifier from the SMS notifier settings page"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_START_DATE_TIME'
+msgid "Start Date & Time"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SUCCESSFULLY_PINNED'
+msgid "Shortcut added successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SUCCESSFULLY_UNPINNED'
+msgid "Shortcut removed successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TAG_NAME_ALREADY_EXIST'
+msgid "Tag name already exist"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_THIS_DOCUMENT_HAS_ALREADY_BEEN_SELECTED'
+msgid "This Document has already been attached"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_THIS_FILE_HAS_ALREADY_BEEN_SELECTED'
+msgid "This File has already been selected"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_TOTAL_RECORDS'
+msgid "Total records"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_UPLOADED_FILE_SIZE_EXCEEDS'
+msgid "Uploaded file size exceeds"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_UPLOADED_FILE_SIZE_SHOULD_BE_LESS_THAN'
+msgid "Upload file size should be less than"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_USER_EXISTS'
+msgid "User Already Exists"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_VALUE_SHOULD_BE_GREATER_THAN_ZERO'
+msgid "value should be greater than zero"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_VALUE_SHOULD_NOT_BE_LESS_THAN'
+msgid "Frequency of any cron job configured should not be less than"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_YOU_ARE_IN_PAGE_NUMBER'
+msgid "You are in page number"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_YOU_CAN_SELECT_ONLY'
+msgid "You can select only"
+msgstr ""
+
+#. This is added as duplicate as we need to show different message for different modules. Ex:Accounts has different message
+#: $jsLanguageStrings->'LBL_DELETE_CONFIRMATION'
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_DELETE_USER_CONFIRMATION'
+msgid ""
+"When a User is deleted, the user will be marked as \"Inactive\" and no new "
+"records can be assigned to the User, and the user will not be able to login. "
+"Are you sure you want to delete?"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_RESTORE_CONFIRMATION'
+msgid ""
+"Records previously assigned to this user will not be restored. Are you sure "
+"you want to restore this user?"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_DELETE_USER_PERMANENT_CONFIRMATION'
+msgid ""
+"Once deleted this user cannot be restored back. Are you sure you want to "
+"delete this user permanently?"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_IMAGE_DELETED_SUCCESSFULLY'
+msgid "Image Deleted Successfully"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_IMAGE_NOT_DELETED'
+msgid "Image Not Deleted"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_MASS_DELETE_CONFIRMATION'
+msgid "Are you sure you want to delete the selected Records?"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_NO'
+msgctxt "$jsLanguageStrings->'LBL_NO'"
+msgid "No"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_YES'
+msgctxt "$jsLanguageStrings->'LBL_YES'"
+msgid "Yes"
+msgstr ""
+
+#: $jsLanguageStrings->'NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT'
+msgid "None of the field values are changed in Mass Edit"
+msgstr ""
+
+#: $jsLanguageStrings->'OVERWRITE_EXISTING_MSG1'
+msgid "Overwrite the existing address with the selected "
+msgstr ""
+
+#: $jsLanguageStrings->'OVERWRITE_EXISTING_MSG2'
+msgid "address details?"
+msgstr ""
+
+#: $jsLanguageStrings->'PM'
+msgid "PM"
+msgstr ""
+
+#: $jsLanguageStrings->'SHOULD_BE_LESS_THAN_TODAY'
+msgid "Must occur before today"
+msgstr ""
+
+#: $jsLanguageStrings->'SINGLE_Accounts'
+msgctxt "$jsLanguageStrings->'SINGLE_Accounts'"
+msgid "Organization"
+msgstr ""
+
+#: $jsLanguageStrings->'SINGLE_Contacts'
+msgctxt "$jsLanguageStrings->'SINGLE_Contacts'"
+msgid "Contact"
+msgstr ""
+
+#. //Promotion translations
+#: $jsLanguageStrings->'JS_HIDE_PROMOTION'
+msgctxt "$jsLanguageStrings->'JS_HIDE_PROMOTION'"
+msgid "Hide Promotion"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_SHOW_PROMOTION'
+msgctxt "$jsLanguageStrings->'JS_SHOW_PROMOTION'"
+msgid "Show Promotion"
+msgstr ""
+
+#. //Inventory module Translations
+#: $jsLanguageStrings->'JS_PLEASE_ENABLE_PRODUCT_OR_SERVICE_MODULE'
+msgid "Please Enable Product or Service Module"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_SYNC_BUTTON'
+msgid "Syncronize"
+msgstr ""
+
+#: $jsLanguageStrings->'LBL_SYNCRONIZING'
+msgid "Syncronizing"
+msgstr ""
+
+#: $jsLanguageStrings->'JS_RECORDS_TRANSFERRED_SUCCESSFULLY'
+msgid "Records ownership transferred successfully."
+msgstr ""
+
+#. //Edit view mode Translations
+#: $jsLanguageStrings->'JS_CHANGES_WILL_BE_LOST'
+msgid "Your Changes Will Be Lost!"
+msgstr ""
+
+#. //Mass edit failure
+#: $jsLanguageStrings->'JS_MASS_EDIT_NOT_SUCCESSFULL'
+msgid "Mass edit of some record is not successfull"
+msgstr ""
