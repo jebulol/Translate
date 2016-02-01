@@ -1,25 +1,28 @@
-#. extracted from fi_fi/Vtiger.php
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-01 14:35+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-02-01 15:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: Vtiger.php\n"
 
 #. /* +***********************************************************************************
-#.  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
-#.  * ("License"); You may not use this file except in compliance with the License
-#.  * The Original Code is:  vtiger CRM Open Source
-#.  * The Initial Developer of the Original Code is vtiger.
-#.  * Portions created by vtiger are Copyright (C) vtiger.
-#.  * All Rights Reserved.
-#.  * *********************************************************************************** */
+#. * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+#. * ("License"); You may not use this file except in compliance with the License
+#. * The Original Code is:  vtiger CRM Open Source
+#. * The Initial Developer of the Original Code is vtiger.
+#. * Portions created by vtiger are Copyright (C) vtiger.
+#. * All Rights Reserved.
+#. * *********************************************************************************** */
 #: $languageStrings->'--None--'
 msgid "--None--"
 msgstr ""
@@ -351,11 +354,11 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Grand+Total%3A%27
 msgid "Grand Total:"
-msgstr ""
+msgstr "YHT: "
 
 #: $languageStrings->'Half-Yearly'
 msgid "Half-Yearly"
-msgstr ""
+msgstr "Puolivuotinen"
 
 #: $languageStrings->'Healthcare'
 msgid "Healthcare"
@@ -372,7 +375,7 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'History'
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 #: $languageStrings->'Hospitality'
 msgid "Hospitality"
@@ -380,7 +383,7 @@ msgstr ""
 
 #: %24languageStrings-%3E%27In+Progress%27
 msgid "In Progress"
-msgstr ""
+msgstr "Työn alla"
 
 #: $languageStrings->'Insurance'
 msgid "Insurance"
@@ -388,7 +391,7 @@ msgstr ""
 
 #: $languageStrings->'Invoice'
 msgid "Invoice"
-msgstr ""
+msgstr "Lasku"
 
 #: %24languageStrings-%3E%27Is+Converted+From+Lead%27
 msgid "Is Converted From Lead"
@@ -400,15 +403,15 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Item+Comment%27
 msgid "Item Comment"
-msgstr ""
+msgstr "Tuote kommentti"
 
 #: %24languageStrings-%3E%27Item+Discount+Amount%27
 msgid "Item Discount Amount"
-msgstr ""
+msgstr "Tuotealennus(määrä)"
 
 #: %24languageStrings-%3E%27Item+Discount+Percent%27
 msgid "Item Discount Percent"
-msgstr ""
+msgstr "Tuotealennus(%)"
 
 #: %24languageStrings-%3E%27Item+Name%27
 msgctxt "$languageStrings->'Item Name'"
@@ -421,19 +424,19 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Last+5+Comments%27
 msgid "Last 5 Comments"
-msgstr ""
+msgstr "5 Viimeisintä kommenttia"
 
 #: %24languageStrings-%3E%27Last+Comment%27
 msgid "Last Comment"
-msgstr ""
+msgstr "Viimeisin kommentti"
 
 #: %24languageStrings-%3E%27Last+Modified+By%27
 msgid "Last Modified By"
-msgstr ""
+msgstr "Viimeksi muokannut"
 
 #: %24languageStrings-%3E%27Last+Name%27
 msgid "Last Name"
-msgstr ""
+msgstr "Sukunimi"
 
 #: $languageStrings->'LBL_ACCESS_DENIED_FOR'
 msgid "Access Denied for"
@@ -454,27 +457,27 @@ msgstr ""
 
 #: $languageStrings->'LBL_ADD'
 msgid "Add"
-msgstr ""
+msgstr "Lisää"
 
 #: $languageStrings->'LBL_ADDED'
 msgid "added"
-msgstr ""
+msgstr "lisätty"
 
 #: $languageStrings->'LBL_ADDRESS_INFORMATION'
 msgid "Address Details"
-msgstr ""
+msgstr "Osoitetiedot"
 
 #: $languageStrings->'LBL_ADD_BCC'
 msgid "Add Bcc"
-msgstr ""
+msgstr "Lisää piilokopio"
 
 #: $languageStrings->'LBL_ADD_CC'
 msgid "Add Cc"
-msgstr ""
+msgstr "Lisää kopio"
 
 #: $languageStrings->'LBL_ADD_COMMENT'
 msgid "Add Comment"
-msgstr ""
+msgstr "Lisää Kommentti"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_ADD_CONDITION'
@@ -483,12 +486,12 @@ msgstr ""
 
 #: $languageStrings->'LBL_ADD_EVENT'
 msgid "Add Event"
-msgstr ""
+msgstr "Lisää Tapahtuma"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_ADD_GROUP'
 msgid "Add Group"
-msgstr ""
+msgstr "Lisää Ryhmä"
 
 #: $languageStrings->'LBL_ADD_MANAGE_MODULES'
 msgid "Add / Manage Modules"
@@ -500,19 +503,19 @@ msgstr ""
 
 #: $languageStrings->'LBL_ADD_MORE_FIELDS'
 msgid "Add more fields"
-msgstr ""
+msgstr "Lisää kenttiä"
 
 #: $languageStrings->'LBL_ADD_NEW_COMMENT'
 msgid "Add New Comment"
-msgstr ""
+msgstr "Lisää Uusi Kommentti"
 
 #: $languageStrings->'LBL_ADD_NOTE'
 msgid "Add Document"
-msgstr ""
+msgstr "Lisää Dokumentti"
 
 #: $languageStrings->'LBL_ADD_PRODUCT'
 msgid "Add Product"
-msgstr ""
+msgstr "Lisää Tuote"
 
 #: $languageStrings->'LBL_ADD_RECORD'
 msgid "Add Record"
@@ -520,7 +523,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_ADD_SERVICE'
 msgid "Add Service"
-msgstr ""
+msgstr "Lisää Palvelu"
 
 #: $languageStrings->'LBL_ADD_TASK'
 msgid "Add To Do"
@@ -546,15 +549,15 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_AFTER'
 msgid "after"
-msgstr ""
+msgstr "jälkeen"
 
 #: $languageStrings->'LBL_AGO'
 msgid "ago"
-msgstr ""
+msgstr "sitten"
 
 #: $languageStrings->'LBL_ALL'
 msgid "All"
-msgstr ""
+msgstr "Kaikki"
 
 #: $languageStrings->'LBL_ALL_CONDITIONS'
 msgid "All Conditions"
@@ -566,7 +569,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_ALL_EMAILS'
 msgid "All email accounts"
-msgstr ""
+msgstr "Kaikki sähköpostitilit"
 
 #: $languageStrings->'LBL_ALL_RECORDS'
 msgid "All Records"
@@ -583,11 +586,11 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_AND'
 msgid "and"
-msgstr ""
+msgstr "ja"
 
 #: $languageStrings->'LBL_ANNOUNCEMENT'
 msgid "Announcement"
-msgstr ""
+msgstr "Ilmoitus"
 
 #: $languageStrings->'LBL_ANY_CONDITIONS'
 msgid "Any Conditions"
@@ -599,7 +602,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_APPLBL_NONEROVE'
 msgid "Approve"
-msgstr ""
+msgstr "Hyväksy"
 
 #: $languageStrings->'LBL_Apr'
 msgid "Apr"
@@ -615,7 +618,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_ATTACHMENT'
 msgid "Attachment"
-msgstr ""
+msgstr "Liite"
 
 #: $languageStrings->'LBL_Aug'
 msgid "Aug"
@@ -627,11 +630,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_BACK'
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 #: $languageStrings->'LBL_BACK_TO_PRODUCTS'
 msgid "Back to products"
-msgstr ""
+msgstr "Takaisin tuottesiin"
 
 #: $languageStrings->'LBL_BASE_CURRENCY'
 msgid "Base Currency"
@@ -639,16 +642,16 @@ msgstr ""
 
 #: $languageStrings->'LBL_BASIC_DETAILS'
 msgid "Basic details"
-msgstr ""
+msgstr "Perustiedot"
 
 #: $languageStrings->'LBL_BCC'
 msgid "Bcc"
-msgstr ""
+msgstr "Piilokopio"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_BEFORE'
 msgid "before"
-msgstr ""
+msgstr "ennen"
 
 #: $languageStrings->'LBL_BEFORE_EVENT'
 msgid " Before Event"
@@ -657,7 +660,7 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_BETWEEN'
 msgid "between"
-msgstr ""
+msgstr "välillä"
 
 #: $languageStrings->'LBL_BILLING_ADDRESS_FROM'
 msgid "Copy Billing Address from"
@@ -665,7 +668,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_BLANK'
 msgid "-Blank-"
-msgstr ""
+msgstr "-Tyhjä-"
 
 #: $languageStrings->'LBL_BROWSE_CRM'
 msgid "Browse CRM"
@@ -677,11 +680,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_CALENDAR'
 msgid "Calendar"
-msgstr ""
+msgstr "Kalenteri"
 
 #: $languageStrings->'LBL_CALENDAR_SETTINGS'
 msgid "Calendar Settings"
-msgstr ""
+msgstr "Kalenteri asetukset"
 
 #: $languageStrings->'LBL_CANCEL'
 msgctxt "$languageStrings->'LBL_CANCEL'"
@@ -694,7 +697,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_CC'
 msgid "Cc"
-msgstr ""
+msgstr "Kopio"
 
 #: $languageStrings->'LBL_CHANGED'
 msgid "changed"
@@ -714,7 +717,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_CLEAR'
 msgid "Clear"
-msgstr ""
+msgstr "Tyhjennä"
 
 #: $languageStrings->'LBL_CLICK_ADD'
 msgid "Click add"
@@ -722,7 +725,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_CLOSE'
 msgid "Close"
-msgstr ""
+msgstr "Sulje"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_COMMENTED'
@@ -732,7 +735,7 @@ msgstr ""
 #: $languageStrings->'LBL_COMMENTS'
 msgctxt "$languageStrings->'LBL_COMMENTS'"
 msgid "Comments"
-msgstr ""
+msgstr "Kommentit"
 
 #: $languageStrings->'LBL_COMPLETED'
 msgid "completed"
@@ -740,7 +743,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_COMPOSE_EMAIL'
 msgid "Compose Email"
-msgstr ""
+msgstr "Kirjoita email"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_CONTAINS'
@@ -749,20 +752,20 @@ msgstr ""
 
 #: $languageStrings->'LBL_COPY_BILLING_ADDRESS'
 msgid "Billing Address"
-msgstr ""
+msgstr "Laskutusosoite"
 
 #: $languageStrings->'LBL_COPY_SHIPPING_ADDRESS'
 msgctxt "$languageStrings->'LBL_COPY_SHIPPING_ADDRESS'"
 msgid "Shipping Address"
-msgstr ""
+msgstr "Toimitusosoite"
 
 #: $languageStrings->'LBL_CREATE'
 msgid "Create"
-msgstr ""
+msgstr "Luo"
 
 #: $languageStrings->'LBL_CREATED'
 msgid "created"
-msgstr ""
+msgstr "luotu"
 
 #: $languageStrings->'LBL_CREATED_ON'
 msgid "Created On"
@@ -770,11 +773,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_CREATE_NEW'
 msgid "Create New"
-msgstr ""
+msgstr "Luo Uusi"
 
 #: $languageStrings->'LBL_CREATE_NEW_FILTER'
 msgid "Create New Filter"
-msgstr ""
+msgstr "Luo Uusi Suodatin"
 
 #: $languageStrings->'LBL_CREATE_VIEW'
 msgid "Creating new view"
@@ -786,11 +789,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_CRM_SETTINGS'
 msgid "CRM Settings"
-msgstr ""
+msgstr "CRM Asetukset"
 
 #: $languageStrings->'LBL_CURRENCY'
 msgid "Currency"
-msgstr ""
+msgstr "Valuutta"
 
 #: $languageStrings->'LBL_CURRENT_FQ'
 msgid "Current FQ"
@@ -802,11 +805,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_CURRENT_MONTH'
 msgid "Current Month"
-msgstr ""
+msgstr "Nykyinen Kuukausi"
 
 #: $languageStrings->'LBL_CURRENT_WEEK'
 msgid "Current Week"
-msgstr ""
+msgstr "Nykyinen Viikko"
 
 #: $languageStrings->'LBL_CUSTOM'
 msgid "Custom"
@@ -834,12 +837,12 @@ msgstr ""
 
 #: $languageStrings->'LBL_DAY'
 msgid "day"
-msgstr ""
+msgstr "päivä"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_DAYS'
 msgid "days"
-msgstr ""
+msgstr "päivää"
 
 #: $languageStrings->'LBL_Dec'
 msgid "Dec"
@@ -847,19 +850,19 @@ msgstr ""
 
 #: $languageStrings->'LBL_DEDUCT'
 msgid "Deduct"
-msgstr ""
+msgstr "Vähennä"
 
 #: $languageStrings->'LBL_DELETE'
 msgid "Delete"
-msgstr ""
+msgstr "Poista"
 
 #: $languageStrings->'LBL_DELETED'
 msgid "deleted"
-msgstr ""
+msgstr "poitettu"
 
 #: $languageStrings->'LBL_DENY'
 msgid "Deny"
-msgstr ""
+msgstr "Hylkää"
 
 #: $languageStrings->'LBL_DESCRIPTION_INFORMATION'
 msgid "Description Details"
@@ -871,7 +874,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_DETAILS'
 msgid "Details"
-msgstr ""
+msgstr "Yksityiskohdat"
 
 #: $languageStrings->'LBL_DIRECT_AMOUNT_DISCOUNT'
 msgid "Direct Amount Discount"
@@ -883,7 +886,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_DISCOUNT'
 msgid "Discount"
-msgstr ""
+msgstr "Alennus"
 
 #: $languageStrings->'LBL_DISPLAY_MEDIUMTYPE'
 msgid "Medium"
@@ -924,7 +927,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_EDIT'
 msgid "Edit"
-msgstr ""
+msgstr "Muokkaa"
 
 #: $languageStrings->'LBL_EDITING'
 msgid "Editing"
@@ -932,7 +935,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_EDIT_FIELDS'
 msgid "Edit Fields"
-msgstr ""
+msgstr "Muokkaa kenttiä"
 
 #: $languageStrings->'LBL_EDIT_MAILSCANNER'
 msgid "Mail Converter"
@@ -994,11 +997,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_FIELDS'
 msgid "Fields"
-msgstr ""
+msgstr "Kentät"
 
 #: $languageStrings->'LBL_FILTER'
 msgid "Filter"
-msgstr ""
+msgstr "Suodatin"
 
 #: $languageStrings->'LBL_FILTER_CONDITIONS'
 msgid "Filter Conditions"
@@ -1019,7 +1022,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_FOLDER_DELETED'
 msgid "Folder deleted"
-msgstr ""
+msgstr "Kansio poistettu"
 
 #: $languageStrings->'LBL_FOLDER_EXISTS'
 msgid "Folder already exists"
@@ -1027,7 +1030,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_FOLDER_SAVED'
 msgid "Folder saved"
-msgstr ""
+msgstr "Kansio talennettu"
 
 #: $languageStrings->'LBL_FOR'
 msgid "for"
@@ -1075,7 +1078,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_GO_BACK'
 msgid "Go back"
-msgstr ""
+msgstr "Takaisn"
 
 #: $languageStrings->'LBL_GO_TO_FULL_FORM'
 msgid "Go to full form"
@@ -1087,7 +1090,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_GRAND_TOTAL'
 msgid "Grand Total"
-msgstr ""
+msgstr "YHT"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_GREATER_OR_EQUAL'
@@ -1102,15 +1105,15 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_GROUP'
 msgid "Group"
-msgstr ""
+msgstr "Ryhmä"
 
 #: $languageStrings->'LBL_GROUPS'
 msgid "Groups"
-msgstr ""
+msgstr "Ryhmät"
 
 #: $languageStrings->'LBL_GROUP_TAX'
 msgid "Group Tax"
-msgstr ""
+msgstr "Yritykset"
 
 #: $languageStrings->'LBL_GUIDER'
 msgid "Guider"
@@ -1134,11 +1137,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_HOUR'
 msgid "hour"
-msgstr ""
+msgstr "tunti"
 
 #: $languageStrings->'LBL_HOURS'
 msgid "hours"
-msgstr ""
+msgstr "tuntia"
 
 #: $languageStrings->'LBL_IGNORE_EMPTY_VALUES'
 msgid "Ignore empty values"
@@ -1154,7 +1157,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_INDIVIDUAL'
 msgid "Individual"
-msgstr ""
+msgstr "Yksityinen"
 
 #: $languageStrings->'LBL_INVENTORY'
 msgid "INVENTORY"
@@ -1231,7 +1234,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_LAST_WEEK'
 msgid "Previous Week"
-msgstr ""
+msgstr "Edellinen viikko"
 
 #: $languageStrings->'LBL_LESS_THAN'
 msgid "less than"
@@ -1253,7 +1256,7 @@ msgstr ""
 #: $languageStrings->'LBL_LIST_PRICE'
 msgctxt "$languageStrings->'LBL_LIST_PRICE'"
 msgid "List Price"
-msgstr ""
+msgstr "Listahinta"
 
 #: $languageStrings->'LBL_LOADING'
 msgid "Loading"
@@ -1275,7 +1278,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_MANAGE_USERS'
 msgid "Manage Users"
-msgstr ""
+msgstr "Hallitse käyttäjiä"
 
 #: $languageStrings->'LBL_Mar'
 msgid "Mar"
@@ -1347,19 +1350,19 @@ msgstr ""
 
 #: $languageStrings->'LBL_MINUTE'
 msgid "minute"
-msgstr ""
+msgstr "minuutti"
 
 #: $languageStrings->'LBL_MINUTES'
 msgid "minutes"
-msgstr ""
+msgstr "minuuttia"
 
 #: $languageStrings->'LBL_MODIFIED'
 msgid "Modified"
-msgstr ""
+msgstr "Muokattu"
 
 #: $languageStrings->'LBL_MODIFIED_ON'
 msgid "Modified On"
-msgstr ""
+msgstr "Muokattu"
 
 #: $languageStrings->'LBL_MODULE_DISABLED'
 msgid " Module is disabled"
@@ -1375,15 +1378,15 @@ msgstr ""
 
 #: $languageStrings->'LBL_MONTH'
 msgid "month"
-msgstr ""
+msgstr "kuukausi"
 
 #: $languageStrings->'LBL_MONTHS'
 msgid "months"
-msgstr ""
+msgstr "kuukautta"
 
 #: $languageStrings->'LBL_MORE'
 msgid "More"
-msgstr ""
+msgstr "Lisää"
 
 #: $languageStrings->'LBL_MORE_CURRENCIES'
 msgid "more currencies"
@@ -1399,7 +1402,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_NET_PRICE'
 msgid "Net Price"
-msgstr ""
+msgstr "Nettohinta"
 
 #: $languageStrings->'LBL_NEXT_120_DAYS'
 msgid "Next 120 Days"
@@ -1427,21 +1430,21 @@ msgstr ""
 
 #: $languageStrings->'LBL_NEXT_MONTH'
 msgid "Next Month"
-msgstr ""
+msgstr "Ensi kuu"
 
 #: $languageStrings->'LBL_NEXT_WEEK'
 msgid "Next Week"
-msgstr ""
+msgstr "Ensi viikko"
 
 #: $languageStrings->'LBL_NO'
 msgctxt "$languageStrings->'LBL_NO'"
 msgid "No"
-msgstr ""
+msgstr "Ei"
 
 #: $languageStrings->'LBL_EQ_ZERO'
 msgctxt "$languageStrings->'LBL_EQ_ZERO'"
 msgid "No"
-msgstr ""
+msgstr "Ei"
 
 #: $languageStrings->'LBL_NONE'
 msgid "None"
@@ -1466,7 +1469,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_NOT_ACCESSIBLE'
 msgid "Access denied"
-msgstr ""
+msgstr "Pääsy estetty"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_NOT_EQUAL_TO'
@@ -1479,7 +1482,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_NO_COMMENTS'
 msgid "No comments"
-msgstr ""
+msgstr "Ei kommenteja"
 
 #: $languageStrings->'LBL_NO_DATA'
 msgid "No Data"
@@ -1544,7 +1547,7 @@ msgstr ""
 #: $languageStrings->'LBL_OF_PRICE'
 msgctxt "$languageStrings->'LBL_OF_PRICE'"
 msgid "Price"
-msgstr ""
+msgstr "Hinta"
 
 #: $languageStrings->'LBL_ON'
 msgid "on"
@@ -1552,7 +1555,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_ON_DEMAND_ADMIN'
 msgid "Add / Delete Users"
-msgstr ""
+msgstr "Lisää ja poista käyttäjiä"
 
 #: $languageStrings->'LBL_OPERATION_NOT_PERMITTED'
 msgid "Operation not permitted"
@@ -1561,15 +1564,15 @@ msgstr ""
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_OR'
 msgid "or"
-msgstr ""
+msgstr "tai"
 
 #: $languageStrings->'LBL_OWNER'
 msgid "Owner"
-msgstr ""
+msgstr "Omistaja"
 
 #: $languageStrings->'LBL_PAGE'
 msgid "Page"
-msgstr ""
+msgstr "Sivu"
 
 #: $languageStrings->'LBL_PARENT_OWNER'
 msgid "Parent Record Owner"
@@ -1581,7 +1584,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_PERMISSION_DENIED'
 msgid "Permission denied"
-msgstr ""
+msgstr "Pääsy kielletty"
 
 #: $languageStrings->'LBL_PLEASE_SELECT_MODULE'
 msgid "Please select any module to search"
@@ -1601,7 +1604,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_PRE_TAX_TOTAL'
 msgid "Pre Tax Total"
-msgstr ""
+msgstr "YHT (ilman ALV)"
 
 #: $languageStrings->'LBL_PRICING_INFORMATION'
 msgid "Pricing Information"
@@ -1663,7 +1666,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_REFRESH'
 msgid "Refresh"
-msgstr ""
+msgstr "Päivitä"
 
 #: $languageStrings->'LBL_RELATED_PRODUCTS'
 msgid "Product Details"
@@ -1683,11 +1686,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_REPLIES'
 msgid "replies"
-msgstr ""
+msgstr "vastaukset"
 
 #: $languageStrings->'LBL_REPLY'
 msgid "Reply"
-msgstr ""
+msgstr "Vastaa"
 
 #: $languageStrings->'LBL_RESTORED'
 msgid "restored"
@@ -1704,11 +1707,11 @@ msgstr ""
 #: $languageStrings->'LBL_SAVE'
 msgctxt "$languageStrings->'LBL_SAVE'"
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: $languageStrings->'LBL_SAVE_AS_DRAFT'
 msgid "Save as Draft"
-msgstr ""
+msgstr "Tallenna luonnoksena"
 
 #: $languageStrings->'LBL_SAVE_AS_FILTER'
 msgid "Save As Filter"
@@ -1716,7 +1719,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SAVE_FILTER'
 msgid "Save Filter"
-msgstr ""
+msgstr "Tallenna Suodatin"
 
 #: $languageStrings->'LBL_SAVE_MODIFY_FILTER'
 msgid "Save/Modify Filter"
@@ -1724,7 +1727,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SEARCH'
 msgid "Search"
-msgstr ""
+msgstr "Etsi"
 
 #: $languageStrings->'LBL_SEARCH_BUTTON'
 msgid "Search Button"
@@ -1744,19 +1747,19 @@ msgstr ""
 
 #: $languageStrings->'LBL_SECOND'
 msgid "second"
-msgstr ""
+msgstr "sekuntti"
 
 #: $languageStrings->'LBL_SECONDS'
 msgid "seconds"
-msgstr ""
+msgstr "sekunttia"
 
 #: $languageStrings->'LBL_SELECT'
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 #: $languageStrings->'LBL_SELECT_ALL'
 msgid "Select all"
-msgstr ""
+msgstr "Valitse kaikki"
 
 #: $languageStrings->'LBL_SELECT_EMAIL_IDS'
 msgid "Select Email Addresses"
@@ -1792,7 +1795,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SEND'
 msgid "Send"
-msgstr ""
+msgstr "Lähetä"
 
 #: $languageStrings->'LBL_SEND_EMAIL'
 msgid "Send Email"
@@ -1808,7 +1811,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SETTINGS'
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 #. Duplicated key-value pairs
 #: $languageStrings->'LBL_SETUP_WEBFORMS'
@@ -1854,7 +1857,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SIGN_OUT'
 msgid "Sign Out"
-msgstr ""
+msgstr "Kirjaudu ulos"
 
 #: $languageStrings->'LBL_SIMPLE_FORM'
 msgid "Simple Form"
@@ -1888,7 +1891,7 @@ msgstr ""
 
 #: $languageStrings->'LBL_SUMMARY'
 msgid "Summary"
-msgstr ""
+msgstr "Yhteenveto"
 
 #: $languageStrings->'LBL_SUMMARY_DETAILS'
 msgid "Summary Details"
@@ -1913,7 +1916,7 @@ msgstr ""
 #: $languageStrings->'LBL_TAX'
 msgctxt "$languageStrings->'LBL_TAX'"
 msgid "Tax"
-msgstr ""
+msgstr "Vero"
 
 #: $languageStrings->'LBL_TAX_FOR_SHIPPING_AND_HANDLING'
 msgid "Taxes For Shipping and Handling"
@@ -1942,11 +1945,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_TODAY'
 msgid "Today"
-msgstr ""
+msgstr "Tänään"
 
 #: $languageStrings->'LBL_TOMORROW'
 msgid "Tomorrow"
-msgstr ""
+msgstr "Huomenna"
 
 #: $languageStrings->'LBL_TOOLS'
 msgid "Tools"
@@ -1963,11 +1966,11 @@ msgstr ""
 #: $languageStrings->'LBL_TOTAL'
 msgctxt "$languageStrings->'LBL_TOTAL'"
 msgid "Total"
-msgstr ""
+msgstr "YHT"
 
 #: $languageStrings->'LBL_TOTAL_AFTER_DISCOUNT'
 msgid "Total After Discount"
-msgstr ""
+msgstr "Yhteensä alennusten jälkeen"
 
 #: $languageStrings->'LBL_TOTAL_TAX_AMOUNT'
 msgid "Total Tax Amount"
@@ -1996,12 +1999,12 @@ msgstr ""
 #: $languageStrings->'LBL_USER'
 msgctxt "$languageStrings->'LBL_USER'"
 msgid "User"
-msgstr ""
+msgstr "Käyttäjä"
 
 #: $languageStrings->'LBL_USERS'
 msgctxt "$languageStrings->'LBL_USERS'"
 msgid "Users"
-msgstr ""
+msgstr "Käyttäjät"
 
 #: $languageStrings->'LBL_USER_SETTINGS'
 msgid "User Settings"
@@ -2037,20 +2040,20 @@ msgstr ""
 
 #: $languageStrings->'LBL_YEAR'
 msgid "year"
-msgstr ""
+msgstr "vuosi"
 
 #: $languageStrings->'LBL_YEARS'
 msgid "years"
-msgstr ""
+msgstr "vuotta"
 
 #: $languageStrings->'LBL_YES'
 msgctxt "$languageStrings->'LBL_YES'"
 msgid "Yes"
-msgstr ""
+msgstr "Kyllä"
 
 #: $languageStrings->'LBL_YESTERDAY'
 msgid "Yesterday"
-msgstr ""
+msgstr "Eilen"
 
 #: $languageStrings->'LBL_ZERO_DISCOUNT'
 msgid "Zero Discount"
@@ -2078,7 +2081,7 @@ msgstr ""
 
 #: $languageStrings->'Leads'
 msgid "Leads"
-msgstr ""
+msgstr "Vihjeet"
 
 #: %24languageStrings-%3E%27List+and+Campaigns%27
 msgid "List and Campaigns"
@@ -2087,7 +2090,7 @@ msgstr ""
 #: %24languageStrings-%3E%27List+Price%27
 msgctxt "$languageStrings->'List Price'"
 msgid "List Price"
-msgstr ""
+msgstr "Listahinta"
 
 #: $languageStrings->'Low'
 msgid "Low"
@@ -2120,20 +2123,20 @@ msgstr ""
 
 #: $languageStrings->'Mobile'
 msgid "Mobile Phone"
-msgstr ""
+msgstr "Matkapuhelin"
 
 #: $languageStrings->'ModComments'
 msgctxt "$languageStrings->'ModComments'"
 msgid "Comments"
-msgstr ""
+msgstr "Kommentit"
 
 #: %24languageStrings-%3E%27Modified+Time%27
 msgid "Modified Time"
-msgstr ""
+msgstr "Muokkausaika"
 
 #: %24languageStrings-%3E%27Net+Total%27
 msgid "Net Total"
-msgstr ""
+msgstr "Nettohinta"
 
 #: %24languageStrings-%3E%27Not+For+Profit%27
 msgid "Not For Profit"
@@ -2195,7 +2198,7 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Phone%3A+%27
 msgid "Phone: "
-msgstr ""
+msgstr "Puhelin: "
 
 #: %24languageStrings-%3E%27Pipelined+Amount%27
 msgid "Sales Pipeline"
@@ -2203,11 +2206,11 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Po+Box%27
 msgid "PO Box"
-msgstr ""
+msgstr "Postilokero"
 
 #: %24languageStrings-%3E%27Postal+Code%27
 msgid "Postal Code"
-msgstr ""
+msgstr "Postinumero"
 
 #: %24languageStrings-%3E%27Potential+Name%27
 msgid "Opportunity Name"
@@ -2228,11 +2231,11 @@ msgstr ""
 #: $languageStrings->'Price'
 msgctxt "$languageStrings->'Price'"
 msgid "Price"
-msgstr ""
+msgstr "Hinta"
 
 #: $languageStrings->'PriceBooks'
 msgid "Price Books"
-msgstr ""
+msgstr "Hinnastot"
 
 #: $languageStrings->'Priority'
 msgid "Priority"
@@ -2244,15 +2247,15 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Product+Code%27
 msgid "Product Code"
-msgstr ""
+msgstr "Tuotekoodi"
 
 #: %24languageStrings-%3E%27Product+Name%27
 msgid "Product Name"
-msgstr ""
+msgstr "Tuotenimike"
 
 #: $languageStrings->'Products'
 msgid "Products"
-msgstr ""
+msgstr "Tuotteet"
 
 #: %24languageStrings-%3E%27Project+Cancelled%27
 msgid "Project Cancelled"
@@ -2271,7 +2274,7 @@ msgstr ""
 #: $languageStrings->'Project'
 msgctxt "$languageStrings->'Project'"
 msgid "Projects"
-msgstr ""
+msgstr "Projektit"
 
 #: $languageStrings->'ProjectMilestone'
 msgctxt "$languageStrings->'ProjectMilestone'"
@@ -2281,7 +2284,7 @@ msgstr ""
 #: $languageStrings->'Projects'
 msgctxt "$languageStrings->'Projects'"
 msgid "Projects"
-msgstr ""
+msgstr "Projektit"
 
 #: $languageStrings->'ProjectTask'
 msgctxt "$languageStrings->'ProjectTask'"
@@ -2294,7 +2297,7 @@ msgstr ""
 
 #: $languageStrings->'Public'
 msgid "Public"
-msgstr ""
+msgstr "Julkinen"
 
 #: %24languageStrings-%3E%27Purchase+Order%27
 msgctxt "$languageStrings->'Purchase Order'"
@@ -2313,7 +2316,7 @@ msgstr ""
 
 #: $languageStrings->'Quotes'
 msgid "Quotes"
-msgstr ""
+msgstr "Tarjoukset"
 
 #: $languageStrings->'Rating'
 msgid "Rating"
@@ -2389,7 +2392,7 @@ msgstr ""
 
 #: $languageStrings->'Services'
 msgid "Services"
-msgstr ""
+msgstr "Palvelut"
 
 #: %24languageStrings-%3E%27Shipping+%26+Handling+Charges%27
 msgctxt "$languageStrings->'Shipping & Handling Charges'"
@@ -2404,22 +2407,22 @@ msgstr ""
 #: %24languageStrings-%3E%27Shipping+Address%27
 msgctxt "$languageStrings->'Shipping Address'"
 msgid "Shipping Address"
-msgstr ""
+msgstr "Toimitusosoite"
 
 #. Duplicated key-value pairs
 #: %24languageStrings-%3E%27Shipping+City%27
 msgid "Shipping City"
-msgstr ""
+msgstr "Kaupunki"
 
 #. Duplicated key-value pairs
 #: %24languageStrings-%3E%27Shipping+Code%27
 msgid "Shipping Postal Code"
-msgstr ""
+msgstr "Postinumero"
 
 #. Duplicated key-value pairs
 #: %24languageStrings-%3E%27Shipping+Country%27
 msgid "Shipping Country"
-msgstr ""
+msgstr "Maa"
 
 #. Duplicated key-value pairs
 #: %24languageStrings-%3E%27Shipping+Po+Box%27
@@ -2458,7 +2461,7 @@ msgstr ""
 #: $languageStrings->'Single_Users'
 msgctxt "$languageStrings->'Single_Users'"
 msgid "User"
-msgstr ""
+msgstr "Käyttäjä"
 
 #: $languageStrings->'State'
 msgid "State"
@@ -2466,7 +2469,7 @@ msgstr ""
 
 #: $languageStrings->'Status'
 msgid "Status"
-msgstr ""
+msgstr "Tila"
 
 #: $languageStrings->'Street'
 msgid "Street"
@@ -2474,7 +2477,7 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Sub+Total%27
 msgid "Sub Total"
-msgstr ""
+msgstr "Välisumma"
 
 #: $languageStrings->'Subject'
 msgctxt "$languageStrings->'Subject'"
@@ -2491,12 +2494,12 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Tax+Type%27
 msgid "Tax Type"
-msgstr ""
+msgstr "Verotyyppi"
 
 #: $languageStrings->'Tax'
 msgctxt "$languageStrings->'Tax'"
 msgid "Tax"
-msgstr ""
+msgstr "Vero"
 
 #: $languageStrings->'Tax1'
 msgid "Tax1"
@@ -2512,7 +2515,7 @@ msgstr ""
 
 #: $languageStrings->'Tax:'
 msgid "Tax:"
-msgstr ""
+msgstr "Vero: "
 
 #: $languageStrings->'Technology'
 msgid "Technology"
@@ -2542,7 +2545,7 @@ msgstr ""
 #: $languageStrings->'Total'
 msgctxt "$languageStrings->'Total'"
 msgid "Total"
-msgstr ""
+msgstr "Yhteensä"
 
 #: %24languageStrings-%3E%27Trade+Show%27
 msgid "Trade Show"
@@ -2554,7 +2557,7 @@ msgstr ""
 
 #: $languageStrings->'Type'
 msgid "Type"
-msgstr ""
+msgstr "Tyyppi"
 
 #: %24languageStrings-%3E%27Upcoming+Activities%27
 msgid "Upcoming Activities"
@@ -2590,11 +2593,11 @@ msgstr ""
 
 #: %24languageStrings-%3E%27Web+Site%27
 msgid "Web Site"
-msgstr ""
+msgstr "Verkkosivut"
 
 #: %24languageStrings-%3E%27Website%3A+%27
 msgid "Website: "
-msgstr ""
+msgstr "Verkkosivut: "
 
 #: %24languageStrings-%3E%27Word+of+mouth%27
 msgid "Word of mouth"
@@ -2618,11 +2621,11 @@ msgstr ""
 
 #: $languageStrings->'LBL_USERNAME'
 msgid " Username"
-msgstr ""
+msgstr "Käyttäjänimi"
 
 #: $languageStrings->'LBL_PASSWORD'
 msgid "Password"
-msgstr ""
+msgstr "Salasana"
 
 #: $languageStrings->'LBL_SUBJECT_PORTAL_LOGIN_DETAILS'
 msgid "Portal Login Details"
@@ -2632,7 +2635,7 @@ msgstr ""
 #: $languageStrings->'Users'
 msgctxt "$languageStrings->'Users'"
 msgid "Users"
-msgstr ""
+msgstr "Käyttäjät"
 
 #: %24languageStrings-%3E%27Service+Requests%27
 msgid "Service Requests"
@@ -2739,7 +2742,7 @@ msgstr ""
 
 #: $jsLanguageStrings->'JS_ERROR'
 msgid "Error"
-msgstr ""
+msgstr "Virhe"
 
 #: $jsLanguageStrings->'JS_FAILED_TO_SAVE'
 msgid "Failed to save changes on server"
@@ -2792,7 +2795,7 @@ msgstr ""
 #: $jsLanguageStrings->'JS_LBL_CANCEL'
 msgctxt "$jsLanguageStrings->'JS_LBL_CANCEL'"
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #: $jsLanguageStrings->'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY'
 msgid "Comment value cannot be empty"
@@ -2800,12 +2803,12 @@ msgstr ""
 
 #: $jsLanguageStrings->'JS_LBL_PERMISSION'
 msgid "Permissions"
-msgstr ""
+msgstr "Oikeudet"
 
 #: $jsLanguageStrings->'JS_LBL_SAVE'
 msgctxt "$jsLanguageStrings->'JS_LBL_SAVE'"
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: $jsLanguageStrings->'JS_MAP_MANDATORY_FIELDS'
 msgid "Please map mandatory fields"
@@ -2838,7 +2841,7 @@ msgstr ""
 
 #: $jsLanguageStrings->'JS_MINUTES'
 msgid "mins"
-msgstr ""
+msgstr "min"
 
 #: $jsLanguageStrings->'JS_MODULE_DISABLED'
 msgid "Module Disabled"
@@ -2984,7 +2987,7 @@ msgstr ""
 
 #: $jsLanguageStrings->'JS_POSTPONE'
 msgid "Postpone"
-msgstr ""
+msgstr "Lykkää"
 
 #: $jsLanguageStrings->'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS'
 msgid "Primary email field does not exist to enable portal user"
@@ -3155,12 +3158,12 @@ msgstr ""
 #: $jsLanguageStrings->'LBL_NO'
 msgctxt "$jsLanguageStrings->'LBL_NO'"
 msgid "No"
-msgstr ""
+msgstr "Ei"
 
 #: $jsLanguageStrings->'LBL_YES'
 msgctxt "$jsLanguageStrings->'LBL_YES'"
 msgid "Yes"
-msgstr ""
+msgstr "Kyllä"
 
 #: $jsLanguageStrings->'NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT'
 msgid "None of the field values are changed in Mass Edit"
@@ -3185,12 +3188,12 @@ msgstr ""
 #: $jsLanguageStrings->'SINGLE_Accounts'
 msgctxt "$jsLanguageStrings->'SINGLE_Accounts'"
 msgid "Organization"
-msgstr ""
+msgstr "Yritys"
 
 #: $jsLanguageStrings->'SINGLE_Contacts'
 msgctxt "$jsLanguageStrings->'SINGLE_Contacts'"
 msgid "Contact"
-msgstr ""
+msgstr "Yhteyshenkilö"
 
 #. //Promotion translations
 #: $jsLanguageStrings->'JS_HIDE_PROMOTION'
